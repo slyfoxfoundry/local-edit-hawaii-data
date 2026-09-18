@@ -8,7 +8,12 @@
       "date": "2026-09-18T10:00:00-10:00",
       "email": "office@merrimanshawaii.com",
       "id": 1001,
-      "images": [{"id":"merrimans-waimea-hero","url":"https://images.getbento.com/accounts/6db51802be5a34030975528e8f6cea1a/media/images/WaimeaEntrance2025.jpeg?auto=compress%2Cformat&cs=origin&fit=max&h=1000&w=1000"}],
+      "images": [
+        {
+          "id": "merrimans-waimea-hero",
+          "url": "https://images.getbento.com/accounts/6db51802be5a34030975528e8f6cea1a/media/images/WaimeaEntrance2025.jpeg?auto=compress%2Cformat&cs=origin&fit=max&h=1000&w=1000"
+        }
+      ],
       "largeThumbnail": "https://images.getbento.com/accounts/6db51802be5a34030975528e8f6cea1a/media/images/WaimeaEntrance2025.jpeg?auto=compress%2Cformat&cs=origin&fit=max&h=1000&w=1000",
       "latitude": "20.0230144",
       "longitude": "-155.6765983",
@@ -33,7 +38,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waimea</strong></p><p>A relaxed Waimea brewpub pairing house-brewed craft beer with locally sourced, from-scratch food.</p><p><strong>Hours</strong><br>Daily 11:00 AM–9:00 PM</p><p><strong>64-1066 Mamalahoa Hwy, Waimea, HI 96743</strong><br>(808) 887-1717</p></div>",
       "date": "2026-09-18T11:54:00-10:00",
       "id": 1002,
-      "images": [],
+      "images": [
+        {
+          "id": "big-island-brewhaus-hero",
+          "url": "https://images.squarespace-cdn.com/content/v1/61ecabde58235b048d5f911f/0775c3ca-beff-40a6-8d58-948ed36f0fa3/IMG_3848.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -52,7 +62,14 @@
       "eatDrink": true,
       "shop": false,
       "thingsToDo": false,
-      "makers": true
+      "makers": true,
+      "heroImage": "https://images.squarespace-cdn.com/content/v1/61ecabde58235b048d5f911f/0775c3ca-beff-40a6-8d58-948ed36f0fa3/IMG_3848.jpg",
+      "largeThumbnail": "https://images.squarespace-cdn.com/content/v1/61ecabde58235b048d5f911f/0775c3ca-beff-40a6-8d58-948ed36f0fa3/IMG_3848.jpg",
+      "originalThumbnail": "https://images.squarespace-cdn.com/content/v1/61ecabde58235b048d5f911f/0775c3ca-beff-40a6-8d58-948ed36f0fa3/IMG_3848.jpg",
+      "smallThumbnail": "https://images.squarespace-cdn.com/content/v1/61ecabde58235b048d5f911f/0775c3ca-beff-40a6-8d58-948ed36f0fa3/IMG_3848.jpg",
+      "thumbnail": "https://images.squarespace-cdn.com/content/v1/61ecabde58235b048d5f911f/0775c3ca-beff-40a6-8d58-948ed36f0fa3/IMG_3848.jpg",
+      "imageSourceUrl": "https://www.beer-trip.com/takeabeertrip/big-island-brewhaus-waimea-hi",
+      "imageRights": "Needs review"
     }
   ],
   "next_page": null,
