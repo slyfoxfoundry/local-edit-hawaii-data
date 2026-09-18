@@ -8,12 +8,7 @@
       "date": "2026-09-18T10:00:00-10:00",
       "email": "office@merrimanshawaii.com",
       "id": 1001,
-      "images": [
-        {
-          "id": "merrimans-waimea-hero",
-          "url": "https://images.getbento.com/accounts/6db51802be5a34030975528e8f6cea1a/media/images/WaimeaEntrance2025.jpeg?auto=compress%2Cformat&cs=origin&fit=max&h=1000&w=1000"
-        }
-      ],
+      "images": [{"id":"merrimans-waimea-hero","url":"https://images.getbento.com/accounts/6db51802be5a34030975528e8f6cea1a/media/images/WaimeaEntrance2025.jpeg?auto=compress%2Cformat&cs=origin&fit=max&h=1000&w=1000"}],
       "largeThumbnail": "https://images.getbento.com/accounts/6db51802be5a34030975528e8f6cea1a/media/images/WaimeaEntrance2025.jpeg?auto=compress%2Cformat&cs=origin&fit=max&h=1000&w=1000",
       "latitude": "20.0230144",
       "longitude": "-155.6765983",
@@ -30,6 +25,34 @@
       "website": "https://www.merrimanshawaii.com/location/big-island/",
       "bookingUrl": "https://www.opentable.com/restaurant/profile/52798",
       "bookingProvider": "OpenTable"
+    },
+    {
+      "address": "64-1066 Mamalahoa Hwy, Waimea, HI 96743",
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waimea</strong></p><p>A relaxed Waimea brewpub pairing house-brewed craft beer with locally sourced, from-scratch food.</p><p><strong>Hours</strong><br>Daily 11:00 AM–9:00 PM</p><p><strong>64-1066 Mamalahoa Hwy, Waimea, HI 96743</strong><br>(808) 887-1717</p></div>",
+      "date": "2026-09-18T11:54:00-10:00",
+      "id": 1002,
+      "images": [],
+      "latitude": "",
+      "longitude": "",
+      "nbcomments": 0,
+      "phoneNumber": "(808) 887-1717",
+      "subtype": "custom",
+      "summary": "A relaxed Waimea brewpub pairing house-brewed craft beer with locally sourced, from-scratch food.",
+      "title": "Big Island Brewhaus",
+      "type": "maps",
+      "url": "https://bigislandbrewhaus.com/",
+      "website": "https://bigislandbrewhaus.com/",
+      "category": "Eat + Drink",
+      "subcategory": "Brewpub / Restaurant",
+      "town": "Waimea",
+      "hours": "Daily · 11:00 AM–9:00 PM",
+      "whyItsHere": "A locally rooted Waimea gathering place combining house-brewed craft beer, scratch-made food, and live music.",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": true
     }
   ],
   "next_page": null,
