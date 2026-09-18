@@ -41,7 +41,7 @@
       "images": [
         {
           "id": "big-island-brewhaus-hero",
-          "url": "https://images.squarespace-cdn.com/content/v1/61ecabde58235b048d5f911f/0775c3ca-beff-40a6-8d58-948ed36f0fa3/IMG_3848.jpg"
+          "url": "https://bigislandbrewhaus.com/wp-content/uploads/2023/09/just-cans-2.png"
         }
       ],
       "latitude": "",
@@ -63,12 +63,12 @@
       "shop": false,
       "thingsToDo": false,
       "makers": true,
-      "heroImage": "https://images.squarespace-cdn.com/content/v1/61ecabde58235b048d5f911f/0775c3ca-beff-40a6-8d58-948ed36f0fa3/IMG_3848.jpg",
-      "largeThumbnail": "https://images.squarespace-cdn.com/content/v1/61ecabde58235b048d5f911f/0775c3ca-beff-40a6-8d58-948ed36f0fa3/IMG_3848.jpg",
-      "originalThumbnail": "https://images.squarespace-cdn.com/content/v1/61ecabde58235b048d5f911f/0775c3ca-beff-40a6-8d58-948ed36f0fa3/IMG_3848.jpg",
-      "smallThumbnail": "https://images.squarespace-cdn.com/content/v1/61ecabde58235b048d5f911f/0775c3ca-beff-40a6-8d58-948ed36f0fa3/IMG_3848.jpg",
-      "thumbnail": "https://images.squarespace-cdn.com/content/v1/61ecabde58235b048d5f911f/0775c3ca-beff-40a6-8d58-948ed36f0fa3/IMG_3848.jpg",
-      "imageSourceUrl": "https://www.beer-trip.com/takeabeertrip/big-island-brewhaus-waimea-hi",
+      "heroImage": "https://bigislandbrewhaus.com/wp-content/uploads/2023/09/just-cans-2.png",
+      "largeThumbnail": "https://bigislandbrewhaus.com/wp-content/uploads/2023/09/just-cans-2.png",
+      "originalThumbnail": "https://bigislandbrewhaus.com/wp-content/uploads/2023/09/just-cans-2.png",
+      "smallThumbnail": "https://bigislandbrewhaus.com/wp-content/uploads/2023/09/just-cans-2.png",
+      "thumbnail": "https://bigislandbrewhaus.com/wp-content/uploads/2023/09/just-cans-2.png",
+      "imageSourceUrl": "https://bigislandbrewhaus.com/",
       "imageRights": "Needs review"
     }
   ],
