@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "address": "65-1227 Opelo Road, Waimea, HI 96743",
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "content": "<div class=\"texte\"><p>Farm-to-table Hawaiʻi Regional Cuisine in Waimea, featuring locally focused ingredients and island flavors.</p></div>",
+      "date": "2026-09-18T10:00:00-10:00",
+      "email": "",
+      "id": 1001,
+      "images": [],
+      "latitude": "20.0230144",
+      "longitude": "-155.6765983",
+      "nbcomments": 0,
+      "phoneNumber": "(808) 885-6822",
+      "subtype": "custom",
+      "summary": "Farm-to-table Hawaiʻi Regional Cuisine in Waimea, featuring locally focused ingredients and island flavors.",
+      "title": "Merriman's Big Island",
+      "type": "maps",
+      "url": "https://www.merrimanshawaii.com/location/big-island/",
+      "website": "https://www.merrimanshawaii.com/location/big-island/"
+    }
+  ],
+  "next_page": null,
+  "stat": "ok"
+}
