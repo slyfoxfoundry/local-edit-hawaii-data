@@ -29,7 +29,8 @@
       "url": "https://www.merrimanshawaii.com/location/big-island/",
       "website": "https://www.merrimanshawaii.com/location/big-island/",
       "bookingUrl": "https://www.opentable.com/restaurant/profile/52798",
-      "bookingProvider": "OpenTable"
+      "bookingProvider": "OpenTable",
+      "featured": true
     },
     {
       "address": "64-1066 Mamalahoa Hwy, Waimea, HI 96743",
@@ -69,7 +70,8 @@
       "smallThumbnail": "https://bigislandbrewhaus.com/wp-content/uploads/2023/09/just-cans-2.png",
       "thumbnail": "https://bigislandbrewhaus.com/wp-content/uploads/2023/09/just-cans-2.png",
       "imageSourceUrl": "https://bigislandbrewhaus.com/",
-      "imageRights": "Needs review"
+      "imageRights": "Needs review",
+      "featured": false
     }
   ],
   "next_page": null,
