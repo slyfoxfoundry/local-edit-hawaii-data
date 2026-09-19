@@ -276,6 +276,804 @@
       },
       "hoursLastVerified": "2026-09-19",
       "listingPlan": "basic"
+    },
+    {
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "nbcomments": 0,
+      "subtype": "custom",
+      "type": "maps",
+      "category": "Eat + Drink",
+      "island": "Big Island",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "featured": false,
+      "listingPlan": "basic",
+      "latitude": "",
+      "longitude": "",
+      "images": [],
+      "imageRights": "Needs review",
+      "hoursLastVerified": "2026-09-19",
+      "id": 1004,
+      "title": "Cafe 100",
+      "town": "Hilo",
+      "subcategory": "Local Hawaiian / Plate Lunch",
+      "placeType": "Local Hawaiian / Plate Lunch",
+      "address": "969 Kilauea Avenue, Hilo, HI 96720",
+      "phoneNumber": "(808) 935-8683",
+      "website": "https://www.hilocafe100.com/",
+      "url": "https://www.hilocafe100.com/",
+      "summary": "A historic Hilo institution serving local comfort food and its famous loco moco since 1946.",
+      "hours": "Mon–Thu · 7:00 AM–2:00 PM · Sun 10:00 AM–3:00 PM · Fri–Sat closed",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [
+          {
+            "open": "07:00",
+            "close": "14:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "07:00",
+            "close": "14:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "07:00",
+            "close": "14:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "07:00",
+            "close": "14:00"
+          }
+        ],
+        "friday": [],
+        "saturday": [],
+        "sunday": [
+          {
+            "open": "10:00",
+            "close": "15:00"
+          }
+        ]
+      },
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>969 Kilauea Avenue, Hilo, HI 96720</strong><br>(808) 935-8683</p></div>"
+    },
+    {
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "nbcomments": 0,
+      "subtype": "custom",
+      "type": "maps",
+      "category": "Eat + Drink",
+      "island": "Big Island",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "featured": false,
+      "listingPlan": "basic",
+      "latitude": "",
+      "longitude": "",
+      "images": [],
+      "imageRights": "Needs review",
+      "hoursLastVerified": "2026-09-19",
+      "id": 1005,
+      "title": "Hilo Bay Cafe",
+      "town": "Hilo",
+      "subcategory": "Contemporary / Pacific Rim",
+      "placeType": "Restaurant",
+      "address": "123 Lihiwai Street, Hilo, HI 96720",
+      "phoneNumber": "(808) 935-4939",
+      "website": "https://hilobaycafe.com/",
+      "url": "https://hilobaycafe.com/",
+      "summary": "Contemporary Hilo Bay dining with fresh local ingredients, sushi, cocktails, and waterfront views.",
+      "hours": "Tue–Sat · 11:00 AM–2:30 PM and 5:00–8:30 PM · Sun–Mon closed",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [],
+        "tuesday": [
+          {
+            "open": "11:00",
+            "close": "14:30"
+          },
+          {
+            "open": "17:00",
+            "close": "20:30"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "11:00",
+            "close": "14:30"
+          },
+          {
+            "open": "17:00",
+            "close": "20:30"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "11:00",
+            "close": "14:30"
+          },
+          {
+            "open": "17:00",
+            "close": "20:30"
+          }
+        ],
+        "friday": [
+          {
+            "open": "11:00",
+            "close": "14:30"
+          },
+          {
+            "open": "17:00",
+            "close": "20:30"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "11:00",
+            "close": "14:30"
+          },
+          {
+            "open": "17:00",
+            "close": "20:30"
+          }
+        ],
+        "sunday": []
+      },
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>123 Lihiwai Street, Hilo, HI 96720</strong><br>(808) 935-4939</p></div>"
+    },
+    {
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "nbcomments": 0,
+      "subtype": "custom",
+      "type": "maps",
+      "category": "Eat + Drink",
+      "island": "Big Island",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "featured": false,
+      "listingPlan": "basic",
+      "latitude": "",
+      "longitude": "",
+      "images": [],
+      "imageRights": "Needs review",
+      "hoursLastVerified": "2026-09-19",
+      "id": 1006,
+      "title": "Ken's House of Pancakes",
+      "town": "Hilo",
+      "subcategory": "Diner / Breakfast",
+      "placeType": "Diner / Breakfast",
+      "address": "1730 Kamehameha Avenue, Hilo, HI 96720",
+      "phoneNumber": "(808) 935-8711",
+      "website": "https://www.kenshouseofpancakes.com/",
+      "url": "https://www.kenshouseofpancakes.com/",
+      "summary": "A longtime Hilo landmark serving pancakes, local-style breakfasts, saimin, loco moco, lunch, and dinner.",
+      "hours": "Daily · 6:00 AM–9:00 PM",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [
+          {
+            "open": "06:00",
+            "close": "21:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "06:00",
+            "close": "21:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "06:00",
+            "close": "21:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "06:00",
+            "close": "21:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "06:00",
+            "close": "21:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "06:00",
+            "close": "21:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "06:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>1730 Kamehameha Avenue, Hilo, HI 96720</strong><br>(808) 935-8711</p></div>"
+    },
+    {
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "nbcomments": 0,
+      "subtype": "custom",
+      "type": "maps",
+      "category": "Eat + Drink",
+      "island": "Big Island",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "featured": false,
+      "listingPlan": "basic",
+      "latitude": "",
+      "longitude": "",
+      "images": [],
+      "imageRights": "Needs review",
+      "hoursLastVerified": "2026-09-19",
+      "id": 1007,
+      "title": "Hawaiian Style Cafe Hilo",
+      "town": "Hilo",
+      "subcategory": "Local Hawaiian / Breakfast",
+      "placeType": "Local Hawaiian / Breakfast",
+      "address": "681 Manono Street, Hilo, HI 96720",
+      "phoneNumber": "(808) 969-9265",
+      "website": "https://hawaiianstylecafehilo.com/",
+      "url": "https://hawaiianstylecafehilo.com/",
+      "summary": "A Hilo landmark known for generous Hawaiian comfort-food portions, breakfast favorites, and local plates.",
+      "hours": "Sun 7:00 AM–2:00 PM · Mon 8:00 AM–2:00 PM · Tue–Thu 8:00 AM–2:00 PM & 5:00–8:30 PM · Fri–Sat 7:00 AM–2:00 PM & 5:00–9:00 PM",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [
+          {
+            "open": "08:00",
+            "close": "14:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "08:00",
+            "close": "14:00"
+          },
+          {
+            "open": "17:00",
+            "close": "20:30"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "08:00",
+            "close": "14:00"
+          },
+          {
+            "open": "17:00",
+            "close": "20:30"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "08:00",
+            "close": "14:00"
+          },
+          {
+            "open": "17:00",
+            "close": "20:30"
+          }
+        ],
+        "friday": [
+          {
+            "open": "07:00",
+            "close": "14:00"
+          },
+          {
+            "open": "17:00",
+            "close": "21:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "07:00",
+            "close": "14:00"
+          },
+          {
+            "open": "17:00",
+            "close": "21:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "07:00",
+            "close": "14:00"
+          }
+        ]
+      },
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>681 Manono Street, Hilo, HI 96720</strong><br>(808) 969-9265</p></div>"
+    },
+    {
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "nbcomments": 0,
+      "subtype": "custom",
+      "type": "maps",
+      "category": "Eat + Drink",
+      "island": "Big Island",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "featured": false,
+      "listingPlan": "basic",
+      "latitude": "",
+      "longitude": "",
+      "images": [],
+      "imageRights": "Needs review",
+      "hoursLastVerified": "2026-09-19",
+      "id": 1008,
+      "title": "Jackie Rey's Ohana Grill Hilo",
+      "town": "Hilo",
+      "subcategory": "Seafood / Island Grill",
+      "placeType": "Seafood / Island Grill",
+      "address": "64 Keawe Street, Hilo, HI 96720",
+      "phoneNumber": "(808) 961-2572",
+      "website": "https://www.jackiereyshilo.com/",
+      "url": "https://www.jackiereyshilo.com/",
+      "summary": "Fresh island seafood, steaks, cocktails, and local ingredients in a historic downtown Hilo building.",
+      "hours": "Mon–Fri lunch from 11:30 AM · Happy hour daily 3:00–5:00 PM · Dinner daily 4:00–8:30 PM",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [
+          {
+            "open": "11:30",
+            "close": "20:30"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "11:30",
+            "close": "20:30"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "11:30",
+            "close": "20:30"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "11:30",
+            "close": "20:30"
+          }
+        ],
+        "friday": [
+          {
+            "open": "11:30",
+            "close": "20:30"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "15:00",
+            "close": "20:30"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "15:00",
+            "close": "20:30"
+          }
+        ]
+      },
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>64 Keawe Street, Hilo, HI 96720</strong><br>(808) 961-2572</p></div>"
+    },
+    {
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "nbcomments": 0,
+      "subtype": "custom",
+      "type": "maps",
+      "category": "Eat + Drink",
+      "island": "Big Island",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "featured": false,
+      "listingPlan": "basic",
+      "latitude": "",
+      "longitude": "",
+      "images": [],
+      "imageRights": "Needs review",
+      "hoursLastVerified": "2026-09-19",
+      "id": 1009,
+      "title": "The Fish and The Hog",
+      "town": "Waimea",
+      "subcategory": "BBQ / Seafood",
+      "placeType": "BBQ / Seafood",
+      "address": "64-957 Mamalahoa Highway, Waimea, HI 96743",
+      "phoneNumber": "(808) 885-6268",
+      "website": "https://www.fishandthehog.com/",
+      "url": "https://www.fishandthehog.com/",
+      "summary": "A full-service Waimea restaurant pairing scratch-made barbecue and seafood with homemade desserts and cocktails.",
+      "hours": "Thu–Mon · 11:30 AM–8:30 PM · Tue–Wed closed",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [
+          {
+            "open": "11:30",
+            "close": "20:30"
+          }
+        ],
+        "tuesday": [],
+        "wednesday": [],
+        "thursday": [
+          {
+            "open": "11:30",
+            "close": "20:30"
+          }
+        ],
+        "friday": [
+          {
+            "open": "11:30",
+            "close": "20:30"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "11:30",
+            "close": "20:30"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "11:30",
+            "close": "20:30"
+          }
+        ]
+      },
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waimea</strong></p><p><strong>64-957 Mamalahoa Highway, Waimea, HI 96743</strong><br>(808) 885-6268</p></div>"
+    },
+    {
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "nbcomments": 0,
+      "subtype": "custom",
+      "type": "maps",
+      "category": "Eat + Drink",
+      "island": "Big Island",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "featured": false,
+      "listingPlan": "basic",
+      "latitude": "",
+      "longitude": "",
+      "images": [],
+      "imageRights": "Needs review",
+      "hoursLastVerified": "2026-09-19",
+      "id": 1010,
+      "title": "Teshima Restaurant",
+      "town": "Kealakekua",
+      "subcategory": "Japanese / Local",
+      "placeType": "Japanese / Local",
+      "address": "79-7251 Mamalahoa Highway, Kealakekua, HI 96750",
+      "phoneNumber": "(808) 322-9140",
+      "website": "https://www.teshimarestaurant.com/",
+      "url": "https://www.teshimarestaurant.com/",
+      "summary": "A multigenerational Kona institution serving Japanese and local comfort food since 1929.",
+      "hours": "Daily · 7:00 AM–2:00 PM and 5:00–9:00 PM",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [
+          {
+            "open": "07:00",
+            "close": "14:00"
+          },
+          {
+            "open": "17:00",
+            "close": "21:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "07:00",
+            "close": "14:00"
+          },
+          {
+            "open": "17:00",
+            "close": "21:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "07:00",
+            "close": "14:00"
+          },
+          {
+            "open": "17:00",
+            "close": "21:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "07:00",
+            "close": "14:00"
+          },
+          {
+            "open": "17:00",
+            "close": "21:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "07:00",
+            "close": "14:00"
+          },
+          {
+            "open": "17:00",
+            "close": "21:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "07:00",
+            "close": "14:00"
+          },
+          {
+            "open": "17:00",
+            "close": "21:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "07:00",
+            "close": "14:00"
+          },
+          {
+            "open": "17:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kealakekua</strong></p><p><strong>79-7251 Mamalahoa Highway, Kealakekua, HI 96750</strong><br>(808) 322-9140</p></div>"
+    },
+    {
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "nbcomments": 0,
+      "subtype": "custom",
+      "type": "maps",
+      "category": "Eat + Drink",
+      "island": "Big Island",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "featured": false,
+      "listingPlan": "basic",
+      "latitude": "",
+      "longitude": "",
+      "images": [],
+      "imageRights": "Needs review",
+      "hoursLastVerified": "2026-09-19",
+      "id": 1011,
+      "title": "Da Poke Shack",
+      "town": "Kailua-Kona",
+      "subcategory": "Poke / Seafood",
+      "placeType": "Poke / Seafood",
+      "address": "76-6246 Aliʻi Drive, Suite 101, Kailua-Kona, HI 96740",
+      "phoneNumber": "(808) 329-7653",
+      "website": "https://dapokeshack.com/",
+      "url": "https://dapokeshack.com/",
+      "summary": "A well-established Kona poke shop focused on fresh fish, poke bowls, sashimi, and Hawaiian plates.",
+      "hours": "Mon 10:30 AM–4:00 PM · Tue–Fri 10:00 AM–4:00 PM or until sold out · Sat–Sun closed",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [
+          {
+            "open": "10:30",
+            "close": "16:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "10:00",
+            "close": "16:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "10:00",
+            "close": "16:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "10:00",
+            "close": "16:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "10:00",
+            "close": "16:00"
+          }
+        ],
+        "saturday": [],
+        "sunday": []
+      },
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>76-6246 Aliʻi Drive, Suite 101, Kailua-Kona, HI 96740</strong><br>(808) 329-7653</p></div>"
+    },
+    {
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "nbcomments": 0,
+      "subtype": "custom",
+      "type": "maps",
+      "category": "Eat + Drink",
+      "island": "Big Island",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "featured": false,
+      "listingPlan": "basic",
+      "latitude": "",
+      "longitude": "",
+      "images": [],
+      "imageRights": "Needs review",
+      "hoursLastVerified": "2026-09-19",
+      "id": 1012,
+      "title": "Kona Brewing Hawaiʻi — Kona Pub",
+      "town": "Kailua-Kona",
+      "subcategory": "Brewpub / Restaurant",
+      "placeType": "Brewpub / Restaurant",
+      "address": "74-5612 Pawai Place, Kailua-Kona, HI 96740",
+      "phoneNumber": "",
+      "website": "https://konabrewinghawaii.com/locations/kona-pub",
+      "url": "https://konabrewinghawaii.com/locations/kona-pub",
+      "summary": "Kona Brewing's original pub, with a full kitchen, outdoor lānai, locally influenced food, and house-brewed beer.",
+      "hours": "Daily · 11:00 AM–9:00 PM",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>74-5612 Pawai Place, Kailua-Kona, HI 96740</strong></p></div>"
+    },
+    {
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "nbcomments": 0,
+      "subtype": "custom",
+      "type": "maps",
+      "category": "Eat + Drink",
+      "island": "Big Island",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "featured": false,
+      "listingPlan": "basic",
+      "latitude": "",
+      "longitude": "",
+      "images": [],
+      "imageRights": "Needs review",
+      "hoursLastVerified": "2026-09-19",
+      "id": 1013,
+      "title": "Tex Drive In",
+      "town": "Honokaʻa",
+      "subcategory": "Local Hawaiian / Bakery",
+      "placeType": "Local Hawaiian / Bakery",
+      "address": "45-690 Pakalana Street, Honokaʻa, HI 96727",
+      "phoneNumber": "(808) 775-0598",
+      "website": "https://texdrivein-hawaii.com/",
+      "url": "https://texdrivein-hawaii.com/",
+      "summary": "A longtime Hāmākua Coast stop serving local food and house-made malasadas since 1969.",
+      "hours": "Daily · 6:00 AM–6:00 PM",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [
+          {
+            "open": "06:00",
+            "close": "18:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "06:00",
+            "close": "18:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "06:00",
+            "close": "18:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "06:00",
+            "close": "18:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "06:00",
+            "close": "18:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "06:00",
+            "close": "18:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "06:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Honokaʻa</strong></p><p><strong>45-690 Pakalana Street, Honokaʻa, HI 96727</strong><br>(808) 775-0598</p></div>"
     }
   ],
   "next_page": null,
