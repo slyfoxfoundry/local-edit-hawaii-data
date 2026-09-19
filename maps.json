@@ -2564,6 +2564,708 @@
         ]
       },
       "hoursLastVerified": "2026-09-19"
+    },
+    {
+      "address": "41 Waianuenue Ave, Hilo, HI 96720",
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>41 Waianuenue Ave, Hilo, HI 96720</strong><br>(808) 961-5915</p></div>",
+      "date": "2026-09-19T08:30:00-10:00",
+      "id": 1036,
+      "images": [],
+      "latitude": "",
+      "longitude": "",
+      "nbcomments": 0,
+      "phoneNumber": "(808) 961-5915",
+      "subtype": "custom",
+      "summary": "Chef-driven downtown Hilo poke shop serving fresh poke bowls, sushi-inspired specialties, and poke by the pound.",
+      "title": "Poke Market",
+      "type": "maps",
+      "url": "https://www.pokemarkethilo.com/",
+      "website": "https://www.pokemarkethilo.com/",
+      "category": "Eat + Drink",
+      "subcategory": "Poke / Sushi",
+      "placeType": "Poke / Sushi",
+      "island": "Big Island",
+      "town": "Hilo",
+      "hours": "Mon–Sat · 10:00 AM–3:00 PM · Sun closed",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "heroImage": "",
+      "imageSourceUrl": "",
+      "imageRights": "Needs review",
+      "featured": false,
+      "listingPlan": "basic",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [
+          {
+            "open": "10:00",
+            "close": "15:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "10:00",
+            "close": "15:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "10:00",
+            "close": "15:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "10:00",
+            "close": "15:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "10:00",
+            "close": "15:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "10:00",
+            "close": "15:00"
+          }
+        ],
+        "sunday": []
+      },
+      "hoursLastVerified": "2026-09-19"
+    },
+    {
+      "address": "76 Kalanianaole St, Hilo, HI 96720",
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>76 Kalanianaole St, Hilo, HI 96720</strong><br>(808) 968-6228</p></div>",
+      "date": "2026-09-19T08:30:00-10:00",
+      "id": 1037,
+      "images": [],
+      "latitude": "",
+      "longitude": "",
+      "nbcomments": 0,
+      "phoneNumber": "(808) 968-6228",
+      "subtype": "custom",
+      "summary": "Hilo specialty coffee café and working roastery showcasing Hawaiʻi-grown coffees, espresso drinks, and pour-overs.",
+      "title": "Big Island Coffee Roasters",
+      "type": "maps",
+      "url": "https://bigislandcoffeeroasters.com/",
+      "website": "https://bigislandcoffeeroasters.com/",
+      "category": "Eat + Drink",
+      "subcategory": "Coffee Shop / Roastery",
+      "placeType": "Coffee Shop / Roastery",
+      "island": "Big Island",
+      "town": "Hilo",
+      "hours": "Daily · 6:30 AM–5:00 PM",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "heroImage": "",
+      "imageSourceUrl": "",
+      "imageRights": "Needs review",
+      "featured": false,
+      "listingPlan": "basic",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [
+          {
+            "open": "06:30",
+            "close": "17:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "06:30",
+            "close": "17:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "06:30",
+            "close": "17:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "06:30",
+            "close": "17:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "06:30",
+            "close": "17:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "06:30",
+            "close": "17:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "06:30",
+            "close": "17:00"
+          }
+        ]
+      },
+      "hoursLastVerified": "2026-09-19"
+    },
+    {
+      "address": "250 Keawe St, Hilo, HI 96720",
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>250 Keawe St, Hilo, HI 96720</strong><br>(808) 498-4048</p></div>",
+      "date": "2026-09-19T08:30:00-10:00",
+      "id": 1038,
+      "images": [],
+      "latitude": "",
+      "longitude": "",
+      "nbcomments": 0,
+      "phoneNumber": "(808) 498-4048",
+      "subtype": "custom",
+      "summary": "Downtown Hilo specialty roastery and tasting room focused on Hawaiʻi-grown and rare coffees.",
+      "title": "Paradise Coffee Roasters",
+      "type": "maps",
+      "url": "https://paradiseroasters.com/pages/hawaii-roastery-tasting-room",
+      "website": "https://paradiseroasters.com/pages/hawaii-roastery-tasting-room",
+      "category": "Eat + Drink",
+      "subcategory": "Coffee Roastery / Tasting Room",
+      "placeType": "Coffee Roastery / Tasting Room",
+      "island": "Big Island",
+      "town": "Hilo",
+      "hours": "Limited weekly tasting-room hours; check current schedule",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "heroImage": "",
+      "imageSourceUrl": "",
+      "imageRights": "Needs review",
+      "featured": false,
+      "listingPlan": "basic",
+      "hoursStructured": null,
+      "hoursLastVerified": "2026-09-19"
+    },
+    {
+      "address": "57 Mamo St, Hilo, HI 96720",
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>57 Mamo St, Hilo, HI 96720</strong><br>(808) 731-4166</p></div>",
+      "date": "2026-09-19T08:30:00-10:00",
+      "id": 1039,
+      "images": [],
+      "latitude": "",
+      "longitude": "",
+      "nbcomments": 0,
+      "phoneNumber": "(808) 731-4166",
+      "subtype": "custom",
+      "summary": "Downtown Hilo shave ice shop using fresh fruit syrups and serving desserts, coffee, and açaí bowls.",
+      "title": "Kula Shave Ice",
+      "type": "maps",
+      "url": "",
+      "website": "",
+      "category": "Eat + Drink",
+      "subcategory": "Shave Ice / Dessert",
+      "placeType": "Shave Ice / Dessert",
+      "island": "Big Island",
+      "town": "Hilo",
+      "hours": "Daily · 9:00 AM–6:00 PM",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "heroImage": "",
+      "imageSourceUrl": "",
+      "imageRights": "Needs review",
+      "featured": false,
+      "listingPlan": "basic",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "09:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "hoursLastVerified": "2026-09-19"
+    },
+    {
+      "address": "1177 Kilauea Ave, Hilo, HI 96720",
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>1177 Kilauea Ave, Hilo, HI 96720</strong><br>(808) 731-0917</p></div>",
+      "date": "2026-09-19T08:30:00-10:00",
+      "id": 1040,
+      "images": [],
+      "latitude": "",
+      "longitude": "",
+      "nbcomments": 0,
+      "phoneNumber": "(808) 731-0917",
+      "subtype": "custom",
+      "summary": "Hilo taproom and restaurant serving Ola craft beer, hard juices, cocktails, and a full food menu.",
+      "title": "Ola Brew — Hilo",
+      "type": "maps",
+      "url": "https://www.olabrewco.com/hilotaproom",
+      "website": "https://www.olabrewco.com/hilotaproom",
+      "category": "Eat + Drink",
+      "subcategory": "Brewpub / Restaurant",
+      "placeType": "Brewpub / Restaurant",
+      "island": "Big Island",
+      "town": "Hilo",
+      "hours": "Mon–Thu 11:00 AM–10:00 PM · Fri–Sat 11:00 AM–11:00 PM · Sun 10:00 AM–8:00 PM",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "heroImage": "",
+      "imageSourceUrl": "",
+      "imageRights": "Needs review",
+      "featured": false,
+      "listingPlan": "basic",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [
+          {
+            "open": "11:00",
+            "close": "22:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "11:00",
+            "close": "22:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "11:00",
+            "close": "22:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "11:00",
+            "close": "22:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "11:00",
+            "close": "23:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "11:00",
+            "close": "23:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "10:00",
+            "close": "20:00"
+          }
+        ]
+      },
+      "hoursLastVerified": "2026-09-19"
+    },
+    {
+      "address": "83-5799 Mamalahoa Hwy, Captain Cook, HI 96704",
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Captain Cook</strong></p><p><strong>83-5799 Mamalahoa Hwy, Captain Cook, HI 96704</strong><br>(808) 328-9555</p></div>",
+      "date": "2026-09-19T08:30:00-10:00",
+      "id": 1041,
+      "images": [],
+      "latitude": "",
+      "longitude": "",
+      "nbcomments": 0,
+      "phoneNumber": "(808) 328-9555",
+      "subtype": "custom",
+      "summary": "Long-running South Kona café serving breakfast, lunch, baked goods, and Kona coffee from a scenic hillside lānai.",
+      "title": "The Coffee Shack",
+      "type": "maps",
+      "url": "https://www.coffeeshack.com/",
+      "website": "https://www.coffeeshack.com/",
+      "category": "Eat + Drink",
+      "subcategory": "Cafe / Breakfast & Lunch",
+      "placeType": "Cafe / Breakfast & Lunch",
+      "island": "Big Island",
+      "town": "Captain Cook",
+      "hours": "Daily · 7:00 AM–3:30 PM",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "heroImage": "",
+      "imageSourceUrl": "",
+      "imageRights": "Needs review",
+      "featured": false,
+      "listingPlan": "basic",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [
+          {
+            "open": "07:00",
+            "close": "15:30"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "07:00",
+            "close": "15:30"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "07:00",
+            "close": "15:30"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "07:00",
+            "close": "15:30"
+          }
+        ],
+        "friday": [
+          {
+            "open": "07:00",
+            "close": "15:30"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "07:00",
+            "close": "15:30"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "07:00",
+            "close": "15:30"
+          }
+        ]
+      },
+      "hoursLastVerified": "2026-09-19"
+    },
+    {
+      "address": "74-5588 Palani Rd, Kailua-Kona, HI 96740",
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>74-5588 Palani Rd, Kailua-Kona, HI 96740</strong><br>(888) 873-2035</p></div>",
+      "date": "2026-09-19T08:30:00-10:00",
+      "id": 1042,
+      "images": [],
+      "latitude": "",
+      "longitude": "",
+      "nbcomments": 0,
+      "phoneNumber": "(888) 873-2035",
+      "subtype": "custom",
+      "summary": "Established Kailua-Kona café serving estate-grown 100% Kona coffee, tea, pastries, and light food.",
+      "title": "Kona Coffee & Tea",
+      "type": "maps",
+      "url": "https://www.konacoffeeandtea.com/pages/ourcafe",
+      "website": "https://www.konacoffeeandtea.com/pages/ourcafe",
+      "category": "Eat + Drink",
+      "subcategory": "Coffee Shop / Cafe",
+      "placeType": "Coffee Shop / Cafe",
+      "island": "Big Island",
+      "town": "Kailua-Kona",
+      "hours": "Daily · 6:00 AM–6:00 PM",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "heroImage": "",
+      "imageSourceUrl": "",
+      "imageRights": "Needs review",
+      "featured": false,
+      "listingPlan": "basic",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [
+          {
+            "open": "06:00",
+            "close": "18:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "06:00",
+            "close": "18:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "06:00",
+            "close": "18:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "06:00",
+            "close": "18:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "06:00",
+            "close": "18:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "06:00",
+            "close": "18:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "06:00",
+            "close": "18:00"
+          }
+        ]
+      },
+      "hoursLastVerified": "2026-09-19"
+    },
+    {
+      "address": "75-5805 Aliʻi Dr, Kailua-Kona, HI 96740",
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>75-5805 Aliʻi Dr, Kailua-Kona, HI 96740</strong><br>(808) 731-7636</p></div>",
+      "date": "2026-09-19T08:30:00-10:00",
+      "id": 1043,
+      "images": [],
+      "latitude": "",
+      "longitude": "",
+      "nbcomments": 0,
+      "phoneNumber": "(808) 731-7636",
+      "subtype": "custom",
+      "summary": "Family-owned open-air Kona coffee café serving locally sourced coffee drinks, breakfast items, and desserts.",
+      "title": "Kona Heaven Coffee",
+      "type": "maps",
+      "url": "https://www.konaheaven.coffee/",
+      "website": "https://www.konaheaven.coffee/",
+      "category": "Eat + Drink",
+      "subcategory": "Coffee Shop / Cafe",
+      "placeType": "Coffee Shop / Cafe",
+      "island": "Big Island",
+      "town": "Kailua-Kona",
+      "hours": "Daily · 6:30 AM–6:00 PM",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "heroImage": "",
+      "imageSourceUrl": "",
+      "imageRights": "Needs review",
+      "featured": false,
+      "listingPlan": "basic",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [
+          {
+            "open": "06:30",
+            "close": "18:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "open": "06:30",
+            "close": "18:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "06:30",
+            "close": "18:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "06:30",
+            "close": "18:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "06:30",
+            "close": "18:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "06:30",
+            "close": "18:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "06:30",
+            "close": "18:00"
+          }
+        ]
+      },
+      "hoursLastVerified": "2026-09-19"
+    },
+    {
+      "address": "69-250 Waikōloa Beach Dr, Waikoloa, HI 96738",
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waikoloa</strong></p><p><strong>69-250 Waikōloa Beach Dr, Waikoloa, HI 96738</strong><br>(808) 895-6069</p></div>",
+      "date": "2026-09-19T08:30:00-10:00",
+      "id": 1044,
+      "images": [],
+      "latitude": "",
+      "longitude": "",
+      "nbcomments": 0,
+      "phoneNumber": "(808) 895-6069",
+      "subtype": "custom",
+      "summary": "Established Waikoloa shave ice shop serving island-inspired flavors and specialty desserts.",
+      "title": "Original Big Island Shave Ice Co.",
+      "type": "maps",
+      "url": "",
+      "website": "",
+      "category": "Eat + Drink",
+      "subcategory": "Shave Ice / Dessert",
+      "placeType": "Shave Ice / Dessert",
+      "island": "Big Island",
+      "town": "Waikoloa",
+      "hours": "Tue–Sun · 11:30 AM–6:30 PM · Mon closed",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "heroImage": "",
+      "imageSourceUrl": "",
+      "imageRights": "Needs review",
+      "featured": false,
+      "listingPlan": "basic",
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [],
+        "tuesday": [
+          {
+            "open": "11:30",
+            "close": "18:30"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "11:30",
+            "close": "18:30"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "11:30",
+            "close": "18:30"
+          }
+        ],
+        "friday": [
+          {
+            "open": "11:30",
+            "close": "18:30"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "11:30",
+            "close": "18:30"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "11:30",
+            "close": "18:30"
+          }
+        ]
+      },
+      "hoursLastVerified": "2026-09-19"
+    },
+    {
+      "address": "69-1081 Kuʻualiʻi Pl, Waikoloa, HI 96738",
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waikoloa</strong></p><p><strong>69-1081 Kuʻualiʻi Pl, Waikoloa, HI 96738</strong><br>(808) 769-5282</p></div>",
+      "date": "2026-09-19T08:30:00-10:00",
+      "id": 1045,
+      "images": [],
+      "latitude": "",
+      "longitude": "",
+      "nbcomments": 0,
+      "phoneNumber": "(808) 769-5282",
+      "subtype": "custom",
+      "summary": "Established beachfront Waikoloa restaurant and bar serving lunch, dinner, cocktails, and live entertainment.",
+      "title": "Lava Lava Beach Club",
+      "type": "maps",
+      "url": "https://lavalavabeachclub.com/bigisland/",
+      "website": "https://lavalavabeachclub.com/bigisland/",
+      "category": "Eat + Drink",
+      "subcategory": "Beachfront Restaurant / Bar",
+      "placeType": "Beachfront Restaurant / Bar",
+      "island": "Big Island",
+      "town": "Waikoloa",
+      "hours": "Daily · approximately 11:00/11:30 AM–9:00 PM",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "heroImage": "",
+      "imageSourceUrl": "",
+      "imageRights": "Needs review",
+      "featured": false,
+      "listingPlan": "basic",
+      "hoursStructured": null,
+      "hoursLastVerified": "2026-09-19"
     }
   ],
   "next_page": null,
