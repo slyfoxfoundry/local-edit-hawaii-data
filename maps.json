@@ -146,7 +146,7 @@
       "thumbnail": "https://bigislandbrewhaus.com/wp-content/uploads/2023/09/just-cans-2.png",
       "imageSourceUrl": "https://bigislandbrewhaus.com/",
       "imageRights": "Needs review",
-      "featured": false,
+      "featured": true,
       "placeType": "Brewpub / Restaurant",
       "hoursStructured": {
         "timezone": "Pacific/Honolulu",
@@ -194,6 +194,85 @@
         ]
       },
       "hoursLastVerified": "2026-09-18"
+    },
+    {
+      "address": "332 Keawe Street, Hilo, HI 96720",
+      "author": "Local Edit Hawaiʻi",
+      "commentsEnabled": false,
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p>Island-inspired, locally sourced food in an open-air downtown Hilo restaurant.</p><p><strong>Hours</strong><br>Tuesday–Sunday 11:00 AM–9:00 PM<br>Monday closed</p><p><strong>332 Keawe Street, Hilo, HI 96720</strong><br>(808) 238-5324</p></div>",
+      "date": "2026-09-19T07:30:00-10:00",
+      "id": 1003,
+      "images": [
+        {
+          "id": "pineapples-hilo-hero",
+          "url": "https://static.wixstatic.com/media/93d561_6d863d9ccdfd4635beffa56dd98838d6~mv2.jpg/v1/fill/w_324%2Ch_432%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/93d561_6d863d9ccdfd4635beffa56dd98838d6~mv2.jpg"
+        }
+      ],
+      "latitude": "",
+      "longitude": "",
+      "nbcomments": 0,
+      "phoneNumber": "(808) 238-5324",
+      "subtype": "custom",
+      "summary": "Island-inspired, locally sourced food in an open-air downtown Hilo restaurant.",
+      "title": "Pineapples Island Fresh Cuisine",
+      "type": "maps",
+      "url": "https://www.pineappleshilo.net/",
+      "website": "https://www.pineappleshilo.net/",
+      "category": "Eat + Drink",
+      "subcategory": "Restaurant",
+      "placeType": "Restaurant",
+      "island": "Big Island",
+      "town": "Hilo",
+      "hours": "Tuesday–Sunday · 11:00 AM–9:00 PM · Monday closed",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "heroImage": "https://static.wixstatic.com/media/93d561_6d863d9ccdfd4635beffa56dd98838d6~mv2.jpg/v1/fill/w_324%2Ch_432%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/93d561_6d863d9ccdfd4635beffa56dd98838d6~mv2.jpg",
+      "imageSourceUrl": "https://www.pineappleshilo.net/",
+      "imageRights": "Needs review",
+      "featured": false,
+      "hoursStructured": {
+        "timezone": "Pacific/Honolulu",
+        "monday": [],
+        "tuesday": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "thursday": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "friday": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "saturday": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ],
+        "sunday": [
+          {
+            "open": "11:00",
+            "close": "21:00"
+          }
+        ]
+      },
+      "hoursLastVerified": "2026-09-19"
     }
   ],
   "next_page": null,
