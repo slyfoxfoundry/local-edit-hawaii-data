@@ -30,7 +30,7 @@
       "website": "https://www.merrimanshawaii.com/location/big-island/",
       "bookingUrl": "https://www.opentable.com/restaurant/profile/52798",
       "bookingProvider": "OpenTable",
-      "featured": true,
+      "featured": false,
       "placeType": "Restaurant",
       "hoursStructured": {
         "timezone": "Pacific/Honolulu",
@@ -105,7 +105,8 @@
           }
         ]
       },
-      "hoursLastVerified": "2026-09-18"
+      "hoursLastVerified": "2026-09-18",
+      "listingPlan": "enhanced"
     },
     {
       "address": "64-1066 Mamalahoa Hwy, Waimea, HI 96743",
@@ -193,7 +194,8 @@
           }
         ]
       },
-      "hoursLastVerified": "2026-09-18"
+      "hoursLastVerified": "2026-09-18",
+      "listingPlan": "featured"
     },
     {
       "address": "332 Keawe Street, Hilo, HI 96720",
@@ -272,7 +274,8 @@
           }
         ]
       },
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "listingPlan": "basic"
     }
   ],
   "next_page": null,
