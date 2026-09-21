@@ -294,8 +294,13 @@
       "listingPlan": "basic",
       "latitude": "",
       "longitude": "",
-      "images": [],
-      "imageRights": "Needs review",
+      "images": [
+        {
+          "id": "cafe-100-hilo-hero",
+          "url": "https://images.squarespace-cdn.com/content/v1/69e6ae2cb5af1d37f351df30/1776725552289-1MADBPJ15K7CHFHLEV9K/Cafe%2B100%2BAerial.jpg"
+        }
+      ],
+      "imageRights": "Official business website",
       "hoursLastVerified": "2026-09-19",
       "id": 1004,
       "title": "Cafe 100",
@@ -343,7 +348,9 @@
           }
         ]
       },
-      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>969 Kilauea Avenue, Hilo, HI 96720</strong><br>(808) 935-8683</p></div>"
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>969 Kilauea Avenue, Hilo, HI 96720</strong><br>(808) 935-8683</p></div>",
+      "heroImage": "https://images.squarespace-cdn.com/content/v1/69e6ae2cb5af1d37f351df30/1776725552289-1MADBPJ15K7CHFHLEV9K/Cafe%2B100%2BAerial.jpg",
+      "imageSourceUrl": "https://www.hilocafe100.com/"
     },
     {
       "author": "Local Edit Hawaiʻi",
@@ -361,8 +368,13 @@
       "listingPlan": "basic",
       "latitude": "",
       "longitude": "",
-      "images": [],
-      "imageRights": "Needs review",
+      "images": [
+        {
+          "id": "hilo-bay-cafe-hero",
+          "url": "https://hilobaycafe.com/wp-content/uploads/2018/12/Hilo-Bay-Cafe-Gallery-High-Res-018-600x900.jpg"
+        }
+      ],
+      "imageRights": "Official business website",
       "hoursLastVerified": "2026-09-19",
       "id": 1005,
       "title": "Hilo Bay Cafe",
@@ -430,7 +442,9 @@
         ],
         "sunday": []
       },
-      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>123 Lihiwai Street, Hilo, HI 96720</strong><br>(808) 935-4939</p></div>"
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>123 Lihiwai Street, Hilo, HI 96720</strong><br>(808) 935-4939</p></div>",
+      "heroImage": "https://hilobaycafe.com/wp-content/uploads/2018/12/Hilo-Bay-Cafe-Gallery-High-Res-018-600x900.jpg",
+      "imageSourceUrl": "https://hilobaycafe.com/"
     },
     {
       "author": "Local Edit Hawaiʻi",
@@ -525,8 +539,13 @@
       "listingPlan": "basic",
       "latitude": "",
       "longitude": "",
-      "images": [],
-      "imageRights": "Needs review",
+      "images": [
+        {
+          "id": "hawaiian-style-cafe-hilo-hero",
+          "url": "https://hawaiianstylecafehilo.com/wp-content/uploads/2025/04/Haupia-pancakes.jpeg"
+        }
+      ],
+      "imageRights": "Official business website",
       "hoursLastVerified": "2026-09-19",
       "id": 1007,
       "title": "Hawaiian Style Cafe Hilo",
@@ -604,7 +623,9 @@
           }
         ]
       },
-      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>681 Manono Street, Hilo, HI 96720</strong><br>(808) 969-9265</p></div>"
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>681 Manono Street, Hilo, HI 96720</strong><br>(808) 969-9265</p></div>",
+      "heroImage": "https://hawaiianstylecafehilo.com/wp-content/uploads/2025/04/Haupia-pancakes.jpeg",
+      "imageSourceUrl": "https://hawaiianstylecafehilo.com/"
     },
     {
       "author": "Local Edit Hawaiʻi",
@@ -622,8 +643,13 @@
       "listingPlan": "basic",
       "latitude": "",
       "longitude": "",
-      "images": [],
-      "imageRights": "Needs review",
+      "images": [
+        {
+          "id": "jackie-reys-hilo-hero",
+          "url": "https://images.squarespace-cdn.com/content/v1/6391705c4891e14ec5c8e546/6edb196e-048e-4c4f-87fa-edfe173e5878/0X6A8507.JPG"
+        }
+      ],
+      "imageRights": "Official business website",
       "hoursLastVerified": "2026-09-19",
       "id": 1008,
       "title": "Jackie Rey's Ohana Grill Hilo",
@@ -681,7 +707,9 @@
           }
         ]
       },
-      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>64 Keawe Street, Hilo, HI 96720</strong><br>(808) 961-2572</p></div>"
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>64 Keawe Street, Hilo, HI 96720</strong><br>(808) 961-2572</p></div>",
+      "heroImage": "https://images.squarespace-cdn.com/content/v1/6391705c4891e14ec5c8e546/6edb196e-048e-4c4f-87fa-edfe173e5878/0X6A8507.JPG",
+      "imageSourceUrl": "https://www.jackiereyshilo.com/"
     },
     {
       "author": "Local Edit Hawaiʻi",
@@ -699,8 +727,13 @@
       "listingPlan": "basic",
       "latitude": "",
       "longitude": "",
-      "images": [],
-      "imageRights": "Needs review",
+      "images": [
+        {
+          "id": "fish-and-hog-waimea-hero",
+          "url": "https://images.squarespace-cdn.com/content/v1/5b60d3554cde7ad1923b8156/1534740983370-Y3VX89PQBSOCQE78OG4Y/IMG_0302.jpg"
+        }
+      ],
+      "imageRights": "Official business website",
       "hoursLastVerified": "2026-09-19",
       "id": 1009,
       "title": "The Fish and The Hog",
@@ -748,7 +781,9 @@
           }
         ]
       },
-      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waimea</strong></p><p><strong>64-957 Mamalahoa Highway, Waimea, HI 96743</strong><br>(808) 885-6268</p></div>"
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waimea</strong></p><p><strong>64-957 Mamalahoa Highway, Waimea, HI 96743</strong><br>(808) 885-6268</p></div>",
+      "heroImage": "https://images.squarespace-cdn.com/content/v1/5b60d3554cde7ad1923b8156/1534740983370-Y3VX89PQBSOCQE78OG4Y/IMG_0302.jpg",
+      "imageSourceUrl": "https://www.fishandthehog.com/"
     },
     {
       "author": "Local Edit Hawaiʻi",
@@ -766,8 +801,13 @@
       "listingPlan": "basic",
       "latitude": "",
       "longitude": "",
-      "images": [],
-      "imageRights": "Needs review",
+      "images": [
+        {
+          "id": "teshima-restaurant-hero",
+          "url": "https://images.squarespace-cdn.com/content/v1/5e936a087ea60c2cd92f715c/1586828054728-AKGQL91NYVB9QZZPCOFP/teshimasoutside.png"
+        }
+      ],
+      "imageRights": "Official business website",
       "hoursLastVerified": "2026-09-19",
       "id": 1010,
       "title": "Teshima Restaurant",
@@ -853,7 +893,9 @@
           }
         ]
       },
-      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kealakekua</strong></p><p><strong>79-7251 Mamalahoa Highway, Kealakekua, HI 96750</strong><br>(808) 322-9140</p></div>"
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kealakekua</strong></p><p><strong>79-7251 Mamalahoa Highway, Kealakekua, HI 96750</strong><br>(808) 322-9140</p></div>",
+      "heroImage": "https://images.squarespace-cdn.com/content/v1/5e936a087ea60c2cd92f715c/1586828054728-AKGQL91NYVB9QZZPCOFP/teshimasoutside.png",
+      "imageSourceUrl": "https://www.teshimarestaurant.com/"
     },
     {
       "author": "Local Edit Hawaiʻi",
@@ -938,8 +980,13 @@
       "listingPlan": "basic",
       "latitude": "",
       "longitude": "",
-      "images": [],
-      "imageRights": "Needs review",
+      "images": [
+        {
+          "id": "kona-brewing-kona-pub-hero",
+          "url": "https://konabrewinghawaii.com/assets/images/locations/Kona-Pub/kona-pub-large-party.webp"
+        }
+      ],
+      "imageRights": "Official business website",
       "hoursLastVerified": "2026-09-19",
       "id": 1012,
       "title": "Kona Brewing Hawaiʻi — Kona Pub",
@@ -997,7 +1044,9 @@
           }
         ]
       },
-      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>74-5612 Pawai Place, Kailua-Kona, HI 96740</strong></p></div>"
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>74-5612 Pawai Place, Kailua-Kona, HI 96740</strong></p></div>",
+      "heroImage": "https://konabrewinghawaii.com/assets/images/locations/Kona-Pub/kona-pub-large-party.webp",
+      "imageSourceUrl": "https://konabrewinghawaii.com/locations/kona-pub"
     },
     {
       "author": "Local Edit Hawaiʻi",
@@ -1015,8 +1064,13 @@
       "listingPlan": "basic",
       "latitude": "",
       "longitude": "",
-      "images": [],
-      "imageRights": "Needs review",
+      "images": [
+        {
+          "id": "tex-drive-in-hero",
+          "url": "https://texdrivein-hawaii.com/images/tacosalad350.jpg"
+        }
+      ],
+      "imageRights": "Official business website",
       "hoursLastVerified": "2026-09-19",
       "id": 1013,
       "title": "Tex Drive In",
@@ -1074,7 +1128,9 @@
           }
         ]
       },
-      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Honokaʻa</strong></p><p><strong>45-690 Pakalana Street, Honokaʻa, HI 96727</strong><br>(808) 775-0598</p></div>"
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Honokaʻa</strong></p><p><strong>45-690 Pakalana Street, Honokaʻa, HI 96727</strong><br>(808) 775-0598</p></div>",
+      "heroImage": "https://texdrivein-hawaii.com/images/tacosalad350.jpg",
+      "imageSourceUrl": "https://texdrivein-hawaii.com/"
     },
     {
       "address": "93 Lihiwai St, Hilo, HI 96720",
@@ -1259,7 +1315,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>308 Kamehameha Ave #101, Hilo, HI 96720</strong><br>(808) 969-6640</p></div>",
       "date": "2026-09-19T12:00:00-10:00",
       "id": 1017,
-      "images": [],
+      "images": [
+        {
+          "id": "cafe-pesto-hilo-bay-hero",
+          "url": "https://images.squarespace-cdn.com/content/v1/5cdc61bc34c4e2639795a5b1/1558573531253-7UM8O3EN8YS79VEVSGKW/IMG_0908.JPG"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -1280,9 +1341,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://images.squarespace-cdn.com/content/v1/5cdc61bc34c4e2639795a5b1/1558573531253-7UM8O3EN8YS79VEVSGKW/IMG_0908.JPG",
+      "imageSourceUrl": "https://www.cafepesto.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -1636,7 +1697,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kawaihae</strong></p><p><strong>61-3642 Kawaihae Rd, Waimea, HI 96743</strong><br>(808) 657-4700</p></div>",
       "date": "2026-09-19T12:00:00-10:00",
       "id": 1023,
-      "images": [],
+      "images": [
+        {
+          "id": "ciprianos-kitchen-hero",
+          "url": "https://static.wixstatic.com/media/ccc8b495b75f4371baf01f985ed1970c.jpg/v1/fill/w_597,h_396,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Italian%20Meal.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -1657,9 +1723,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.wixstatic.com/media/ccc8b495b75f4371baf01f985ed1970c.jpg/v1/fill/w_597,h_396,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Italian%20Meal.jpg",
+      "imageSourceUrl": "https://www.ciprianoskitchenhawaii.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
@@ -1672,7 +1738,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>74-5599 Pawai Pl, Kailua-Kona, HI 96740</strong><br>(808) 238-0571</p></div>",
       "date": "2026-09-19T12:00:00-10:00",
       "id": 1024,
-      "images": [],
+      "images": [
+        {
+          "id": "umekes-kona-hero",
+          "url": "https://umekes.com/images/slider/drink.png"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -1693,9 +1764,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://umekes.com/images/slider/drink.png",
+      "imageSourceUrl": "https://umekes.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
