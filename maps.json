@@ -2227,7 +2227,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Pāhoa</strong></p><p><strong>15-2969 Pahoa Village Rd, Pāhoa, HI 96778</strong><br>(808) 965-5600</p></div>",
       "date": "2026-09-19T12:00:00-10:00",
       "id": 1029,
-      "images": [],
+      "images": [
+        {
+          "id": "kaleo-s-bar-grill-hero",
+          "url": "https://images.squarespace-cdn.com/content/v1/5a3da88880bd5e68c75f1778/1598986503548-9760KVYZ3BI5FJS37NWR/Coconut-Crusted-Fish.jpeg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -2248,9 +2253,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://images.squarespace-cdn.com/content/v1/5a3da88880bd5e68c75f1778/1598986503548-9760KVYZ3BI5FJS37NWR/Coconut-Crusted-Fish.jpeg",
+      "imageSourceUrl": "https://www.kaleoshawaii.com/menupahoa",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -2283,7 +2288,11 @@
           }
         ]
       },
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://images.squarespace-cdn.com/content/v1/5a3da88880bd5e68c75f1778/1598986503548-9760KVYZ3BI5FJS37NWR/Coconut-Crusted-Fish.jpeg",
+      "originalThumbnail": "https://images.squarespace-cdn.com/content/v1/5a3da88880bd5e68c75f1778/1598986503548-9760KVYZ3BI5FJS37NWR/Coconut-Crusted-Fish.jpeg",
+      "thumbnail": "https://images.squarespace-cdn.com/content/v1/5a3da88880bd5e68c75f1778/1598986503548-9760KVYZ3BI5FJS37NWR/Coconut-Crusted-Fish.jpeg",
+      "smallThumbnail": "https://images.squarespace-cdn.com/content/v1/5a3da88880bd5e68c75f1778/1598986503548-9760KVYZ3BI5FJS37NWR/Coconut-Crusted-Fish.jpeg"
     },
     {
       "address": "15-2955 Pahoa Village Rd, Pāhoa, HI 96778",
@@ -5851,7 +5860,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waimea</strong></p><p><strong>68-1400 Mauna Lani Dr, Waimea, HI 96743</strong><br>(808) 885-6622</p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1110,
-      "images": [],
+      "images": [
+        {
+          "id": "canoehouse-hero",
+          "url": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Canoe-House_Food_2025_124554_CH-Gallery.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -5872,13 +5886,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Canoe-House_Food_2025_124554_CH-Gallery.jpg",
+      "imageSourceUrl": "https://auberge.com/mauna-lani/dine/canoe-house/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Canoe-House_Food_2025_124554_CH-Gallery.jpg",
+      "originalThumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Canoe-House_Food_2025_124554_CH-Gallery.jpg",
+      "thumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Canoe-House_Food_2025_124554_CH-Gallery.jpg",
+      "smallThumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Canoe-House_Food_2025_124554_CH-Gallery.jpg"
     },
     {
       "address": "68-1400 Mauna Lani Dr, Waimea, HI 96743",
@@ -5887,7 +5905,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waimea</strong></p><p><strong>68-1400 Mauna Lani Dr, Waimea, HI 96743</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1111,
-      "images": [],
+      "images": [
+        {
+          "id": "h-lani-hero",
+          "url": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_HaLani_Food_2026_069786_Image-Feature-2_Asset-2.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -5908,13 +5931,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_HaLani_Food_2026_069786_Image-Feature-2_Asset-2.jpg",
+      "imageSourceUrl": "https://auberge.com/mauna-lani/dine/halani/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_HaLani_Food_2026_069786_Image-Feature-2_Asset-2.jpg",
+      "originalThumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_HaLani_Food_2026_069786_Image-Feature-2_Asset-2.jpg",
+      "thumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_HaLani_Food_2026_069786_Image-Feature-2_Asset-2.jpg",
+      "smallThumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_HaLani_Food_2026_069786_Image-Feature-2_Asset-2.jpg"
     },
     {
       "address": "68-1400 Mauna Lani Dr, Waimea, HI 96743",
@@ -5923,7 +5950,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waimea</strong></p><p><strong>68-1400 Mauna Lani Dr, Waimea, HI 96743</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1112,
-      "images": [],
+      "images": [
+        {
+          "id": "h-bar-hero",
+          "url": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_Ha-Bar_110623_Asset-1.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -5944,13 +5976,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_Ha-Bar_110623_Asset-1.jpg",
+      "imageSourceUrl": "https://auberge.com/mauna-lani/dine/ha-bar/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_Ha-Bar_110623_Asset-1.jpg",
+      "originalThumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_Ha-Bar_110623_Asset-1.jpg",
+      "thumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_Ha-Bar_110623_Asset-1.jpg",
+      "smallThumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_Ha-Bar_110623_Asset-1.jpg"
     },
     {
       "address": "68-1400 Mauna Lani Dr, Waimea, HI 96743",
@@ -5959,7 +5995,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waimea</strong></p><p><strong>68-1400 Mauna Lani Dr, Waimea, HI 96743</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1113,
-      "images": [],
+      "images": [
+        {
+          "id": "surf-shack-at-mauna-lani-hero",
+          "url": "https://dreffui1gbt6t.cloudfront.net/images/mna/mnl-dine-surfshack-imagefeature-1-24.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -5980,13 +6021,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://dreffui1gbt6t.cloudfront.net/images/mna/mnl-dine-surfshack-imagefeature-1-24.jpg",
+      "imageSourceUrl": "https://auberge.com/mauna-lani/dine/surf-shack/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/mnl-dine-surfshack-imagefeature-1-24.jpg",
+      "originalThumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/mnl-dine-surfshack-imagefeature-1-24.jpg",
+      "thumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/mnl-dine-surfshack-imagefeature-1-24.jpg",
+      "smallThumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/mnl-dine-surfshack-imagefeature-1-24.jpg"
     },
     {
       "address": "68-1400 Mauna Lani Dr, Waimea, HI 96743",
@@ -5995,7 +6040,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waimea</strong></p><p><strong>68-1400 Mauna Lani Dr, Waimea, HI 96743</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1114,
-      "images": [],
+      "images": [
+        {
+          "id": "the-market-at-mauna-lani-hero",
+          "url": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_The-Market_2021_022-scaled.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -6016,13 +6066,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_The-Market_2021_022-scaled.jpg",
+      "imageSourceUrl": "https://auberge.com/mauna-lani/dine/the-market/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_The-Market_2021_022-scaled.jpg",
+      "originalThumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_The-Market_2021_022-scaled.jpg",
+      "thumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_The-Market_2021_022-scaled.jpg",
+      "smallThumbnail": "https://dreffui1gbt6t.cloudfront.net/images/mna/MNL_Dine_The-Market_2021_022-scaled.jpg"
     },
     {
       "address": "62-100 Mauna Kea Beach Dr, Kohala Coast, HI 96743",
@@ -6031,7 +6085,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kohala Coast</strong></p><p><strong>62-100 Mauna Kea Beach Dr, Kohala Coast, HI 96743</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1115,
-      "images": [],
+      "images": [
+        {
+          "id": "manta-at-mauna-kea-hero",
+          "url": "https://www.maunakearesort.com/images/content/dine/manta/main-salmon.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -6052,13 +6111,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.maunakearesort.com/images/content/dine/manta/main-salmon.jpg",
+      "imageSourceUrl": "https://www.maunakearesort.com/dine/manta",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://www.maunakearesort.com/images/content/dine/manta/main-salmon.jpg",
+      "originalThumbnail": "https://www.maunakearesort.com/images/content/dine/manta/main-salmon.jpg",
+      "thumbnail": "https://www.maunakearesort.com/images/content/dine/manta/main-salmon.jpg",
+      "smallThumbnail": "https://www.maunakearesort.com/images/content/dine/manta/main-salmon.jpg"
     },
     {
       "address": "62-100 Mauna Kea Beach Dr, Kohala Coast, HI 96743",
@@ -6067,7 +6130,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kohala Coast</strong></p><p><strong>62-100 Mauna Kea Beach Dr, Kohala Coast, HI 96743</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1116,
-      "images": [],
+      "images": [
+        {
+          "id": "copper-bar-at-mauna-kea-hero",
+          "url": "https://www.maunakearesort.com/images/content/anchortabscategory/Copper-Bar-Food-2.jpg?0215051990298321="
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -6088,13 +6156,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.maunakearesort.com/images/content/anchortabscategory/Copper-Bar-Food-2.jpg?0215051990298321=",
+      "imageSourceUrl": "https://www.maunakearesort.com/mauna-kea-beach-hotel/dining/casual/copper-bar",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://www.maunakearesort.com/images/content/anchortabscategory/Copper-Bar-Food-2.jpg?0215051990298321=",
+      "originalThumbnail": "https://www.maunakearesort.com/images/content/anchortabscategory/Copper-Bar-Food-2.jpg?0215051990298321=",
+      "thumbnail": "https://www.maunakearesort.com/images/content/anchortabscategory/Copper-Bar-Food-2.jpg?0215051990298321=",
+      "smallThumbnail": "https://www.maunakearesort.com/images/content/anchortabscategory/Copper-Bar-Food-2.jpg?0215051990298321="
     },
     {
       "address": "",
@@ -6103,7 +6175,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kohala Coast</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1117,
-      "images": [],
+      "images": [
+        {
+          "id": "meridia-hero",
+          "url": "https://www.maunakearesort.com/images/content/dine/meridia/dish-1.png"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -6124,13 +6201,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.maunakearesort.com/images/content/dine/meridia/dish-1.png",
+      "imageSourceUrl": "https://www.maunakearesort.com/dine/meridia",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://www.maunakearesort.com/images/content/dine/meridia/dish-1.png",
+      "originalThumbnail": "https://www.maunakearesort.com/images/content/dine/meridia/dish-1.png",
+      "thumbnail": "https://www.maunakearesort.com/images/content/dine/meridia/dish-1.png",
+      "smallThumbnail": "https://www.maunakearesort.com/images/content/dine/meridia/dish-1.png"
     },
     {
       "address": "1 N Kaniku Dr, Waimea, HI 96743",
@@ -11066,7 +11147,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kohala Coast</strong></p><p><strong>62-100 Kaunaʻoa Dr, Waimea, HI 96743</strong></p></div>",
       "date": "2026-09-19T11:30:00-10:00",
       "id": 1251,
-      "images": [],
+      "images": [
+        {
+          "id": "naupaka-beach-grill-hero",
+          "url": "https://www.maunakearesort.com/images/content/book/promos/naupaka.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -11087,13 +11173,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.maunakearesort.com/images/content/book/promos/naupaka.jpg",
+      "imageSourceUrl": "https://www.maunakearesort.com/dine/casual/naupaka-beach-grill",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://www.maunakearesort.com/images/content/book/promos/naupaka.jpg",
+      "originalThumbnail": "https://www.maunakearesort.com/images/content/book/promos/naupaka.jpg",
+      "thumbnail": "https://www.maunakearesort.com/images/content/book/promos/naupaka.jpg",
+      "smallThumbnail": "https://www.maunakearesort.com/images/content/book/promos/naupaka.jpg"
     },
     {
       "address": "79-7552 Mamalahoa Hwy, Kealakekua, HI 96750",
@@ -22383,7 +22473,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kohala Coast</strong></p></div>",
       "date": "2026-09-21T19:00:00-10:00",
       "id": 1563,
-      "images": [],
+      "images": [
+        {
+          "id": "hau-tree-hero",
+          "url": "https://www.maunakearesort.com/images/content/anchortabscategory/hau-tree-topdown-food.jpg?044347744139847733="
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -22404,13 +22499,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.maunakearesort.com/images/content/anchortabscategory/hau-tree-topdown-food.jpg?044347744139847733=",
+      "imageSourceUrl": "https://www.maunakearesort.com/mauna-kea-beach-hotel/dining/casual/hau-tree",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-21"
+      "hoursLastVerified": "2026-09-21",
+      "largeThumbnail": "https://www.maunakearesort.com/images/content/anchortabscategory/hau-tree-topdown-food.jpg?044347744139847733=",
+      "originalThumbnail": "https://www.maunakearesort.com/images/content/anchortabscategory/hau-tree-topdown-food.jpg?044347744139847733=",
+      "thumbnail": "https://www.maunakearesort.com/images/content/anchortabscategory/hau-tree-topdown-food.jpg?044347744139847733=",
+      "smallThumbnail": "https://www.maunakearesort.com/images/content/anchortabscategory/hau-tree-topdown-food.jpg?044347744139847733="
     },
     {
       "address": "",
@@ -22419,7 +22518,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kohala Coast</strong></p></div>",
       "date": "2026-09-21T19:00:00-10:00",
       "id": 1564,
-      "images": [],
+      "images": [
+        {
+          "id": "manta-restaurant-hero",
+          "url": "https://www.maunakearesort.com/images/content/dine/manta/manhi.png"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -22440,13 +22544,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.maunakearesort.com/images/content/dine/manta/manhi.png",
+      "imageSourceUrl": "https://www.maunakearesort.com/dine/manta",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-21"
+      "hoursLastVerified": "2026-09-21",
+      "largeThumbnail": "https://www.maunakearesort.com/images/content/dine/manta/manhi.png",
+      "originalThumbnail": "https://www.maunakearesort.com/images/content/dine/manta/manhi.png",
+      "thumbnail": "https://www.maunakearesort.com/images/content/dine/manta/manhi.png",
+      "smallThumbnail": "https://www.maunakearesort.com/images/content/dine/manta/manhi.png"
     },
     {
       "address": "",
