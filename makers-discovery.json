@@ -1108,15 +1108,6 @@
       "imageUrl": null
     },
     {
-      "name": "Arlie Glass",
-      "category": "Glass Art",
-      "area": "Hawaiʻi",
-      "island": "Big Island",
-      "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
-      "status": "discovered",
-      "imageUrl": null
-    },
-    {
       "name": "Awaiaulu",
       "category": "Hawaiian Art & Crafts",
       "area": "Hawaiʻi",
@@ -1221,6 +1212,42 @@
       "area": "Hawaiʻi Island",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/wp-content/uploads/2026/03/CBED-Advisory-Council-Meeting-Materials_03.17.2026.pdf",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Creative Arts Hawai‘i",
+      "category": "Apparel & Design",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandnow.com/2026/04/06/business-monday-official-merrie-monarch-apparel-designed-and-made-by-local-company/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Kathleen's Creations",
+      "category": "Jewelry",
+      "area": "Hāwī",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "CROOKed C Ranch",
+      "category": "Farm & Food Products",
+      "area": "Nā‘ālehu",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Ka'u Art Gallery and Gift Shop",
+      "category": "Art & Crafts",
+      "area": "Nā‘ālehu",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
       "status": "discovered",
       "imageUrl": null
     }
