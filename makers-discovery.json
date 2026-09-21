@@ -2537,6 +2537,105 @@
       "sourceUrl": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
       "status": "discovered",
       "imageUrl": null
+    },
+    {
+      "name": "Buddhas Cup Coffee",
+      "category": "Coffee & Farm Products",
+      "area": "Hōlualoa",
+      "island": "Big Island",
+      "sourceUrl": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Divine Hawaiian Coffee & Gifts Inc.",
+      "category": "Coffee, Jams & Farm Products",
+      "area": "Puna",
+      "island": "Big Island",
+      "sourceUrl": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Gary Palm Watercolors",
+      "category": "Watercolor Art",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Hana San Enterprise",
+      "category": "Lei, Floral & Farm Products",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Hawaii Balsamics",
+      "category": "Food Products",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Hawaiian War Clubs by Manny Mattos",
+      "category": "Traditional Woodwork & Carving",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Kalapana - Fresh Hawaiian Honey",
+      "category": "Honey & Bee Products",
+      "area": "Kalapana",
+      "island": "Big Island",
+      "sourceUrl": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Kanahele Jewelry",
+      "category": "Hawaiian Heirloom Jewelry",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Big Island Stained Glass",
+      "category": "Stained Glass",
+      "area": "Kailua-Kona",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Suzanne Wang Ceramics",
+      "category": "Ceramics & Sculpture",
+      "area": "Hakalau",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Luti Castro Fine Art",
+      "category": "Oil Painting",
+      "area": "Kona",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandmkt.com/our-vendors",
+      "status": "discovered",
+      "imageUrl": null
     }
   ]
 }
