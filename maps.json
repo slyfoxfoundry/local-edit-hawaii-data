@@ -931,8 +931,13 @@
       "listingPlan": "basic",
       "latitude": "",
       "longitude": "",
-      "images": [],
-      "imageRights": "Needs review",
+      "images": [
+        {
+          "id": "da-poke-shack-hero",
+          "url": "https://dapokeshack.com/wp-content/uploads/2019/05/IMG_2416.jpg"
+        }
+      ],
+      "imageRights": "Official business website",
       "hoursLastVerified": "2026-09-19",
       "id": 1011,
       "title": "Da Poke Shack",
@@ -980,7 +985,13 @@
         "saturday": [],
         "sunday": []
       },
-      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>76-6246 Aliʻi Drive, Suite 101, Kailua-Kona, HI 96740</strong><br>(808) 329-7653</p></div>"
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>76-6246 Aliʻi Drive, Suite 101, Kailua-Kona, HI 96740</strong><br>(808) 329-7653</p></div>",
+      "heroImage": "https://dapokeshack.com/wp-content/uploads/2019/05/IMG_2416.jpg",
+      "largeThumbnail": "https://dapokeshack.com/wp-content/uploads/2019/05/IMG_2416.jpg",
+      "originalThumbnail": "https://dapokeshack.com/wp-content/uploads/2019/05/IMG_2416.jpg",
+      "thumbnail": "https://dapokeshack.com/wp-content/uploads/2019/05/IMG_2416.jpg",
+      "smallThumbnail": "https://dapokeshack.com/wp-content/uploads/2019/05/IMG_2416.jpg",
+      "imageSourceUrl": "https://dapokeshack.com/"
     },
     {
       "author": "Local Edit Hawaiʻi",
@@ -1693,7 +1704,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kawaihae</strong></p><p><strong>61-3642 Kawaihae Rd, Waimea, HI 96743</strong><br>(808) 880-9393</p></div>",
       "date": "2026-09-19T12:00:00-10:00",
       "id": 1022,
-      "images": [],
+      "images": [
+        {
+          "id": "seafood-bar-and-grill-hero",
+          "url": "https://seafoodbarandgrill.com/wp-content/uploads/2017/05/1110874-Pano-Edit-Edit.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -1714,13 +1730,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://seafoodbarandgrill.com/wp-content/uploads/2017/05/1110874-Pano-Edit-Edit.jpg",
+      "imageSourceUrl": "https://seafoodbarandgrill.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://seafoodbarandgrill.com/wp-content/uploads/2017/05/1110874-Pano-Edit-Edit.jpg",
+      "originalThumbnail": "https://seafoodbarandgrill.com/wp-content/uploads/2017/05/1110874-Pano-Edit-Edit.jpg",
+      "thumbnail": "https://seafoodbarandgrill.com/wp-content/uploads/2017/05/1110874-Pano-Edit-Edit.jpg",
+      "smallThumbnail": "https://seafoodbarandgrill.com/wp-content/uploads/2017/05/1110874-Pano-Edit-Edit.jpg"
     },
     {
       "address": "61-3642 Kawaihae Rd, Waimea, HI 96743",
@@ -4247,7 +4267,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1068,
-      "images": [],
+      "images": [
+        {
+          "id": "puna-chocolate-company-cafe-hero",
+          "url": "https://punachocolate.com/cdn/shop/files/Hilo_1600_x_900_px_1600x.png?v=1746041731"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4268,13 +4293,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://punachocolate.com/cdn/shop/files/Hilo_1600_x_900_px_1600x.png?v=1746041731",
+      "imageSourceUrl": "https://punachocolate.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://punachocolate.com/cdn/shop/files/Hilo_1600_x_900_px_1600x.png?v=1746041731",
+      "originalThumbnail": "https://punachocolate.com/cdn/shop/files/Hilo_1600_x_900_px_1600x.png?v=1746041731",
+      "thumbnail": "https://punachocolate.com/cdn/shop/files/Hilo_1600_x_900_px_1600x.png?v=1746041731",
+      "smallThumbnail": "https://punachocolate.com/cdn/shop/files/Hilo_1600_x_900_px_1600x.png?v=1746041731"
     },
     {
       "address": "110 Keawe St, Hilo, HI 96720",
