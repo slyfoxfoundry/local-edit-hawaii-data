@@ -16497,7 +16497,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Pahala</strong></p><p><strong>96-3044 Koali St, Pahala, HI 96777</strong></p></div>",
       "date": "2026-09-20T17:20:00-10:00",
       "id": 1397,
-      "images": [],
+      "images": [
+        {
+          "id": "hawaiian-monarch-coffee-hero",
+          "url": "https://static.wixstatic.com/media/1ae834_be1b2634876c474dac0724504088f807~mv2.jpg/v1/fit/w_1920,h_1440,q_90,enc_auto/1ae834_be1b2634876c474dac0724504088f807~mv2.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -16518,13 +16523,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.wixstatic.com/media/1ae834_be1b2634876c474dac0724504088f807~mv2.jpg/v1/fit/w_1920,h_1440,q_90,enc_auto/1ae834_be1b2634876c474dac0724504088f807~mv2.jpg",
+      "imageSourceUrl": "https://www.hawaiianmonarchcoffee.com/home",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-20"
+      "hoursLastVerified": "2026-09-20",
+      "largeThumbnail": "https://static.wixstatic.com/media/1ae834_be1b2634876c474dac0724504088f807~mv2.jpg/v1/fit/w_1920,h_1440,q_90,enc_auto/1ae834_be1b2634876c474dac0724504088f807~mv2.jpg",
+      "originalThumbnail": "https://static.wixstatic.com/media/1ae834_be1b2634876c474dac0724504088f807~mv2.jpg/v1/fit/w_1920,h_1440,q_90,enc_auto/1ae834_be1b2634876c474dac0724504088f807~mv2.jpg",
+      "thumbnail": "https://static.wixstatic.com/media/1ae834_be1b2634876c474dac0724504088f807~mv2.jpg/v1/fit/w_1920,h_1440,q_90,enc_auto/1ae834_be1b2634876c474dac0724504088f807~mv2.jpg",
+      "smallThumbnail": "https://static.wixstatic.com/media/1ae834_be1b2634876c474dac0724504088f807~mv2.jpg/v1/fit/w_1920,h_1440,q_90,enc_auto/1ae834_be1b2634876c474dac0724504088f807~mv2.jpg"
     },
     {
       "address": "96-2694 Wood Valley Rd, Pahala, HI 96777",
@@ -17388,7 +17397,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Captain Cook</strong></p><p><strong>83-5475 Painted Church Rd, Captain Cook, HI 96704</strong></p></div>",
       "date": "2026-09-20T17:20:00-10:00",
       "id": 1421,
-      "images": [],
+      "images": [
+        {
+          "id": "kona-lisa-coffee-hero",
+          "url": "https://konalisacoffee.com/cdn/shop/t/9/assets/home-1.jpg?v=172838268859740525161429449963"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -17409,13 +17423,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://konalisacoffee.com/cdn/shop/t/9/assets/home-1.jpg?v=172838268859740525161429449963",
+      "imageSourceUrl": "https://konalisacoffee.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-20"
+      "hoursLastVerified": "2026-09-20",
+      "largeThumbnail": "https://konalisacoffee.com/cdn/shop/t/9/assets/home-1.jpg?v=172838268859740525161429449963",
+      "originalThumbnail": "https://konalisacoffee.com/cdn/shop/t/9/assets/home-1.jpg?v=172838268859740525161429449963",
+      "thumbnail": "https://konalisacoffee.com/cdn/shop/t/9/assets/home-1.jpg?v=172838268859740525161429449963",
+      "smallThumbnail": "https://konalisacoffee.com/cdn/shop/t/9/assets/home-1.jpg?v=172838268859740525161429449963"
     },
     {
       "address": "82-6087 Mamalahoa Hwy, Captain Cook, HI 96704",
@@ -17856,7 +17874,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>73-4038 Hulikoa Dr Suite 5, Kailua-Kona, HI 96740</strong></p></div>",
       "date": "2026-09-20T18:00:00-10:00",
       "id": 1433,
-      "images": [],
+      "images": [
+        {
+          "id": "kona-mountain-coffee-hero",
+          "url": "https://www.konamountaincoffee.com/cdn/shop/files/100konacoffeefarm.png?v=1786144110&width=1080"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -17877,13 +17900,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.konamountaincoffee.com/cdn/shop/files/100konacoffeefarm.png?v=1786144110&width=1080",
+      "imageSourceUrl": "https://konamountaincoffee.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-20"
+      "hoursLastVerified": "2026-09-20",
+      "largeThumbnail": "https://www.konamountaincoffee.com/cdn/shop/files/100konacoffeefarm.png?v=1786144110&width=1080",
+      "originalThumbnail": "https://www.konamountaincoffee.com/cdn/shop/files/100konacoffeefarm.png?v=1786144110&width=1080",
+      "thumbnail": "https://www.konamountaincoffee.com/cdn/shop/files/100konacoffeefarm.png?v=1786144110&width=1080",
+      "smallThumbnail": "https://www.konamountaincoffee.com/cdn/shop/files/100konacoffeefarm.png?v=1786144110&width=1080"
     },
     {
       "address": "74-5599 Pawai Pl B3, Kailua-Kona, HI 96740",
@@ -18306,7 +18333,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>74-5612 Pawai Pl, Kailua-Kona, HI 96740</strong></p></div>",
       "date": "2026-09-20T18:00:00-10:00",
       "id": 1445,
-      "images": [],
+      "images": [
+        {
+          "id": "kona-pub-brewery-hero",
+          "url": "https://konabrewinghawaii.com/assets/images/beers/cans/_412x732_crop_center-center_60_line/BigWave_12oz_Can_Hawaii_Flag.png"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -18327,13 +18359,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://konabrewinghawaii.com/assets/images/beers/cans/_412x732_crop_center-center_60_line/BigWave_12oz_Can_Hawaii_Flag.png",
+      "imageSourceUrl": "https://konabrewinghawaii.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-20"
+      "hoursLastVerified": "2026-09-20",
+      "largeThumbnail": "https://konabrewinghawaii.com/assets/images/beers/cans/_412x732_crop_center-center_60_line/BigWave_12oz_Can_Hawaii_Flag.png",
+      "originalThumbnail": "https://konabrewinghawaii.com/assets/images/beers/cans/_412x732_crop_center-center_60_line/BigWave_12oz_Can_Hawaii_Flag.png",
+      "thumbnail": "https://konabrewinghawaii.com/assets/images/beers/cans/_412x732_crop_center-center_60_line/BigWave_12oz_Can_Hawaii_Flag.png",
+      "smallThumbnail": "https://konabrewinghawaii.com/assets/images/beers/cans/_412x732_crop_center-center_60_line/BigWave_12oz_Can_Hawaii_Flag.png"
     },
     {
       "address": "75-5669 Alii Dr, Kailua-Kona, HI 96740",
@@ -21510,7 +21546,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waikoloa</strong></p></div>",
       "date": "2026-09-21T19:00:00-10:00",
       "id": 1534,
-      "images": [],
+      "images": [
+        {
+          "id": "honolulu-coffee-waikoloa-lagoon-tower-hero",
+          "url": "https://www.honolulucoffee.com/cdn/shop/files/keepitaloha_podcast_34.jpg?crop=center&height=1365&v=1777058921&width=2048"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -21531,13 +21572,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.honolulucoffee.com/cdn/shop/files/keepitaloha_podcast_34.jpg?crop=center&height=1365&v=1777058921&width=2048",
+      "imageSourceUrl": "https://honolulucoffee.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-21"
+      "hoursLastVerified": "2026-09-21",
+      "largeThumbnail": "https://www.honolulucoffee.com/cdn/shop/files/keepitaloha_podcast_34.jpg?crop=center&height=1365&v=1777058921&width=2048",
+      "originalThumbnail": "https://www.honolulucoffee.com/cdn/shop/files/keepitaloha_podcast_34.jpg?crop=center&height=1365&v=1777058921&width=2048",
+      "thumbnail": "https://www.honolulucoffee.com/cdn/shop/files/keepitaloha_podcast_34.jpg?crop=center&height=1365&v=1777058921&width=2048",
+      "smallThumbnail": "https://www.honolulucoffee.com/cdn/shop/files/keepitaloha_podcast_34.jpg?crop=center&height=1365&v=1777058921&width=2048"
     },
     {
       "address": "",
@@ -21582,7 +21627,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waikoloa</strong></p></div>",
       "date": "2026-09-21T19:00:00-10:00",
       "id": 1536,
-      "images": [],
+      "images": [
+        {
+          "id": "honolulu-coffee-waikoloa-ocean-tower-hero",
+          "url": "https://www.honolulucoffee.com/cdn/shop/files/12-oz-Extra-Fancy-Kona.png?crop=center&height=899&v=1697655839&width=1000"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -21603,13 +21653,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.honolulucoffee.com/cdn/shop/files/12-oz-Extra-Fancy-Kona.png?crop=center&height=899&v=1697655839&width=1000",
+      "imageSourceUrl": "https://honolulucoffee.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-21"
+      "hoursLastVerified": "2026-09-21",
+      "largeThumbnail": "https://www.honolulucoffee.com/cdn/shop/files/12-oz-Extra-Fancy-Kona.png?crop=center&height=899&v=1697655839&width=1000",
+      "originalThumbnail": "https://www.honolulucoffee.com/cdn/shop/files/12-oz-Extra-Fancy-Kona.png?crop=center&height=899&v=1697655839&width=1000",
+      "thumbnail": "https://www.honolulucoffee.com/cdn/shop/files/12-oz-Extra-Fancy-Kona.png?crop=center&height=899&v=1697655839&width=1000",
+      "smallThumbnail": "https://www.honolulucoffee.com/cdn/shop/files/12-oz-Extra-Fancy-Kona.png?crop=center&height=899&v=1697655839&width=1000"
     },
     {
       "address": "",
