@@ -2666,5 +2666,418 @@
     "time": "10:00 AM–11:00 AM",
     "sourceUrl": "https://www.librarieshawaii.org/events/category/community/2026-10/",
     "status": "needs-branch-confirmation"
+  },
+  {
+    "name": "Taste of Hilo 2026",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Food & Drink",
+    "startDate": "2026-10-18",
+    "venue": "Sangha Hall",
+    "sourceUrl": "https://www.konaweb.com/calendar/",
+    "status": "verified"
+  },
+  {
+    "name": "Hawaiʻi Festival of Birds – Bird Fair & Celebration",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Nature & Wildlife",
+    "startDate": "2026-10-24",
+    "time": "9:00 AM–5:30 PM",
+    "venue": "Grand Naniloa Hotel",
+    "sourceUrl": "https://www.konaweb.com/calendar/",
+    "status": "verified"
+  },
+  {
+    "name": "Halloween Trick-or-Treat at Queens’ Marketplace",
+    "town": "Waikoloa",
+    "region": "South Kohala",
+    "category": "Holiday & Family",
+    "startDate": "2026-10-31",
+    "time": "4:00 PM–7:00 PM",
+    "venue": "Queens’ Marketplace",
+    "sourceUrl": "https://www.konaweb.com/calendar/",
+    "status": "verified"
+  },
+  {
+    "name": "2026 Breadfruit Celebration",
+    "town": "Kailua-Kona",
+    "region": "Kona",
+    "category": "Food & Culture",
+    "startDate": "2026-09-19",
+    "endDate": "2026-09-24",
+    "sourceUrl": "https://www.hawaiicounty.gov/departments/office-of-sustainability-climate-equity-resilience/community-events-spotlight",
+    "status": "verified"
+  },
+  {
+    "name": "Native Food Forest Workshop Series",
+    "town": "Big Island",
+    "region": "Big Island",
+    "category": "Farm & Workshops",
+    "recurrence": "Eight-workshop series",
+    "sourceUrl": "https://www.hawaiicounty.gov/departments/office-of-sustainability-climate-equity-resilience/community-events-spotlight",
+    "status": "verified-series"
+  },
+  {
+    "name": "Build Your Food Business – Agribusiness Marketing",
+    "town": "Hāwī",
+    "region": "North Kohala",
+    "category": "Food & Workshops",
+    "startDate": "2026-07-11",
+    "venue": "Touching the Earth Farm Kitchen",
+    "sourceUrl": "https://www.hawaiicounty.gov/departments/office-of-sustainability-climate-equity-resilience/community-events-spotlight",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Build Your Food Business – Financial Basics",
+    "town": "Hāwī",
+    "region": "North Kohala",
+    "category": "Food & Workshops",
+    "startDate": "2026-08-08",
+    "venue": "Touching the Earth Farm Kitchen",
+    "sourceUrl": "https://www.hawaiicounty.gov/departments/office-of-sustainability-climate-equity-resilience/community-events-spotlight",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Employment Law Seminar – Kona-Kohala Chamber",
+    "town": "Waikoloa",
+    "region": "South Kohala",
+    "category": "Business & Community",
+    "startDate": "2026-09-29",
+    "venue": "Waikoloa",
+    "sourceUrl": "https://www.kona-kohala.com/event-calendar",
+    "status": "verified"
+  },
+  {
+    "name": "AfterHours Networking – Full Life",
+    "town": "Kailua-Kona",
+    "region": "Kona",
+    "category": "Business & Community",
+    "startDate": "2026-10-21",
+    "sourceUrl": "https://www.kona-kohala.com/event-calendar",
+    "status": "verified"
+  },
+  {
+    "name": "Sister Chamber 20th Anniversary Celebration Dinner",
+    "town": "Keauhou",
+    "region": "Kona",
+    "category": "Business & Community",
+    "startDate": "2026-11-12",
+    "venue": "Outrigger Kona Resort & Spa",
+    "sourceUrl": "https://www.kona-kohala.com/event-calendar",
+    "status": "verified"
+  },
+  {
+    "name": "AfterHours Networking – Parker Ranch Center & Southwest Airlines",
+    "town": "Waimea",
+    "region": "South Kohala",
+    "category": "Business & Community",
+    "startDate": "2026-11-18",
+    "venue": "Parker Ranch Center",
+    "sourceUrl": "https://www.kona-kohala.com/event-calendar",
+    "status": "verified"
+  },
+  {
+    "name": "AfterHours Networking – Magics Beach Grill",
+    "town": "Kailua-Kona",
+    "region": "Kona",
+    "category": "Business & Community",
+    "startDate": "2026-12-09",
+    "venue": "Magics Beach Grill",
+    "sourceUrl": "https://www.kona-kohala.com/event-calendar",
+    "status": "verified"
+  },
+  {
+    "name": "Taco Tuesday at Harvest 19 Kitchen & Bar",
+    "town": "Waikoloa",
+    "region": "South Kohala",
+    "category": "Food & Drink",
+    "recurrence": "Tuesdays",
+    "time": "5:00 PM",
+    "venue": "Harvest 19 Kitchen & Bar",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "Kanakapila LIVE! at the Booch Bar",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Music & Community",
+    "recurrence": "Tuesdays",
+    "time": "6:00 PM",
+    "venue": "The Booch Bar",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "The Aloha Reset: Breathe & Unwind",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Wellness & Community",
+    "recurrence": "Wednesdays",
+    "time": "11:00 AM",
+    "venue": "SCP Hilo Hotel",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "Springboard Diving Club",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Sports & Family",
+    "recurrence": "Wednesdays",
+    "time": "2:30 PM",
+    "venue": "Kawamoto Pool",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "Coloring Event in the Labyrinth",
+    "town": "Hawaiian Paradise Park",
+    "region": "Puna",
+    "category": "Art & Community",
+    "recurrence": "Saturdays",
+    "time": "9:00 AM",
+    "venue": "15-1601 4th Street",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "Weekly Sunday Gathering – Hāmākua",
+    "town": "Waimea",
+    "region": "Hāmākua",
+    "category": "Community",
+    "recurrence": "Sundays",
+    "time": "11:30 AM",
+    "venue": "64-1067 Māmalahoa Hwy #B4",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "Improv Comedy Classes – Puna",
+    "town": "Hawaiian Paradise Park",
+    "region": "Puna",
+    "category": "Comedy & Workshops",
+    "recurrence": "Sundays",
+    "time": "12:00 PM",
+    "venue": "15-1601 4th Street",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "The Real Inspector Hound",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Theater & Performance",
+    "startDate": "2026-09-06",
+    "time": "2:30 PM",
+    "venue": "280 Keawe St",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Lei Making at SCP Hilo Hotel",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Culture & Workshops",
+    "recurrence": "Mondays",
+    "time": "9:00 AM",
+    "venue": "SCP Hilo Hotel",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "Movie Monday – Laupāhoehoe Library",
+    "town": "Laupāhoehoe",
+    "region": "Hāmākua",
+    "category": "Film & Family",
+    "recurrence": "Mondays",
+    "time": "12:00 PM",
+    "venue": "Laupāhoehoe Public & School Library",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "Friends of the Mountain View Library Fall Book Sale",
+    "town": "Mountain View",
+    "region": "Puna",
+    "category": "Books & Community",
+    "startDate": "2026-09-07",
+    "time": "12:00 PM",
+    "venue": "Mountain View Public & School Library",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Burgers & Trivia at Kona VFW",
+    "town": "Kailua-Kona",
+    "region": "Kona",
+    "category": "Games & Food",
+    "recurrence": "Mondays",
+    "time": "4:00 PM",
+    "venue": "Kona VFW Post #12122",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "Open Mic Night – Hilo",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Music & Community",
+    "recurrence": "Mondays",
+    "time": "8:00 PM",
+    "venue": "168 Keawe Street",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "Yoga on the Beach at A-Bay",
+    "town": "Waikoloa",
+    "region": "South Kohala",
+    "category": "Wellness & Outdoors",
+    "recurrence": "Thursdays",
+    "time": "8:00 AM–9:30 AM",
+    "venue": "Lava Lava Beach Club at ʻAnaehoʻomalu Bay",
+    "sourceUrl": "https://bigislandnow.com/events/date/",
+    "status": "verified"
+  },
+  {
+    "name": "King Kamehameha Cultural Historical Tour",
+    "town": "Kailua-Kona",
+    "region": "Kona",
+    "category": "Culture & History",
+    "recurrence": "Thursdays",
+    "time": "9:30 AM–10:30 AM",
+    "venue": "75-5660 Palani Rd",
+    "sourceUrl": "https://bigislandnow.com/events/date/",
+    "status": "verified"
+  },
+  {
+    "name": "The Joy of Art – Intro to Acrylic Painting",
+    "town": "Pāhoa",
+    "region": "Puna",
+    "category": "Art & Workshops",
+    "recurrence": "Thursdays",
+    "time": "10:00 AM–1:30 PM",
+    "venue": "15-2714 Pāhoa Village Rd",
+    "sourceUrl": "https://bigislandnow.com/events/date/",
+    "status": "verified"
+  },
+  {
+    "name": "Live Music at Ka Lihikai",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Music",
+    "recurrence": "Thursdays",
+    "time": "5:00 PM–7:00 PM",
+    "venue": "Ka Lihikai, 93 Banyan Drive",
+    "sourceUrl": "https://bigislandnow.com/events/date/",
+    "status": "verified"
+  },
+  {
+    "name": "Paniolo Legends Under The Lights",
+    "town": "Waikoloa",
+    "region": "South Kohala",
+    "category": "Culture & Performance",
+    "recurrence": "Thursdays",
+    "time": "6:00 PM–9:00 PM",
+    "venue": "Waikoloa Stables",
+    "sourceUrl": "https://bigislandnow.com/events/date/",
+    "status": "verified"
+  },
+  {
+    "name": "Karaoke at Koa's",
+    "town": "Pāhoa",
+    "region": "Puna",
+    "category": "Music & Community",
+    "recurrence": "Thursdays",
+    "time": "6:00 PM–10:00 PM",
+    "venue": "Koa's, Pāhoa Village Road",
+    "sourceUrl": "https://bigislandnow.com/events/date/",
+    "status": "verified"
+  },
+  {
+    "name": "Live Music at Hula Lounge",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Music",
+    "recurrence": "Thursdays",
+    "time": "7:00 PM–9:00 PM",
+    "venue": "Hula Lounge, 93 Banyan Drive",
+    "sourceUrl": "https://bigislandnow.com/events/date/",
+    "status": "verified"
+  },
+  {
+    "name": "Friends of the Zoo Tiger Fun Day",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Family & Wildlife",
+    "recurrence": "Annual June/July",
+    "venue": "Panaʻewa Rainforest Zoo & Gardens",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortd-desc/-sortn-EDate/-toggle-allupcoming",
+    "status": "annual-series"
+  },
+  {
+    "name": "Casino Day – Hawaiʻi County Parks & Recreation",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Community & Games",
+    "recurrence": "Annual June",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortd-desc/-sortn-EDate/-toggle-allupcoming",
+    "status": "annual-series"
+  },
+  {
+    "name": "Summer Fun – Hawaiʻi County Parks & Recreation",
+    "town": "Big Island",
+    "region": "Big Island",
+    "category": "Family & Recreation",
+    "recurrence": "Annual summer",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortd-desc/-sortn-EDate/-toggle-allupcoming",
+    "status": "annual-series"
+  },
+  {
+    "name": "Learn 2 Swim – Hawaiʻi County",
+    "town": "Big Island",
+    "region": "Big Island",
+    "category": "Sports & Family",
+    "recurrence": "Annual summer",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortd-desc/-sortn-EDate/-toggle-allupcoming",
+    "status": "annual-series"
+  },
+  {
+    "name": "Parks & Recreation Track Meets",
+    "town": "Hilo & Kona",
+    "region": "Big Island",
+    "category": "Sports",
+    "recurrence": "Annual February",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortd-desc/-sortn-EDate/-toggle-allupcoming",
+    "status": "annual-series"
+  },
+  {
+    "name": "Novice Swim Season",
+    "town": "Big Island",
+    "region": "Big Island",
+    "category": "Sports & Family",
+    "recurrence": "Annual February",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortd-desc/-sortn-EDate/-toggle-allupcoming",
+    "status": "annual-series"
+  },
+  {
+    "name": "Hawaiʻi County Easter Events",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Holiday & Family",
+    "recurrence": "Annual April",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortd-desc/-sortn-EDate/-toggle-allupcoming",
+    "status": "annual-series"
+  },
+  {
+    "name": "Line Dance Social – Hawaiʻi County Parks & Recreation",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Dance & Community",
+    "recurrence": "Annual May",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortd-desc/-sortn-EDate/-toggle-allupcoming",
+    "status": "annual-series"
   }
 ]
