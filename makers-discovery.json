@@ -1934,6 +1934,123 @@
       "sourceUrl": "local-business verification",
       "status": "discovered",
       "imageUrl": null
+    },
+    {
+      "name": "The Art of Adare",
+      "category": "Portrait & Mixed Media Art",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Scott Doying",
+      "category": "Ceramics & Multimedia Art",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Jan Perry Clark",
+      "category": "Fine Art",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Nikolas Rocha",
+      "category": "Woodcarving",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Kate Asis",
+      "category": "Acrylic Painting",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Pattie Pease Johnson",
+      "category": "Fiber & Mixed Media Art",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Sara Naby",
+      "category": "Fine Art",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Ta'apai Mataoa",
+      "category": "Fine Art",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Don Elwing",
+      "category": "Fine Art",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Gaige Qualmann",
+      "category": "Metal Jewelry",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://onegalleryhawaiihilo.com/collections/all",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Joseph Mathieu",
+      "category": "Woodwork",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://onegalleryhawaiihilo.com/collections/all",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Hawaiian Mako Design / Dive or Die Hawaii",
+      "category": "Illustration, Prints & Apparel",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Bruce Omori",
+      "category": "Photography",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
     }
   ]
 }
