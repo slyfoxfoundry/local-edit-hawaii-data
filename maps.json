@@ -2063,7 +2063,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>75-5828 Kahakai Rd, Kailua-Kona, HI 96740</strong><br>(808) 329-1493</p></div>",
       "date": "2026-09-19T12:00:00-10:00",
       "id": 1028,
-      "images": [],
+      "images": [
+        {
+          "id": "huggos-kona-hero",
+          "url": "https://huggos.com/assets/hero-drone-frame-Ds87aKyZ.webp"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -2084,9 +2089,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://huggos.com/assets/hero-drone-frame-Ds87aKyZ.webp",
+      "imageSourceUrl": "https://huggos.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -9710,7 +9715,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>75-5770 Aliʻi Dr #2-3, Kailua-Kona, HI 96740</strong><br>(808) 326-7888</p></div>",
       "date": "2026-09-19T11:05:00-10:00",
       "id": 1220,
-      "images": [],
+      "images": [
+        {
+          "id": "kamana-kitchen-kona-hero",
+          "url": "https://static.wixstatic.com/media/2146e6_103497a157ea40aa9a6704463bb02d11~mv2.jpeg/v1/fill/w_250%2Ch_166%2Cal_c%2Cq_90%2Cenc_auto/2146e6_103497a157ea40aa9a6704463bb02d11~mv2.jpeg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -9731,9 +9741,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.wixstatic.com/media/2146e6_103497a157ea40aa9a6704463bb02d11~mv2.jpeg/v1/fill/w_250%2Ch_166%2Cal_c%2Cq_90%2Cenc_auto/2146e6_103497a157ea40aa9a6704463bb02d11~mv2.jpeg",
+      "imageSourceUrl": "https://www.kamanakitchenhawaii.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
@@ -9746,7 +9756,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>1235 Kilauea Ave #180, Hilo, HI 96720</strong><br>(808) 933-8570</p></div>",
       "date": "2026-09-19T11:05:00-10:00",
       "id": 1221,
-      "images": [],
+      "images": [
+        {
+          "id": "kamana-kitchen-hilo-hero",
+          "url": "https://static.wixstatic.com/media/2146e6_1183c401c24c42a3a19819be8ff135f4~mv2.jpg/v1/fill/w_250%2Ch_252%2Cal_c%2Cq_90%2Cenc_auto/2146e6_1183c401c24c42a3a19819be8ff135f4~mv2.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -9767,9 +9782,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.wixstatic.com/media/2146e6_1183c401c24c42a3a19819be8ff135f4~mv2.jpg/v1/fill/w_250%2Ch_252%2Cal_c%2Cq_90%2Cenc_auto/2146e6_1183c401c24c42a3a19819be8ff135f4~mv2.jpg",
+      "imageSourceUrl": "https://www.kamanakitchenhawaii.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
@@ -9782,7 +9797,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>70 Mamo St, Hilo, HI 96720</strong><br>(808) 969-1440</p></div>",
       "date": "2026-09-19T11:05:00-10:00",
       "id": 1222,
-      "images": [],
+      "images": [
+        {
+          "id": "kamana-indo-chinese-hero",
+          "url": "https://static.wixstatic.com/media/2146e6_cd957dad1877415da54929d28750aeae~mv2.jpg/v1/fill/w_250%2Ch_140%2Cal_c%2Cq_90%2Cenc_auto/2146e6_cd957dad1877415da54929d28750aeae~mv2.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -9803,9 +9823,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.wixstatic.com/media/2146e6_cd957dad1877415da54929d28750aeae~mv2.jpg/v1/fill/w_250%2Ch_140%2Cal_c%2Cq_90%2Cenc_auto/2146e6_cd957dad1877415da54929d28750aeae~mv2.jpg",
+      "imageSourceUrl": "https://www.kamanakitchenhawaii.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
@@ -12451,7 +12471,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Captain Cook</strong></p><p><strong>82-6167 Mamalahoa Hwy, Captain Cook, HI 96704</strong><br>(808) 896-7706</p></div>",
       "date": "2026-09-19T12:35:00-10:00",
       "id": 1296,
-      "images": [],
+      "images": [
+        {
+          "id": "shaka-tacoz-captain-cook-hero",
+          "url": "https://shakatacoz.com/wp-content/uploads/2025/08/Sauce_WP.png"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -12472,9 +12497,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://shakatacoz.com/wp-content/uploads/2025/08/Sauce_WP.png",
+      "imageSourceUrl": "https://shakatacoz.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
@@ -12816,7 +12841,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kealakekua</strong></p><p><strong>81-6641 Hawaiʻi Belt Rd, Kealakekua, HI 96750</strong><br>(808) 443-9650</p></div>",
       "date": "2026-09-19T12:55:00-10:00",
       "id": 1306,
-      "images": [],
+      "images": [
+        {
+          "id": "reel-aloha-poke-hero",
+          "url": "https://static.wixstatic.com/media/c423a2_cd5dbb0d21e84aed8ecfb320903ce172~mv2.jpg/v1/fill/w_732%2Ch_340%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/c423a2_cd5dbb0d21e84aed8ecfb320903ce172~mv2.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -12837,9 +12867,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.wixstatic.com/media/c423a2_cd5dbb0d21e84aed8ecfb320903ce172~mv2.jpg/v1/fill/w_732%2Ch_340%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/c423a2_cd5dbb0d21e84aed8ecfb320903ce172~mv2.jpg",
+      "imageSourceUrl": "https://www.reelalohapokeandfishco.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
@@ -13176,7 +13206,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>74-5586 Palani Rd #7, Kailua-Kona, HI 96740</strong><br>(808) 731-7553</p></div>",
       "date": "2026-09-19T13:20:00-10:00",
       "id": 1316,
-      "images": [],
+      "images": [
+        {
+          "id": "kona-crust-hero",
+          "url": "https://static.wixstatic.com/media/155e29_5e7009c462ca4394b448f35612b48642~mv2.jpg/v1/fill/w_801%2Ch_601%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/155e29_5e7009c462ca4394b448f35612b48642~mv2.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -13197,9 +13232,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.wixstatic.com/media/155e29_5e7009c462ca4394b448f35612b48642~mv2.jpg/v1/fill/w_801%2Ch_601%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/155e29_5e7009c462ca4394b448f35612b48642~mv2.jpg",
+      "imageSourceUrl": "https://www.konacrust.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
@@ -13284,7 +13319,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Volcano</strong></p><p><strong>19-3834 Old Volcano Rd, Volcano, HI 96785</strong><br>(808) 985-8979</p></div>",
       "date": "2026-09-19T13:20:00-10:00",
       "id": 1319,
-      "images": [],
+      "images": [
+        {
+          "id": "cafe-ono-volcano-hero",
+          "url": "https://static.wixstatic.com/media/336d96_a296ea5bd02d400b896214dc2911b172~mv2.jpg/v1/fill/w_590%2Ch_332%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/336d96_a296ea5bd02d400b896214dc2911b172~mv2.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -13305,9 +13345,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.wixstatic.com/media/336d96_a296ea5bd02d400b896214dc2911b172~mv2.jpg/v1/fill/w_590%2Ch_332%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/336d96_a296ea5bd02d400b896214dc2911b172~mv2.jpg",
+      "imageSourceUrl": "https://www.cafeono.net/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
@@ -13320,7 +13360,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Volcano</strong></p><p><strong>19-4030 Wright Rd, Volcano, HI 96785</strong><br>(808) 785-5795</p></div>",
       "date": "2026-09-19T13:20:00-10:00",
       "id": 1320,
-      "images": [],
+      "images": [
+        {
+          "id": "aunty-pons-thai-hero",
+          "url": "https://static.wixstatic.com/media/4f97cc_e22406c13e084c3ea133ebb410fa6cd6~mv2.jpg/v1/fill/w_896%2Ch_650%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/4f97cc_e22406c13e084c3ea133ebb410fa6cd6~mv2.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -13341,9 +13386,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.wixstatic.com/media/4f97cc_e22406c13e084c3ea133ebb410fa6cd6~mv2.jpg/v1/fill/w_896%2Ch_650%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/4f97cc_e22406c13e084c3ea133ebb410fa6cd6~mv2.jpg",
+      "imageSourceUrl": "https://allank3.wixsite.com/auntypons",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
@@ -13356,7 +13401,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Volcano</strong></p><p><strong>19-4005 Haunani Rd, Volcano, HI 96785</strong></p></div>",
       "date": "2026-09-19T13:20:00-10:00",
       "id": 1321,
-      "images": [],
+      "images": [
+        {
+          "id": "lanikai-brewing-volcano-hero",
+          "url": "https://static.wixstatic.com/media/f772d9_458990f33e164fd4b5ce6403c344058e~mv2.jpg/v1/fill/w_489%2Ch_325%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/f772d9_458990f33e164fd4b5ce6403c344058e~mv2.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -13377,9 +13427,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.wixstatic.com/media/f772d9_458990f33e164fd4b5ce6403c344058e~mv2.jpg/v1/fill/w_489%2Ch_325%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/f772d9_458990f33e164fd4b5ce6403c344058e~mv2.jpg",
+      "imageSourceUrl": "https://www.lanikaibrewing.com/locations",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
@@ -22968,7 +23018,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kawaihae</strong></p></div>",
       "date": "2026-09-21T19:00:00-10:00",
       "id": 1588,
-      "images": [],
+      "images": [
+        {
+          "id": "blue-dragon-tavern-hero",
+          "url": "https://www.bluedragontavern.com/wp-content/uploads/DSC01435-1024x683.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -22989,9 +23044,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.bluedragontavern.com/wp-content/uploads/DSC01435-1024x683.jpg",
+      "imageSourceUrl": "https://www.bluedragontavern.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
