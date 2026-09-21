@@ -4330,7 +4330,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>110 Keawe St, Hilo, HI 96720</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1069,
-      "images": [],
+      "images": [
+        {
+          "id": "the-booch-bar-hero",
+          "url": "https://theboochbarhilo.com/wp-content/uploads/2026/06/Buger-adn-salad-Tierro-LARGER-copy.webp"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4351,13 +4356,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://theboochbarhilo.com/wp-content/uploads/2026/06/Buger-adn-salad-Tierro-LARGER-copy.webp",
+      "imageSourceUrl": "https://theboochbarhilo.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://theboochbarhilo.com/wp-content/uploads/2026/06/Buger-adn-salad-Tierro-LARGER-copy.webp",
+      "originalThumbnail": "https://theboochbarhilo.com/wp-content/uploads/2026/06/Buger-adn-salad-Tierro-LARGER-copy.webp",
+      "thumbnail": "https://theboochbarhilo.com/wp-content/uploads/2026/06/Buger-adn-salad-Tierro-LARGER-copy.webp",
+      "smallThumbnail": "https://theboochbarhilo.com/wp-content/uploads/2026/06/Buger-adn-salad-Tierro-LARGER-copy.webp"
     },
     {
       "address": "74-5565 Luhia St, Kailua-Kona, HI 96740",
