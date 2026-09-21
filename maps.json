@@ -4438,7 +4438,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1072,
-      "images": [],
+      "images": [
+        {
+          "id": "kona-inn-restaurant-hero",
+          "url": "https://www.konainnrestaurant.com/images/coconut-crusted-mahi-mahi.webp"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4459,13 +4464,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.konainnrestaurant.com/images/coconut-crusted-mahi-mahi.webp",
+      "imageSourceUrl": "https://www.konainnrestaurant.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://www.konainnrestaurant.com/images/coconut-crusted-mahi-mahi.webp",
+      "originalThumbnail": "https://www.konainnrestaurant.com/images/coconut-crusted-mahi-mahi.webp",
+      "thumbnail": "https://www.konainnrestaurant.com/images/coconut-crusted-mahi-mahi.webp",
+      "smallThumbnail": "https://www.konainnrestaurant.com/images/coconut-crusted-mahi-mahi.webp"
     },
     {
       "address": "",
@@ -4474,7 +4483,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1073,
-      "images": [],
+      "images": [
+        {
+          "id": "quinn-s-almost-by-the-sea-hero",
+          "url": "https://img1.wsimg.com/isteam/ip/8ab3213b-5a6f-4973-b40c-e1bd2a5b0a54/IMG_3284.jpeg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4495,13 +4509,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://img1.wsimg.com/isteam/ip/8ab3213b-5a6f-4973-b40c-e1bd2a5b0a54/IMG_3284.jpeg",
+      "imageSourceUrl": "https://quinnsalmostbythesea.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://img1.wsimg.com/isteam/ip/8ab3213b-5a6f-4973-b40c-e1bd2a5b0a54/IMG_3284.jpeg",
+      "originalThumbnail": "https://img1.wsimg.com/isteam/ip/8ab3213b-5a6f-4973-b40c-e1bd2a5b0a54/IMG_3284.jpeg",
+      "thumbnail": "https://img1.wsimg.com/isteam/ip/8ab3213b-5a6f-4973-b40c-e1bd2a5b0a54/IMG_3284.jpeg",
+      "smallThumbnail": "https://img1.wsimg.com/isteam/ip/8ab3213b-5a6f-4973-b40c-e1bd2a5b0a54/IMG_3284.jpeg"
     },
     {
       "address": "",
