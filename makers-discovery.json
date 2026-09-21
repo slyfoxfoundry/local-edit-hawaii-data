@@ -2213,6 +2213,159 @@
       "sourceUrl": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
       "status": "discovered",
       "imageUrl": null
+    },
+    {
+      "name": "Robin Scanlon",
+      "category": "Photography & Fiber Art",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Roslyn Moresh",
+      "category": "Painting",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Heather Mettler",
+      "category": "Glass Art",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Domino Cohn",
+      "category": "Mixed Media Art",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Stephen Freedman",
+      "category": "Ceramics & Sculpture",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Frank McClure",
+      "category": "Wood & Metal Sculpture",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Scott Gorrell",
+      "category": "Painting & Print",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Anne Guth",
+      "category": "Painting & Print",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "David Maes Gallegos",
+      "category": "Painting on Wood",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Eve Furchgott",
+      "category": "Printmaking",
+      "area": "East Hawaiʻi",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Donna Carnegie",
+      "category": "Metal Art & Print",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Esther Szegedy",
+      "category": "Ceramics & Pottery",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Daniel Moe",
+      "category": "Basketry & Fiber Art",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Paul McCarty",
+      "category": "Koa Woodwork",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Diana Miller",
+      "category": "Painting",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Naupaka Island Designs",
+      "category": "Apparel & Textiles",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Hugh Jenkins & Stephanie Ross",
+      "category": "Glass Art",
+      "area": "Honokaʻa",
+      "island": "Big Island",
+      "sourceUrl": "https://www.ehcc.org/content/call-big-island-artists",
+      "status": "discovered",
+      "imageUrl": null
     }
   ]
 }
