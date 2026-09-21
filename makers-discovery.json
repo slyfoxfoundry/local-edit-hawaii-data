@@ -2051,6 +2051,168 @@
       "sourceUrl": "local-business verification",
       "status": "discovered",
       "imageUrl": null
+    },
+    {
+      "name": "Ralph San Miguel",
+      "category": "Ceramics & Pottery",
+      "area": "East Hawaiʻi",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Ron Hanatani",
+      "category": "Ceramics & Pottery",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Jill Briggs",
+      "category": "Photography",
+      "area": "Volcano",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Stephanie & Apo Aquino",
+      "category": "Ceramics & Fiber Art",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Christine Ahia",
+      "category": "Painting & Print",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Tommy Adkins",
+      "category": "Photography",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Caren Loebel-Fried",
+      "category": "Printmaking & Illustration",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Avi Kiriaty",
+      "category": "Painting & Print",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Edwin Kayton",
+      "category": "Painting & Drawing",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "David K. Hayes",
+      "category": "Painting & Print",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Bonnie Sol Hahn",
+      "category": "Oil Painting",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Rod Cameron",
+      "category": "Painting",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Marian Berger",
+      "category": "Art & Naturalist Illustration",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Margaret Barnaby",
+      "category": "Painting & Print",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Diane Renchler",
+      "category": "Painting & Print",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Kurt Kishimori",
+      "category": "Gyotaku",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Bob Danhieux Douglas",
+      "category": "Block Printing",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Joshua Jahelka",
+      "category": "Wooden Toy Craft",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
+      "status": "discovered",
+      "imageUrl": null
     }
   ]
 }
