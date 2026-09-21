@@ -2,9 +2,9 @@
   "meta": {
     "section": "Events",
     "island": "Big Island",
-    "v1Status": "cleanup-in-progress",
+    "v1Status": "qa-in-progress",
     "generatedFrom": "events-discovery.json",
-    "publishableCount": 212,
+    "publishableCount": 209,
     "holdCount": 155,
     "categoryTaxonomy": [
       "Festivals & Celebrations",
@@ -16,7 +16,8 @@
       "Sports & Outdoors",
       "Community & Family"
     ],
-    "asOf": "2026-09-20"
+    "asOf": "2026-09-20",
+    "qaNotes": "Removed low-value/non-consumer listings and exact duplicates; corrected selected dates/locations against current calendars. Final source/date QA remains."
   },
   "events": [
     {
@@ -38,7 +39,7 @@
       "town": "Kailua-Kona",
       "region": "Kona",
       "category": "Festival",
-      "startDate": "2026-11-06",
+      "startDate": "2026-11-05",
       "endDate": "2026-11-15",
       "venue": "Various Kona venues",
       "sourceUrl": "https://konacoffeefest.com/events/",
@@ -2498,18 +2499,6 @@
       "displayCategory": "Culture & Heritage"
     },
     {
-      "name": "Happy Hour at Ka Lihikai",
-      "town": "Hilo",
-      "region": "Hilo",
-      "category": "Food & Drink",
-      "recurrence": "Thursdays",
-      "time": "3:00 PM–5:00 PM",
-      "venue": "Ka Lihikai, 93 Banyan Drive",
-      "sourceUrl": "https://bigislandnow.com/events/date/",
-      "status": "verified",
-      "displayCategory": "Food & Farm"
-    },
-    {
       "name": "Farmers Market at Kings’ Shops",
       "town": "Waikoloa",
       "region": "South Kohala",
@@ -2520,28 +2509,6 @@
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
       "displayCategory": "Markets & Fairs"
-    },
-    {
-      "name": "Kona-Kohala Chamber Member Orientation – September",
-      "town": "Online",
-      "region": "Kona & Kohala",
-      "category": "Business & Community",
-      "startDate": "2026-09-23",
-      "venue": "Virtual",
-      "sourceUrl": "https://www.kona-kohala.com/event-calendar",
-      "status": "verified",
-      "displayCategory": "Community & Family"
-    },
-    {
-      "name": "Kona-Kohala Chamber Member Orientation – October",
-      "town": "Online",
-      "region": "Kona & Kohala",
-      "category": "Business & Community",
-      "startDate": "2026-10-19",
-      "venue": "Virtual",
-      "sourceUrl": "https://www.kona-kohala.com/event-calendar",
-      "status": "verified",
-      "displayCategory": "Community & Family"
     },
     {
       "name": "Kona-Kohala Chamber AfterHours – Kona Coffee & Tea",
