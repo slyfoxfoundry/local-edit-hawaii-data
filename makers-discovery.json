@@ -1,4 +1,12 @@
 {
+  "meta": {
+    "section": "Makers",
+    "island": "Big Island",
+    "version": "v1",
+    "recordCount": 299,
+    "lastReconciled": "2026-09-20",
+    "notes": "Discovery reconciled for V1. Big Island makers/producers only; off-island or unresolved leads excluded. Images/enrichment may be layered separately."
+  },
   "items": [
     {
       "name": "‘Okina Jewelry",
@@ -6,16 +14,16 @@
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Ola Tropical Apothecary",
-      "category": "Bath, Body & Skincare",
+      "category": "Body, Home & Wellness",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=9",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -24,169 +32,169 @@
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=9",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Forever Leis by Summer",
-      "category": "Lei & Floral",
+      "category": "Textiles, Lei & Floral",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=4",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Garimo’s Real Soap Studio",
-      "category": "Bath, Body & Skincare",
+      "category": "Body, Home & Wellness",
       "area": "Mountain View",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=4",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Ha Toa",
-      "category": "Apparel & Textiles",
+      "category": "Textiles, Lei & Floral",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=4",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hawaii Floral Products",
-      "category": "Lei & Floral",
+      "category": "Textiles, Lei & Floral",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=4",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hawaii’s Simple Gourmet",
-      "category": "Food Products",
+      "category": "Food & Farm",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=4",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hawaiian Greenhouse",
-      "category": "Lei & Floral",
+      "category": "Textiles, Lei & Floral",
       "area": "Panaewa",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=5",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hog Heaven Coffee",
-      "category": "Coffee & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Ninole",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=5",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hamakua Macadamia Nut Co.",
-      "category": "Food Products",
+      "category": "Food & Farm",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=4",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Aloha Farms Hawaii",
-      "category": "Farm & Food Products",
+      "category": "Food & Farm",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/local-food-2/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Big Island Coffee Roasters",
-      "category": "Coffee & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/local-food-2/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Absolutely! Kona Coffee",
-      "category": "Coffee & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/local-food-2/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Ahualoa Family Farms",
-      "category": "Farm & Food Products",
+      "category": "Food & Farm",
       "area": "Ahualoa",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/local-food-2/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kona Natural Soap Company",
-      "category": "Bath, Body & Skincare",
+      "category": "Body, Home & Wellness",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/local-food-2/?e-page-22fce93=4",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kona Roasted Coffee",
-      "category": "Coffee & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/local-food-2/?e-page-22fce93=4",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kona Sea Salt",
-      "category": "Food Products",
+      "category": "Food & Farm",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/local-food-2/?e-page-22fce93=4",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Makua Coffee Company",
-      "category": "Coffee & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=8",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Big Island Bees",
-      "category": "Honey & Bee Products",
+      "category": "Honey & Bee",
       "area": "Captain Cook",
       "island": "Big Island",
       "sourceUrl": "https://www.bigislandbees.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Puna Chocolate Company",
-      "category": "Coffee & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://punachocolate.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -195,61 +203,61 @@
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://konajunglejewelry.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Blue Cinder Biologica",
-      "category": "Jewelry & Ceramics",
+      "category": "Jewelry",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://www.bluecinderbiologica.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Big Island Candles",
-      "category": "Candles & Home Fragrance",
+      "category": "Body, Home & Wellness",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://artsofaloha.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Paper Crane Soaps",
-      "category": "Bath, Body & Skincare",
+      "category": "Body, Home & Wellness",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Wood & Feathers",
-      "category": "Woodwork",
+      "category": "Wood & Traditional Craft",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "FreedForm Laser Engraving",
-      "category": "Woodwork & Engraving",
+      "category": "Wood & Traditional Craft",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Mauka Glass Designs",
-      "category": "Glass Art",
+      "category": "Glass",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -258,16 +266,16 @@
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://artsofaloha.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Penny's Precious Treasures",
-      "category": "Art & Crafts",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://artsofaloha.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -276,7 +284,7 @@
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://artsofaloha.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -285,25 +293,25 @@
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://artsofaloha.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Big Island Breeze",
-      "category": "Food Products & Gifts",
+      "category": "Food & Farm",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://bigisland-breeze.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Original Hawaiian Chocolate",
-      "category": "Coffee & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://www.ohcf.us/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -312,79 +320,79 @@
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandjewelers.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Filthy Farmgirl",
-      "category": "Bath, Body & Skincare",
+      "category": "Body, Home & Wellness",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://filthyfarmgirl.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Greenwell Farms",
-      "category": "Coffee & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Kealakekua",
       "island": "Big Island",
       "sourceUrl": "https://www.greenwellfarms.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Mountain Thunder Coffee Plantation",
-      "category": "Coffee & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://mountainthunder.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hilo Coffee Mill",
-      "category": "Coffee & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Mountain View",
       "island": "Big Island",
       "sourceUrl": "https://hilocoffeemill.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Lavaloha Chocolate Farm",
-      "category": "Coffee & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://lavaloha.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Makers Market Hui",
-      "category": "Maker Collective",
+      "category": "Other Local Goods",
       "area": "East Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=8",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kohala Artists’ Cooperative",
-      "category": "Maker Collective",
+      "category": "Other Local Goods",
       "area": "North Kohala",
       "island": "Big Island",
       "sourceUrl": "https://kohalaartists.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "The Alchemist's Attic",
-      "category": "Art & Ceramics",
+      "category": "Ceramics",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -393,286 +401,286 @@
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Namana Nani Creations",
-      "category": "Art & Glass",
+      "category": "Glass",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "MaryMade",
-      "category": "Food Products & Jewelry",
+      "category": "Food & Farm",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Mad Maggie's Creations",
-      "category": "Jewelry & Suncatchers",
+      "category": "Jewelry",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "KOKOLEKA PUNA",
-      "category": "Coffee & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Naupaka Farm Creates",
-      "category": "Farm & Crafts",
+      "category": "Food & Farm",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "MD Woodworks LLC",
-      "category": "Woodwork",
+      "category": "Wood & Traditional Craft",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Tye Dye Mermaid",
-      "category": "Apparel & Upcycled Crafts",
+      "category": "Textiles, Lei & Floral",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Liko Lehua Farm and Greenery",
-      "category": "Plants & Farm Products",
+      "category": "Food & Farm",
       "area": "Volcano",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Lori Castillo Ceramics",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Sour Joe's Bakery",
-      "category": "Food Products",
+      "category": "Food & Farm",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Local Notions",
-      "category": "Art & Upcycled Crafts",
+      "category": "Art",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Studio Azima",
-      "category": "Glass Art",
+      "category": "Glass",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "My Little Store Hawai'i",
-      "category": "Jewelry & Crafts",
+      "category": "Jewelry",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Wai PePe Goodies, LLC",
-      "category": "Honey & Bee Products",
+      "category": "Honey & Bee",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Tim Gayda Island Art",
-      "category": "Art & Woodwork",
+      "category": "Wood & Traditional Craft",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Bread and Chocolate LLC",
-      "category": "Food Products & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Esthers Farm and Pickling LLC",
-      "category": "Farm & Food Products",
+      "category": "Food & Farm",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Pallet Palace Design",
-      "category": "Woodwork",
+      "category": "Wood & Traditional Craft",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Ipulicious",
-      "category": "Art & Crafts",
+      "category": "Art",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "JMB Aloha Freeze Drying",
-      "category": "Food Products",
+      "category": "Food & Farm",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "T.N.T. Product",
-      "category": "Food Products & Jewelry",
+      "category": "Food & Farm",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Aunty T's Da Kine Li Dat",
-      "category": "Food Products",
+      "category": "Food & Farm",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Grateful 4 Da Bees",
-      "category": "Honey & Bee Products",
+      "category": "Honey & Bee",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Pickin up the Pieces",
-      "category": "Mosaic & Upcycled Art",
+      "category": "Art",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://makersmarkethui.com/makersdirectory.html",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Aloha Paper and Gems",
-      "category": "Apparel & Textiles",
+      "category": "Textiles, Lei & Floral",
       "area": "Waimea",
       "island": "Big Island",
       "sourceUrl": "https://www.waimeacommunitymarket.com/blank-1",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Baron Von Wood Art",
-      "category": "Woodwork",
+      "category": "Wood & Traditional Craft",
       "area": "Waimea",
       "island": "Big Island",
       "sourceUrl": "https://www.waimeacommunitymarket.com/blank-1",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Koa Kards",
-      "category": "Woodwork & Gifts",
+      "category": "Wood & Traditional Craft",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Punahele Jerky Company",
-      "category": "Food Products",
+      "category": "Food & Farm",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Pakalana Mai Nei",
-      "category": "Lei, Floral & Apparel",
+      "category": "Textiles, Lei & Floral",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://www.pakalanamainei.com/merrie26",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Mahiʻai Made",
-      "category": "Coffee & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Honolii Orchards",
-      "category": "Coffee & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -681,16 +689,16 @@
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "High Fire Hawaii Gallery & Studio",
-      "category": "Ceramics & Art",
+      "category": "Ceramics",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -699,7 +707,7 @@
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -708,43 +716,43 @@
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kona Coffee & Tea",
-      "category": "Coffee & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kona Mountain Coffee",
-      "category": "Coffee & Cacao",
+      "category": "Coffee & Chocolate",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Panci Of The Pacific",
-      "category": "Woodwork",
+      "category": "Wood & Traditional Craft",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Makau Nui",
-      "category": "Jewelry & Carving",
+      "category": "Jewelry",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -753,16 +761,16 @@
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Bonehook",
-      "category": "Carving & Jewelry",
+      "category": "Jewelry",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -771,106 +779,106 @@
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Michele M Kids Clothes",
-      "category": "Apparel & Textiles",
+      "category": "Textiles, Lei & Floral",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Honu Bags",
-      "category": "Apparel & Textiles",
+      "category": "Textiles, Lei & Floral",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kona Hawaii Creations",
-      "category": "Woodwork",
+      "category": "Wood & Traditional Craft",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Momi Kona LLC",
-      "category": "Apparel & Textiles",
+      "category": "Textiles, Lei & Floral",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Punakai",
-      "category": "Apparel & Textiles",
+      "category": "Textiles, Lei & Floral",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Potbellies",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "Waimea",
       "island": "Big Island",
       "sourceUrl": "https://www.waimeacommunitymarket.com/blank-1",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Pukana Lā Farms",
-      "category": "Farm & Food Products",
+      "category": "Food & Farm",
       "area": "Waimea",
       "island": "Big Island",
       "sourceUrl": "https://www.waimeacommunitymarket.com/blank-1",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Queen of Cups Hawai'i",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "Waimea",
       "island": "Big Island",
       "sourceUrl": "https://www.waimeacommunitymarket.com/blank-1",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Sea Bird Jones",
-      "category": "Apparel & Textiles",
+      "category": "Textiles, Lei & Floral",
       "area": "South Kona",
       "island": "Big Island",
       "sourceUrl": "https://www.waimeacommunitymarket.com/blank-1",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Seastone Ceramics",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://www.waimeacommunitymarket.com/blank-1",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Sheinfeld Rodriguez",
-      "category": "Jewelry & Design",
+      "category": "Jewelry",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://www.waimeacommunitymarket.com/blank-1",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -879,34 +887,34 @@
       "area": "South Kona",
       "island": "Big Island",
       "sourceUrl": "https://www.waimeacommunitymarket.com/blank-1",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Spicy Ninja Sauce",
-      "category": "Food Products",
+      "category": "Food & Farm",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://www.waimeacommunitymarket.com/blank-1",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Steve's Jams",
-      "category": "Farm & Food Products",
+      "category": "Food & Farm",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://www.waimeacommunitymarket.com/blank-1",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Sundog Bread LLC",
-      "category": "Food Products",
+      "category": "Food & Farm",
       "area": "Waimea",
       "island": "Big Island",
       "sourceUrl": "https://www.waimeacommunitymarket.com/blank-1",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -915,16 +923,16 @@
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandnow.com/2023/12/04/business-monday-pilikana-boutique-supports-local-artists-perpetuates-hawaiian-culture/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kaʻahanui Designs",
-      "category": "Jewelry & Carving",
+      "category": "Jewelry",
       "area": "Waimea",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -933,7 +941,7 @@
       "area": "Waimea",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -942,7 +950,7 @@
       "area": "Waimea",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -951,106 +959,106 @@
       "area": "Kawaihae",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kona Town Hui",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kimura Lauhala Shop",
-      "category": "Lauhala & Weaving",
+      "category": "Wood & Traditional Craft",
       "area": "Hōlualoa",
       "island": "Big Island",
       "sourceUrl": "https://pacific19.com/kona/field-notes/big-island-local-artisans-markets-boutiques/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kamuela Hardwoods",
-      "category": "Woodwork & Furniture",
+      "category": "Wood & Traditional Craft",
       "area": "Waimea",
       "island": "Big Island",
       "sourceUrl": "https://pacific19.com/kona/field-notes/big-island-local-artisans-markets-boutiques/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "2400 Fahrenheit",
-      "category": "Glass Art",
+      "category": "Glass",
       "area": "Volcano",
       "island": "Big Island",
       "sourceUrl": "https://2400fahrenheit.com/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Da Raku Barn",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "Volcano",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "JM Fusions",
-      "category": "Glass Art",
+      "category": "Glass",
       "area": "Volcano",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "RYH Pottery",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "Volcano",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Volcano Gallery",
-      "category": "Woodwork & Art",
+      "category": "Wood & Traditional Craft",
       "area": "Volcano",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Paradise Meadows Orchard and Bee Farm",
-      "category": "Farm & Food Products",
+      "category": "Food & Farm",
       "area": "Nā‘ālehu",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hawaii's Local Buzz",
-      "category": "Coffee, Honey & Food Products",
+      "category": "Coffee & Chocolate",
       "area": "Nā‘ālehu",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Miranda's Farms",
-      "category": "Coffee & Farm Products",
+      "category": "Coffee & Chocolate",
       "area": "Nā‘ālehu",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1059,16 +1067,16 @@
       "area": "Hāwī",
       "island": "Big Island",
       "sourceUrl": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Emily Herb",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "North Kohala",
       "island": "Big Island",
       "sourceUrl": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1077,7 +1085,7 @@
       "area": "North Kohala",
       "island": "Big Island",
       "sourceUrl": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1086,7 +1094,7 @@
       "area": "North Kohala",
       "island": "Big Island",
       "sourceUrl": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1095,7 +1103,7 @@
       "area": "North Kohala",
       "island": "Big Island",
       "sourceUrl": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1104,97 +1112,70 @@
       "area": "Hāwī",
       "island": "Big Island",
       "sourceUrl": "https://kohalamountainnews.com/wp-content/uploads/2024/08/2024-08.pdf",
-      "status": "discovered",
-      "imageUrl": null
-    },
-    {
-      "name": "Awaiaulu",
-      "category": "Hawaiian Art & Crafts",
-      "area": "Hawaiʻi",
-      "island": "Big Island",
-      "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
-      "status": "needs-island-verification",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "KoaMalu Collective",
-      "category": "Woodwork & Hawaiian Crafts",
+      "category": "Wood & Traditional Craft",
       "area": "Hawaiʻi Island",
       "island": "Big Island",
       "sourceUrl": "https://www.hawaiitribune-herald.com/2026/04/10/hawaii-news/its-the-final-merrie-monarch-craft-fair-featuring-work-of-beloved-ipu-heke-maker/",
-      "status": "discovered",
-      "imageUrl": null
-    },
-    {
-      "name": "Linomelia",
-      "category": "Apparel & Textiles",
-      "area": "Hawaiʻi",
-      "island": "Big Island",
-      "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
-      "status": "needs-island-verification",
-      "imageUrl": null
-    },
-    {
-      "name": "Princess Kaiulani Fashions",
-      "category": "Apparel & Textiles",
-      "area": "Hawaiʻi",
-      "island": "Big Island",
-      "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
-      "status": "needs-island-verification",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Pohaku Coffee Farm",
-      "category": "Coffee & Farm Products",
+      "category": "Coffee & Chocolate",
       "area": "Nā‘ālehu",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "ʻAilani Orchards",
-      "category": "Coffee, Macadamia & Farm Products",
+      "category": "Coffee & Chocolate",
       "area": "Nā‘ālehu",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kua'aina Artworks",
-      "category": "Woodwork",
+      "category": "Wood & Traditional Craft",
       "area": "Nā‘ālehu",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kristi Kranz / Kranzsilks",
-      "category": "Art & Textiles",
+      "category": "Textiles, Lei & Floral",
       "area": "Hāwī",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Llosh Winne Art and Design",
-      "category": "Woodwork",
+      "category": "Wood & Traditional Craft",
       "area": "Hāwī",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hilo Bay Pottery",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1203,25 +1184,25 @@
       "area": "Hawaiʻi Island",
       "island": "Big Island",
       "sourceUrl": "https://dbedt.hawaii.gov/blog/26-52/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Mahea Lea",
-      "category": "Art & Accessories",
+      "category": "Art",
       "area": "Hawaiʻi Island",
       "island": "Big Island",
       "sourceUrl": "https://invest.hawaii.gov/wp-content/uploads/2026/03/CBED-Advisory-Council-Meeting-Materials_03.17.2026.pdf",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Creative Arts Hawai‘i",
-      "category": "Apparel & Design",
+      "category": "Textiles, Lei & Floral",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://bigislandnow.com/2026/04/06/business-monday-official-merrie-monarch-apparel-designed-and-made-by-local-company/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1230,88 +1211,88 @@
       "area": "Hāwī",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "CROOKed C Ranch",
-      "category": "Farm & Food Products",
+      "category": "Food & Farm",
       "area": "Nā‘ālehu",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Ka'u Art Gallery and Gift Shop",
-      "category": "Art & Crafts",
+      "category": "Art",
       "area": "Nā‘ālehu",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Pokela Studios",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Quill & Feather",
-      "category": "Jewelry & Design",
+      "category": "Jewelry",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hawaii Titanium Rings LLC",
-      "category": "Jewelry & Woodwork",
+      "category": "Jewelry",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Dovetail Gallery & Design",
-      "category": "Woodwork & Furniture",
+      "category": "Wood & Traditional Craft",
       "area": "Hōlualoa",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "LewisKoa Co.",
-      "category": "Woodwork & Furniture",
+      "category": "Wood & Traditional Craft",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Jelena Clay",
-      "category": "Gourd & Fiber Art",
+      "category": "Wood & Traditional Craft",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Stefanie Culbertson",
-      "category": "Watercolor Art",
+      "category": "Art",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1320,88 +1301,88 @@
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Christal Nylin",
-      "category": "Oil Painting",
+      "category": "Body, Home & Wellness",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Tom Carey",
-      "category": "Wood Turning & Photography",
+      "category": "Wood & Traditional Craft",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Shannon Nakaya",
-      "category": "Origami & Fiber Art",
+      "category": "Textiles, Lei & Floral",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Debbie Slay",
-      "category": "Watercolor Art",
+      "category": "Art",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Victoria Penfield",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Ginger Anne Sandell",
-      "category": "Oil Painting",
+      "category": "Body, Home & Wellness",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Pola Kate",
-      "category": "Watercolor on Wood",
+      "category": "Wood & Traditional Craft",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Tesia Gallinari",
-      "category": "Stained Glass & Embroidery",
+      "category": "Glass",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Maria Singleton",
-      "category": "Acrylic Painting",
+      "category": "Art",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1410,7 +1391,7 @@
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1419,286 +1400,286 @@
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Rachel Baker",
-      "category": "Fused Glass & Jewelry",
+      "category": "Jewelry",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Bill Twibell",
-      "category": "Gyotaku Art",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Scott Pincus",
-      "category": "Silversmith Jewelry",
+      "category": "Jewelry",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Joseph Ster",
-      "category": "Metal Sculpture & Jewelry",
+      "category": "Jewelry",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Eric Munoz",
-      "category": "Fiber Art & Dreamcatchers",
+      "category": "Textiles, Lei & Floral",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://www.kailuavillageartists.com/about-us",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Cathie Ann Amelotte",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://blueseaartisans.com/artists",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Malia Barreras-Float",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://blueseaartisans.com/artists",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Denise Bird",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://blueseaartisans.com/artists",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Michael P. Carion",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://blueseaartisans.com/artists",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Stan Chraminski",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://blueseaartisans.com/artists",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Marianne Fellner",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://blueseaartisans.com/artists",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Chad Gray",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://blueseaartisans.com/artists",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Corky Kono",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://blueseaartisans.com/artists",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Sue Mailander",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://blueseaartisans.com/artists",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Mark Martel",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://blueseaartisans.com/artists",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Sabrina Ross",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://blueseaartisans.com/artists",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Johanna Schumacher",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://blueseaartisans.com/artists",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Stacey Siegel",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://blueseaartisans.com/artists",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Lorie Taylor",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "https://blueseaartisans.com/artists",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Helen White",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "North Kohala",
       "island": "Big Island",
       "sourceUrl": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Emily Beeson",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "North Kohala",
       "island": "Big Island",
       "sourceUrl": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Donna Maltz",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "North Kohala",
       "island": "Big Island",
       "sourceUrl": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Melisa Hicks",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "North Kohala",
       "island": "Big Island",
       "sourceUrl": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Mark Somers",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "North Kohala",
       "island": "Big Island",
       "sourceUrl": "https://kohalamountainnews.com/wp-content/uploads/2022/11/2022-11.pdf",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "ShivaRam Wolfgang Thom",
-      "category": "Mixed Media & Kapa Art",
+      "category": "Art",
       "area": "Kapaʻau",
       "island": "Big Island",
       "sourceUrl": "https://kohalamountainnews.com/2021/october-2021/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Catherine Morgan",
-      "category": "Printmaking & Collage",
+      "category": "Art",
       "area": "Kapaʻau",
       "island": "Big Island",
       "sourceUrl": "https://kohalamountainnews.com/2022/march-2022/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Bill Parks",
-      "category": "Woodwork",
+      "category": "Wood & Traditional Craft",
       "area": "North Kohala",
       "island": "Big Island",
       "sourceUrl": "https://kohalamountainnews.com/blog/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Malia Welch",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "North Kohala",
       "island": "Big Island",
       "sourceUrl": "https://kohalamountainnews.com/blog/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Mary Sky Schoolcraft",
-      "category": "Art & Fine Craft",
+      "category": "Art",
       "area": "North Kohala",
       "island": "Big Island",
       "sourceUrl": "https://kohalamountainnews.com/blog/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Jeff Gomes",
-      "category": "Koa Woodwork",
+      "category": "Wood & Traditional Craft",
       "area": "Keaʻau",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Michael Arthur Jayme",
-      "category": "Fine Art",
+      "category": "Art",
       "area": "Honomū",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1707,34 +1688,34 @@
       "area": "Volcano",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Dennis Schmit",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hunter Wilburn",
-      "category": "Mixed Media Art",
+      "category": "Art",
       "area": "Volcano",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Samson Tanoa Low",
-      "category": "Glass Art",
+      "category": "Glass",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1743,7 +1724,7 @@
       "area": "Honokaʻa",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1752,52 +1733,52 @@
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Mika McCann",
-      "category": "Fiber Art",
+      "category": "Textiles, Lei & Floral",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Claudia McCall",
-      "category": "Glass Art",
+      "category": "Glass",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kathy Long",
-      "category": "Painting & Print",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kira Kamamalu Lee",
-      "category": "Painting & Print",
+      "category": "Art",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Greg Eaves",
-      "category": "Woodwork",
+      "category": "Wood & Traditional Craft",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1806,25 +1787,25 @@
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Douglas Davenport",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Patti Datlof",
-      "category": "Woodwork",
+      "category": "Wood & Traditional Craft",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1833,16 +1814,16 @@
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Cindy Conklin",
-      "category": "Painting & Print",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1851,16 +1832,16 @@
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Karen Thrasher",
-      "category": "Painting & Fine Art",
+      "category": "Art",
       "area": "Waimea",
       "island": "Big Island",
       "sourceUrl": "https://firehouseartgallery.org/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1869,43 +1850,43 @@
       "area": "Waimea",
       "island": "Big Island",
       "sourceUrl": "https://firehouseartgallery.org/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Merrie Jo Snow",
-      "category": "Painting & Fine Art",
+      "category": "Art",
       "area": "Waimea",
       "island": "Big Island",
       "sourceUrl": "https://firehouseartgallery.org/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Norma Watt",
-      "category": "Painting & Fine Art",
+      "category": "Art",
       "area": "Waimea",
       "island": "Big Island",
       "sourceUrl": "https://firehouseartgallery.org/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Brenda Meriwether",
-      "category": "Painting & Fine Art",
+      "category": "Art",
       "area": "Waimea",
       "island": "Big Island",
       "sourceUrl": "https://firehouseartgallery.org/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Aspen Dewey",
-      "category": "Oil Painting",
+      "category": "Body, Home & Wellness",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://onegalleryhawaiihilo.com/pages/about-one-gallery",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -1914,133 +1895,133 @@
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Michael Mortara",
-      "category": "Glass Art",
+      "category": "Glass",
       "area": "Volcano",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Misato Mortara",
-      "category": "Glass Art",
+      "category": "Glass",
       "area": "Volcano",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "The Art of Adare",
-      "category": "Portrait & Mixed Media Art",
+      "category": "Art",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Scott Doying",
-      "category": "Ceramics & Multimedia Art",
+      "category": "Ceramics",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Jan Perry Clark",
-      "category": "Fine Art",
+      "category": "Art",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Nikolas Rocha",
-      "category": "Woodcarving",
+      "category": "Wood & Traditional Craft",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kate Asis",
-      "category": "Acrylic Painting",
+      "category": "Art",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Pattie Pease Johnson",
-      "category": "Fiber & Mixed Media Art",
+      "category": "Textiles, Lei & Floral",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Sara Naby",
-      "category": "Fine Art",
+      "category": "Art",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Ta'apai Mataoa",
-      "category": "Fine Art",
+      "category": "Art",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Don Elwing",
-      "category": "Fine Art",
+      "category": "Art",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://onegalleryhawaiihilo.com/pages/shop-the-gallery",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Gaige Qualmann",
-      "category": "Metal Jewelry",
+      "category": "Jewelry",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://onegalleryhawaiihilo.com/collections/all",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Joseph Mathieu",
-      "category": "Woodwork",
+      "category": "Wood & Traditional Craft",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://onegalleryhawaiihilo.com/collections/all",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hawaiian Mako Design / Dive or Die Hawaii",
-      "category": "Illustration, Prints & Apparel",
+      "category": "Textiles, Lei & Floral",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -2049,25 +2030,25 @@
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Ralph San Miguel",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "East Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Ron Hanatani",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -2076,25 +2057,25 @@
       "area": "Volcano",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Stephanie & Apo Aquino",
-      "category": "Ceramics & Fiber Art",
+      "category": "Ceramics",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Christine Ahia",
-      "category": "Painting & Print",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
@@ -2103,619 +2084,619 @@
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Caren Loebel-Fried",
-      "category": "Printmaking & Illustration",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Avi Kiriaty",
-      "category": "Painting & Print",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Edwin Kayton",
-      "category": "Painting & Drawing",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "David K. Hayes",
-      "category": "Painting & Print",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Bonnie Sol Hahn",
-      "category": "Oil Painting",
+      "category": "Body, Home & Wellness",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Rod Cameron",
-      "category": "Painting",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Marian Berger",
-      "category": "Art & Naturalist Illustration",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Margaret Barnaby",
-      "category": "Painting & Print",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Diane Renchler",
-      "category": "Painting & Print",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kurt Kishimori",
-      "category": "Gyotaku",
+      "category": "Art",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Bob Danhieux Douglas",
-      "category": "Block Printing",
+      "category": "Art",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Joshua Jahelka",
-      "category": "Wooden Toy Craft",
+      "category": "Wood & Traditional Craft",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://bigislandnow.com/2026/01/10/twelve-local-artists-to-display-their-work-throughout-banyan-drive-in-hilo-today/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Robin Scanlon",
-      "category": "Photography & Fiber Art",
+      "category": "Textiles, Lei & Floral",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Roslyn Moresh",
-      "category": "Painting",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Heather Mettler",
-      "category": "Glass Art",
+      "category": "Glass",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Domino Cohn",
-      "category": "Mixed Media Art",
+      "category": "Art",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Stephen Freedman",
-      "category": "Ceramics & Sculpture",
+      "category": "Ceramics",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Frank McClure",
-      "category": "Wood & Metal Sculpture",
+      "category": "Wood & Traditional Craft",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artists/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Scott Gorrell",
-      "category": "Painting & Print",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Anne Guth",
-      "category": "Painting & Print",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "David Maes Gallegos",
-      "category": "Painting on Wood",
+      "category": "Wood & Traditional Craft",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Eve Furchgott",
-      "category": "Printmaking",
+      "category": "Art",
       "area": "East Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Donna Carnegie",
-      "category": "Metal Art & Print",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/artist_categories/2d-paint-print/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Esther Szegedy",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Daniel Moe",
-      "category": "Basketry & Fiber Art",
+      "category": "Wood & Traditional Craft",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Paul McCarty",
-      "category": "Koa Woodwork",
+      "category": "Wood & Traditional Craft",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Diana Miller",
-      "category": "Painting",
+      "category": "Art",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://volcanoartcenter.org/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Naupaka Island Designs",
-      "category": "Apparel & Textiles",
+      "category": "Textiles, Lei & Floral",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hugh Jenkins & Stephanie Ross",
-      "category": "Glass Art",
+      "category": "Glass",
       "area": "Honokaʻa",
       "island": "Big Island",
       "sourceUrl": "https://www.ehcc.org/content/call-big-island-artists",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hiroki Morinoue",
-      "category": "Printmaking, Ceramics & Sculpture",
+      "category": "Ceramics",
       "area": "Hōlualoa",
       "island": "Big Island",
       "sourceUrl": "https://www.studiosevenfinearts.com/about",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Setsuko Watanabe-Morinoue",
-      "category": "Ceramics, Sculpture & Printmaking",
+      "category": "Ceramics",
       "area": "Hōlualoa",
       "island": "Big Island",
       "sourceUrl": "https://www.studiosevenfinearts.com/about",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Miho Morinoue",
-      "category": "Visual Art & Design",
+      "category": "Art",
       "area": "Hōlualoa",
       "island": "Big Island",
       "sourceUrl": "https://www.studiosevenfinearts.com/about",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Barbara Hanson",
-      "category": "Polymer Clay Art & Jewelry",
+      "category": "Jewelry",
       "area": "Hōlualoa",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Don Slocum",
-      "category": "Fine Art Photography",
+      "category": "Photography",
       "area": "Hōlualoa",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Suzanne Wang",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "West Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Claire Seastone",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "West Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Will & Kate Jacobson",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "West Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Peter Durst",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "West Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Susan Raber Bray",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "West Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Jill Backus",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "West Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Gerald Ben",
-      "category": "Ceramics & Woodwork",
+      "category": "Ceramics",
       "area": "Hōlualoa",
       "island": "Big Island",
       "sourceUrl": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Vera Omestad",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "West Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Sandy Sater",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "West Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Amber Aguirre",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "West Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Cory Lum",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "West Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Erin Skelton",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "West Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Allison Tan",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "West Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Jake Boggs",
-      "category": "Ceramics & Pottery",
+      "category": "Ceramics",
       "area": "West Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://donkeymillartcenter.org/cool-fusion-returns-to-the-mill/",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Buddhas Cup Coffee",
-      "category": "Coffee & Farm Products",
+      "category": "Coffee & Chocolate",
       "area": "Hōlualoa",
       "island": "Big Island",
       "sourceUrl": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Divine Hawaiian Coffee & Gifts Inc.",
-      "category": "Coffee, Jams & Farm Products",
+      "category": "Coffee & Chocolate",
       "area": "Puna",
       "island": "Big Island",
       "sourceUrl": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Gary Palm Watercolors",
-      "category": "Watercolor Art",
+      "category": "Art",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hana San Enterprise",
-      "category": "Lei, Floral & Farm Products",
+      "category": "Food & Farm",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hawaii Balsamics",
-      "category": "Food Products",
+      "category": "Food & Farm",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hawaiian War Clubs by Manny Mattos",
-      "category": "Traditional Woodwork & Carving",
+      "category": "Wood & Traditional Craft",
       "area": "Big Island",
       "island": "Big Island",
       "sourceUrl": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kalapana - Fresh Hawaiian Honey",
-      "category": "Honey & Bee Products",
+      "category": "Honey & Bee",
       "area": "Kalapana",
       "island": "Big Island",
       "sourceUrl": "https://www.makekemaps.com/markets/hilo-wednesday/2026-07-29",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Kanahele Jewelry",
-      "category": "Hawaiian Heirloom Jewelry",
+      "category": "Jewelry",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Big Island Stained Glass",
-      "category": "Stained Glass",
+      "category": "Glass",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Suzanne Wang Ceramics",
-      "category": "Ceramics & Sculpture",
+      "category": "Ceramics",
       "area": "Hakalau",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Luti Castro Fine Art",
-      "category": "Oil Painting",
+      "category": "Body, Home & Wellness",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Rare Hawaiian Honey Company",
-      "category": "Honey & Bee Products",
+      "category": "Honey & Bee",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Bee Boys",
-      "category": "Honey, Apothecary & Skincare",
+      "category": "Honey & Bee",
       "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Tynanes Bee Farms",
-      "category": "Honey & Bee Products",
+      "category": "Honey & Bee",
       "area": "Keaʻau",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Pualani Bee Farm",
-      "category": "Honey & Bee Products",
+      "category": "Honey & Bee",
       "area": "Pāhoa",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Paradise Coffee Roasters",
-      "category": "Coffee & Roastery",
+      "category": "Coffee & Chocolate",
       "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Hamakua Coffee Roasters",
-      "category": "Coffee & Roastery",
+      "category": "Coffee & Chocolate",
       "area": "Honokaʻa",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Pumehana Plantation",
-      "category": "Coffee, Lei & Farm Products",
+      "category": "Coffee & Chocolate",
       "area": "Captain Cook",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Bill's Coffee & Chocolate",
-      "category": "Coffee, Chocolate & Macadamia Products",
+      "category": "Coffee & Chocolate",
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     },
     {
       "name": "Ka'u Cold Brew",
-      "category": "Coffee & Roastery",
+      "category": "Coffee & Chocolate",
       "area": "Kaʻū",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
-      "status": "discovered",
+      "status": "v1-ready",
       "imageUrl": null
     }
   ]
