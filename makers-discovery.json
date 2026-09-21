@@ -1,3 +1,382 @@
 {
-  "items": []
+  "items": [
+    {
+      "name": "‘Okina Jewelry",
+      "category": "Jewelry",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Ola Tropical Apothecary",
+      "category": "Bath, Body & Skincare",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=9",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Peter Honeyman / Real Flower Jewelry",
+      "category": "Jewelry",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=9",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Forever Leis by Summer",
+      "category": "Lei & Floral",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=4",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Garimo’s Real Soap Studio",
+      "category": "Bath, Body & Skincare",
+      "area": "Mountain View",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=4",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Ha Toa",
+      "category": "Apparel & Textiles",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=4",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Hawaii Floral Products",
+      "category": "Lei & Floral",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=4",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Hawaii’s Simple Gourmet",
+      "category": "Food Products",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=4",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Hawaiian Greenhouse",
+      "category": "Lei & Floral",
+      "area": "Panaewa",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=5",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Hog Heaven Coffee",
+      "category": "Coffee & Cacao",
+      "area": "Ninole",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=5",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Hamakua Macadamia Nut Co.",
+      "category": "Food Products",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=4",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Aloha Farms Hawaii",
+      "category": "Farm & Food Products",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/local-food-2/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Big Island Coffee Roasters",
+      "category": "Coffee & Cacao",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/local-food-2/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Absolutely! Kona Coffee",
+      "category": "Coffee & Cacao",
+      "area": "Kona",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/local-food-2/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Ahualoa Family Farms",
+      "category": "Farm & Food Products",
+      "area": "Ahualoa",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/local-food-2/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Kona Natural Soap Company",
+      "category": "Bath, Body & Skincare",
+      "area": "Kailua-Kona",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/local-food-2/?e-page-22fce93=4",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Kona Roasted Coffee",
+      "category": "Coffee & Cacao",
+      "area": "Kona",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/local-food-2/?e-page-22fce93=4",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Kona Sea Salt",
+      "category": "Food Products",
+      "area": "Kona",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/local-food-2/?e-page-22fce93=4",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Makua Coffee Company",
+      "category": "Coffee & Cacao",
+      "area": "Kona",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=8",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Big Island Bees",
+      "category": "Honey & Bee Products",
+      "area": "Captain Cook",
+      "island": "Big Island",
+      "sourceUrl": "https://www.bigislandbees.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Puna Chocolate Company",
+      "category": "Coffee & Cacao",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://punachocolate.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Kona Jungle Jewelry",
+      "category": "Jewelry",
+      "area": "Kona",
+      "island": "Big Island",
+      "sourceUrl": "https://konajunglejewelry.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Blue Cinder Biologica",
+      "category": "Jewelry & Ceramics",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://www.bluecinderbiologica.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Big Island Candles",
+      "category": "Candles & Home Fragrance",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://artsofaloha.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Paper Crane Soaps",
+      "category": "Bath, Body & Skincare",
+      "area": "Kona",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandmkt.com/our-vendors",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Wood & Feathers",
+      "category": "Woodwork",
+      "area": "Kona",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandmkt.com/our-vendors",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "FreedForm Laser Engraving",
+      "category": "Woodwork & Engraving",
+      "area": "Kona",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandmkt.com/our-vendors",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Mauka Glass Designs",
+      "category": "Glass Art",
+      "area": "Kona",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandmkt.com/our-vendors",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Amalie Dorn / Fireworks by Amalie",
+      "category": "Jewelry",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://artsofaloha.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Penny's Precious Treasures",
+      "category": "Art & Crafts",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://artsofaloha.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Alane Cole",
+      "category": "Art",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://artsofaloha.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Marian Fieldson",
+      "category": "Art",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://artsofaloha.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Big Island Breeze",
+      "category": "Food Products & Gifts",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://bigisland-breeze.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Original Hawaiian Chocolate",
+      "category": "Coffee & Cacao",
+      "area": "Kona",
+      "island": "Big Island",
+      "sourceUrl": "https://www.ohcf.us/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Big Island Jewelers",
+      "category": "Jewelry",
+      "area": "Kailua-Kona",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandjewelers.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Filthy Farmgirl",
+      "category": "Bath, Body & Skincare",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://filthyfarmgirl.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Greenwell Farms",
+      "category": "Coffee & Cacao",
+      "area": "Kealakekua",
+      "island": "Big Island",
+      "sourceUrl": "https://www.greenwellfarms.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Mountain Thunder Coffee Plantation",
+      "category": "Coffee & Cacao",
+      "area": "Kailua-Kona",
+      "island": "Big Island",
+      "sourceUrl": "https://mountainthunder.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Hilo Coffee Mill",
+      "category": "Coffee & Cacao",
+      "area": "Mountain View",
+      "island": "Big Island",
+      "sourceUrl": "https://hilocoffeemill.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Lavaloha Chocolate Farm",
+      "category": "Coffee & Cacao",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://lavaloha.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Makers Market Hui",
+      "category": "Maker Collective",
+      "area": "East Hawaiʻi",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/hawaii-made/hawaii-products-2/?e-page-344fa96=8",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Kohala Artists’ Cooperative",
+      "category": "Maker Collective",
+      "area": "North Kohala",
+      "island": "Big Island",
+      "sourceUrl": "https://kohalaartists.com/",
+      "status": "discovered",
+      "imageUrl": null
+    }
+  ]
 }
