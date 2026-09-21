@@ -1151,6 +1151,78 @@
       "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
       "status": "discovered",
       "imageUrl": null
+    },
+    {
+      "name": "Pohaku Coffee Farm",
+      "category": "Coffee & Farm Products",
+      "area": "Nā‘ālehu",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "ʻAilani Orchards",
+      "category": "Coffee, Macadamia & Farm Products",
+      "area": "Nā‘ālehu",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Kua'aina Artworks",
+      "category": "Woodwork",
+      "area": "Nā‘ālehu",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Kristi Kranz / Kranzsilks",
+      "category": "Art & Textiles",
+      "area": "Hāwī",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Llosh Winne Art and Design",
+      "category": "Woodwork",
+      "area": "Hāwī",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Hilo Bay Pottery",
+      "category": "Ceramics & Pottery",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Holo Holo Gold",
+      "category": "Jewelry",
+      "area": "Hawaiʻi Island",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/wp-content/uploads/2026/03/CBED-Advisory-Council-Meeting-Materials_03.17.2026.pdf",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Mahea Lea",
+      "category": "Art & Accessories",
+      "area": "Hawaiʻi Island",
+      "island": "Big Island",
+      "sourceUrl": "https://invest.hawaii.gov/wp-content/uploads/2026/03/CBED-Advisory-Council-Meeting-Materials_03.17.2026.pdf",
+      "status": "discovered",
+      "imageUrl": null
     }
   ]
 }
