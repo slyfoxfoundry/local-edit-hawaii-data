@@ -1119,10 +1119,10 @@
     {
       "name": "KoaMalu Collective",
       "category": "Woodwork & Hawaiian Crafts",
-      "area": "Hawaiʻi",
+      "area": "Hawaiʻi Island",
       "island": "Big Island",
-      "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
-      "status": "needs-island-verification",
+      "sourceUrl": "https://www.hawaiitribune-herald.com/2026/04/10/hawaii-news/its-the-final-merrie-monarch-craft-fair-featuring-work-of-beloved-ipu-heke-maker/",
+      "status": "discovered",
       "imageUrl": null
     },
     {
@@ -1264,6 +1264,42 @@
       "name": "Quill & Feather",
       "category": "Jewelry & Design",
       "area": "Kailua-Kona",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Hawaii Titanium Rings LLC",
+      "category": "Jewelry & Woodwork",
+      "area": "Kailua-Kona",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Dovetail Gallery & Design",
+      "category": "Woodwork & Furniture",
+      "area": "Hōlualoa",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "LewisKoa Co.",
+      "category": "Woodwork & Furniture",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Jelena Clay",
+      "category": "Gourd & Fiber Art",
+      "area": "Hilo",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
       "status": "discovered",
