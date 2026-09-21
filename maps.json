@@ -5572,7 +5572,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waikoloa</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1102,
-      "images": [],
+      "images": [
+        {
+          "id": "kuleana-rum-shack-hero",
+          "url": "https://kuleanarum.com/cdn/shop/files/VarietyPack.png?v=1787603617&width=1200"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -5593,13 +5598,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://kuleanarum.com/cdn/shop/files/VarietyPack.png?v=1787603617&width=1200",
+      "imageSourceUrl": "https://kuleanarum.com/pages/visit",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://kuleanarum.com/cdn/shop/files/VarietyPack.png?v=1787603617&width=1200",
+      "originalThumbnail": "https://kuleanarum.com/cdn/shop/files/VarietyPack.png?v=1787603617&width=1200",
+      "thumbnail": "https://kuleanarum.com/cdn/shop/files/VarietyPack.png?v=1787603617&width=1200",
+      "smallThumbnail": "https://kuleanarum.com/cdn/shop/files/VarietyPack.png?v=1787603617&width=1200"
     },
     {
       "address": "250 Waikōloa Beach Dr J106, Waikoloa, HI 96738",
@@ -16155,7 +16164,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Volcano</strong></p><p><strong>35 Piimauna Dr, Volcano, HI 96785</strong></p></div>",
       "date": "2026-09-20T17:20:00-10:00",
       "id": 1388,
-      "images": [],
+      "images": [
+        {
+          "id": "volcano-winery-hero",
+          "url": "https://irp.cdn-website.com/231d463b/dms3rep/multi/opt/ClassicWineLineUp2024-1920w.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -16176,13 +16190,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://irp.cdn-website.com/231d463b/dms3rep/multi/opt/ClassicWineLineUp2024-1920w.jpg",
+      "imageSourceUrl": "https://volcanowinery.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-20"
+      "hoursLastVerified": "2026-09-20",
+      "largeThumbnail": "https://irp.cdn-website.com/231d463b/dms3rep/multi/opt/ClassicWineLineUp2024-1920w.jpg",
+      "originalThumbnail": "https://irp.cdn-website.com/231d463b/dms3rep/multi/opt/ClassicWineLineUp2024-1920w.jpg",
+      "thumbnail": "https://irp.cdn-website.com/231d463b/dms3rep/multi/opt/ClassicWineLineUp2024-1920w.jpg",
+      "smallThumbnail": "https://irp.cdn-website.com/231d463b/dms3rep/multi/opt/ClassicWineLineUp2024-1920w.jpg"
     },
     {
       "address": "18-3990 S Lauko Rd, Mountain View, HI 96771",
@@ -16920,7 +16938,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Captain Cook</strong></p><p><strong>82-5966 Mamalahoa Hwy, Captain Cook, HI 96704</strong></p></div>",
       "date": "2026-09-20T17:20:00-10:00",
       "id": 1409,
-      "images": [],
+      "images": [
+        {
+          "id": "hala-tree-coffee-hero",
+          "url": "https://cdn11.bigcommerce.com/s-hulguc0f6a/images/stencil/1280w/carousel/105/Hala_Tree_Coffee_bags.png?c=2"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -16941,13 +16964,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://cdn11.bigcommerce.com/s-hulguc0f6a/images/stencil/1280w/carousel/105/Hala_Tree_Coffee_bags.png?c=2",
+      "imageSourceUrl": "https://halatreecoffee.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-20"
+      "hoursLastVerified": "2026-09-20",
+      "largeThumbnail": "https://cdn11.bigcommerce.com/s-hulguc0f6a/images/stencil/1280w/carousel/105/Hala_Tree_Coffee_bags.png?c=2",
+      "originalThumbnail": "https://cdn11.bigcommerce.com/s-hulguc0f6a/images/stencil/1280w/carousel/105/Hala_Tree_Coffee_bags.png?c=2",
+      "thumbnail": "https://cdn11.bigcommerce.com/s-hulguc0f6a/images/stencil/1280w/carousel/105/Hala_Tree_Coffee_bags.png?c=2",
+      "smallThumbnail": "https://cdn11.bigcommerce.com/s-hulguc0f6a/images/stencil/1280w/carousel/105/Hala_Tree_Coffee_bags.png?c=2"
     },
     {
       "address": "83-5437 Painted Church Rd, Captain Cook, HI 96704",
@@ -17028,7 +17055,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Captain Cook</strong></p><p><strong>84-1245 Bruner Rd, Captain Cook, HI 96704</strong></p></div>",
       "date": "2026-09-20T17:20:00-10:00",
       "id": 1412,
-      "images": [],
+      "images": [
+        {
+          "id": "rooster-farms-coffee-hero",
+          "url": "https://roosterfarms.com/images/projects/whiteboard-fluid/image_2.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -17049,13 +17081,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://roosterfarms.com/images/projects/whiteboard-fluid/image_2.jpg",
+      "imageSourceUrl": "https://roosterfarms.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-20"
+      "hoursLastVerified": "2026-09-20",
+      "largeThumbnail": "https://roosterfarms.com/images/projects/whiteboard-fluid/image_2.jpg",
+      "originalThumbnail": "https://roosterfarms.com/images/projects/whiteboard-fluid/image_2.jpg",
+      "thumbnail": "https://roosterfarms.com/images/projects/whiteboard-fluid/image_2.jpg",
+      "smallThumbnail": "https://roosterfarms.com/images/projects/whiteboard-fluid/image_2.jpg"
     },
     {
       "address": "84-4770 Mamalahoa Hwy, Captain Cook, HI 96704",
@@ -17694,7 +17730,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kealakekua</strong></p><p><strong>81-6368A Hawaii Belt Rd, Kealakekua, HI 96750</strong></p></div>",
       "date": "2026-09-20T18:00:00-10:00",
       "id": 1430,
-      "images": [],
+      "images": [
+        {
+          "id": "hico-hawaiian-coffee-kealakekua-hero",
+          "url": "https://hicohawaiiancoffee.com/cdn/shop/files/Hero-Image.png?v=1761162666&width=1200"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -17715,13 +17756,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://hicohawaiiancoffee.com/cdn/shop/files/Hero-Image.png?v=1761162666&width=1200",
+      "imageSourceUrl": "https://hicohawaiiancoffee.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-20"
+      "hoursLastVerified": "2026-09-20",
+      "largeThumbnail": "https://hicohawaiiancoffee.com/cdn/shop/files/Hero-Image.png?v=1761162666&width=1200",
+      "originalThumbnail": "https://hicohawaiiancoffee.com/cdn/shop/files/Hero-Image.png?v=1761162666&width=1200",
+      "thumbnail": "https://hicohawaiiancoffee.com/cdn/shop/files/Hero-Image.png?v=1761162666&width=1200",
+      "smallThumbnail": "https://hicohawaiiancoffee.com/cdn/shop/files/Hero-Image.png?v=1761162666&width=1200"
     },
     {
       "address": "73-1942 Hao St, Kailua-Kona, HI 96740",
@@ -17847,7 +17892,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>74-5599 Pawai Pl B3, Kailua-Kona, HI 96740</strong></p></div>",
       "date": "2026-09-20T18:00:00-10:00",
       "id": 1434,
-      "images": [],
+      "images": [
+        {
+          "id": "hico-hawaiian-coffee-kailua-kona-hero",
+          "url": "https://hicohawaiiancoffee.com/cdn/shop/files/DSC_7500.jpg?v=1760637575&width=800"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -17868,13 +17918,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://hicohawaiiancoffee.com/cdn/shop/files/DSC_7500.jpg?v=1760637575&width=800",
+      "imageSourceUrl": "https://hicohawaiiancoffee.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-20"
+      "hoursLastVerified": "2026-09-20",
+      "largeThumbnail": "https://hicohawaiiancoffee.com/cdn/shop/files/DSC_7500.jpg?v=1760637575&width=800",
+      "originalThumbnail": "https://hicohawaiiancoffee.com/cdn/shop/files/DSC_7500.jpg?v=1760637575&width=800",
+      "thumbnail": "https://hicohawaiiancoffee.com/cdn/shop/files/DSC_7500.jpg?v=1760637575&width=800",
+      "smallThumbnail": "https://hicohawaiiancoffee.com/cdn/shop/files/DSC_7500.jpg?v=1760637575&width=800"
     },
     {
       "address": "78-6831 Alii Dr #401, Kailua-Kona, HI 96740",
@@ -18063,7 +18117,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p></div>",
       "date": "2026-09-20T18:00:00-10:00",
       "id": 1440,
-      "images": [],
+      "images": [
+        {
+          "id": "green-flash-coffee-hero",
+          "url": "https://static.wixstatic.com/media/9ce74c_fce87ee587cb4b81bec8e30266fe526f~mv2.jpg/v1/fill/w_598,h_450,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9ce74c_fce87ee587cb4b81bec8e30266fe526f~mv2.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -18084,13 +18143,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.wixstatic.com/media/9ce74c_fce87ee587cb4b81bec8e30266fe526f~mv2.jpg/v1/fill/w_598,h_450,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9ce74c_fce87ee587cb4b81bec8e30266fe526f~mv2.jpg",
+      "imageSourceUrl": "https://greenflashcoffee.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-20"
+      "hoursLastVerified": "2026-09-20",
+      "largeThumbnail": "https://static.wixstatic.com/media/9ce74c_fce87ee587cb4b81bec8e30266fe526f~mv2.jpg/v1/fill/w_598,h_450,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9ce74c_fce87ee587cb4b81bec8e30266fe526f~mv2.jpg",
+      "originalThumbnail": "https://static.wixstatic.com/media/9ce74c_fce87ee587cb4b81bec8e30266fe526f~mv2.jpg/v1/fill/w_598,h_450,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9ce74c_fce87ee587cb4b81bec8e30266fe526f~mv2.jpg",
+      "thumbnail": "https://static.wixstatic.com/media/9ce74c_fce87ee587cb4b81bec8e30266fe526f~mv2.jpg/v1/fill/w_598,h_450,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9ce74c_fce87ee587cb4b81bec8e30266fe526f~mv2.jpg",
+      "smallThumbnail": "https://static.wixstatic.com/media/9ce74c_fce87ee587cb4b81bec8e30266fe526f~mv2.jpg/v1/fill/w_598,h_450,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/9ce74c_fce87ee587cb4b81bec8e30266fe526f~mv2.jpg"
     },
     {
       "address": "",
