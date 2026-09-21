@@ -462,8 +462,13 @@
       "listingPlan": "basic",
       "latitude": "",
       "longitude": "",
-      "images": [],
-      "imageRights": "Needs review",
+      "images": [
+        {
+          "id": "kens-house-of-pancakes-hero",
+          "url": "https://www.kenshouseofpancakes.com/cache/imagegallery/92f0cd285b662ebd9e9598a27a75920b_400x300.png"
+        }
+      ],
+      "imageRights": "Official business website",
       "hoursLastVerified": "2026-09-19",
       "id": 1006,
       "title": "Ken's House of Pancakes",
@@ -521,7 +526,9 @@
           }
         ]
       },
-      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>1730 Kamehameha Avenue, Hilo, HI 96720</strong><br>(808) 935-8711</p></div>"
+      "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>1730 Kamehameha Avenue, Hilo, HI 96720</strong><br>(808) 935-8711</p></div>",
+      "heroImage": "https://www.kenshouseofpancakes.com/cache/imagegallery/92f0cd285b662ebd9e9598a27a75920b_400x300.png",
+      "imageSourceUrl": "https://www.kenshouseofpancakes.com/index.php/photo-gallery"
     },
     {
       "author": "Local Edit Hawaiʻi",
@@ -8934,7 +8941,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Volcano</strong></p><p><strong>1 Crater Rim Dr, Hawaii National Park, HI 96718</strong></p></div>",
       "date": "2026-09-19T10:25:00-10:00",
       "id": 1199,
-      "images": [],
+      "images": [
+        {
+          "id": "the-rim-volcano-house-hero",
+          "url": "https://hawaiivolcanohouse.com/wp-content/uploads/2024/01/image0-2-1-1536x1220.jpeg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -8955,9 +8967,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://hawaiivolcanohouse.com/wp-content/uploads/2024/01/image0-2-1-1536x1220.jpeg",
+      "imageSourceUrl": "https://hawaiivolcanohouse.com/dining/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
