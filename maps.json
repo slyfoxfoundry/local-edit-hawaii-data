@@ -4132,7 +4132,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1061,
-      "images": [],
+      "images": [
+        {
+          "id": "tina-s-garden-cafe-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://tinasgardencafe.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4141,8 +4146,8 @@
       "summary": "Established Big Island thai / asian business.",
       "title": "Tina's Garden Cafe",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://tinasgardencafe.com/",
+      "website": "https://tinasgardencafe.com/",
       "category": "Eat + Drink",
       "subcategory": "Asian",
       "placeType": "Asian",
@@ -4153,13 +4158,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://tinasgardencafe.com/",
+      "imageSourceUrl": "https://tinasgardencafe.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://tinasgardencafe.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://tinasgardencafe.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://tinasgardencafe.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://tinasgardencafe.com/"
     },
     {
       "address": "",
@@ -4168,7 +4177,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1062,
-      "images": [],
+      "images": [
+        {
+          "id": "coconut-grill-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/hilococonutgrill/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4177,8 +4191,8 @@
       "summary": "Established Big Island hawaiian / american business.",
       "title": "Coconut Grill",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.facebook.com/hilococonutgrill/",
+      "website": "https://www.facebook.com/hilococonutgrill/",
       "category": "Eat + Drink",
       "subcategory": "Local & Hawaiian",
       "placeType": "Local & Hawaiian",
@@ -4189,13 +4203,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/hilococonutgrill/",
+      "imageSourceUrl": "https://www.facebook.com/hilococonutgrill/",
+      "imageRights": "Official business social account",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/hilococonutgrill/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/hilococonutgrill/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/hilococonutgrill/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/hilococonutgrill/"
     },
     {
       "address": "",
@@ -4204,7 +4222,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1063,
-      "images": [],
+      "images": [
+        {
+          "id": "vibe-cafe-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.vibehawaii.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4213,8 +4236,8 @@
       "summary": "Established Big Island cafe / vegetarian business.",
       "title": "Vibe Cafe",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.vibehawaii.com/",
+      "website": "https://www.vibehawaii.com/",
       "category": "Eat + Drink",
       "subcategory": "Vegetarian & Healthy",
       "placeType": "Vegetarian & Healthy",
@@ -4225,13 +4248,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.vibehawaii.com/",
+      "imageSourceUrl": "https://www.vibehawaii.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.vibehawaii.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.vibehawaii.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.vibehawaii.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.vibehawaii.com/"
     },
     {
       "address": "",
@@ -4312,7 +4339,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>274 Kilauea Ave, Hilo, HI 96720</strong><br>(808) 961-4766</p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1066,
-      "images": [],
+      "images": [
+        {
+          "id": "two-ladies-kitchen-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/twoladieskitchenorginal/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4321,8 +4353,8 @@
       "summary": "Established Big Island mochi / dessert business.",
       "title": "Two Ladies Kitchen",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.facebook.com/twoladieskitchenorginal/",
+      "website": "https://www.facebook.com/twoladieskitchenorginal/",
       "category": "Eat + Drink",
       "subcategory": "Bakery & Sweets",
       "placeType": "Bakery & Sweets",
@@ -4333,13 +4365,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/twoladieskitchenorginal/",
+      "imageSourceUrl": "https://www.facebook.com/twoladieskitchenorginal/",
+      "imageRights": "Official business social account",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/twoladieskitchenorginal/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/twoladieskitchenorginal/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/twoladieskitchenorginal/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/twoladieskitchenorginal/"
     },
     {
       "address": "585 Hinano St, Hilo, HI 96720",
@@ -4879,7 +4915,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Keauhou</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1079,
-      "images": [],
+      "images": [
+        {
+          "id": "kenichi-pacific-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/http://kenichipacific.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4888,8 +4929,8 @@
       "summary": "Established Big Island japanese / pacific rim business.",
       "title": "Kenichi Pacific",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "http://kenichipacific.com/",
+      "website": "http://kenichipacific.com/",
       "category": "Eat + Drink",
       "subcategory": "Japanese & Sushi",
       "placeType": "Japanese & Sushi",
@@ -4900,13 +4941,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/http://kenichipacific.com/",
+      "imageSourceUrl": "http://kenichipacific.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/http://kenichipacific.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/http://kenichipacific.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/http://kenichipacific.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/http://kenichipacific.com/"
     },
     {
       "address": "",
@@ -4915,7 +4960,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Keauhou</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1080,
-      "images": [],
+      "images": [
+        {
+          "id": "bianelli-s-gourmet-pizza-pasta-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.instagram.com/bianelliskona/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4924,8 +4974,8 @@
       "summary": "Established Big Island pizza / italian business.",
       "title": "Bianelli's Gourmet Pizza & Pasta",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.instagram.com/bianelliskona/",
+      "website": "https://www.instagram.com/bianelliskona/",
       "category": "Eat + Drink",
       "subcategory": "Pizza & Italian",
       "placeType": "Pizza & Italian",
@@ -4936,13 +4986,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.instagram.com/bianelliskona/",
+      "imageSourceUrl": "https://www.instagram.com/bianelliskona/",
+      "imageRights": "Official business social account",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.instagram.com/bianelliskona/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.instagram.com/bianelliskona/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.instagram.com/bianelliskona/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.instagram.com/bianelliskona/"
     },
     {
       "address": "",
@@ -4951,7 +5005,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1081,
-      "images": [],
+      "images": [
+        {
+          "id": "big-island-grill-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/BigIslandGrill/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4960,8 +5019,8 @@
       "summary": "Established Big Island local hawaiian / breakfast business.",
       "title": "Big Island Grill",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.facebook.com/BigIslandGrill/",
+      "website": "https://www.facebook.com/BigIslandGrill/",
       "category": "Eat + Drink",
       "subcategory": "Breakfast & Brunch",
       "placeType": "Breakfast & Brunch",
@@ -4972,13 +5031,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/BigIslandGrill/",
+      "imageSourceUrl": "https://www.facebook.com/BigIslandGrill/",
+      "imageRights": "Official business social account",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/BigIslandGrill/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/BigIslandGrill/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/BigIslandGrill/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/BigIslandGrill/"
     },
     {
       "address": "",
@@ -4987,7 +5050,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1082,
-      "images": [],
+      "images": [
+        {
+          "id": "808-grindz-cafe-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://808grindzcafe.store/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4996,8 +5064,8 @@
       "summary": "Established Big Island local hawaiian / breakfast business.",
       "title": "808 Grindz Cafe",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://808grindzcafe.store/",
+      "website": "https://808grindzcafe.store/",
       "category": "Eat + Drink",
       "subcategory": "Breakfast & Brunch",
       "placeType": "Breakfast & Brunch",
@@ -5008,13 +5076,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://808grindzcafe.store/",
+      "imageSourceUrl": "https://808grindzcafe.store/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://808grindzcafe.store/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://808grindzcafe.store/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://808grindzcafe.store/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://808grindzcafe.store/"
     },
     {
       "address": "",
