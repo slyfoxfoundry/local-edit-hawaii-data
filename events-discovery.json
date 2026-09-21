@@ -1082,5 +1082,443 @@
     "venue": "Downtown Hilo",
     "sourceUrl": "https://www.konaweb.com/calendar/",
     "status": "date-tba"
+  },
+  {
+    "name": "Queen Liliʻuokalani Birthday Celebration",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Culture & Family",
+    "startDate": "2026-09-02",
+    "time": "10:00 AM–3:00 PM",
+    "venue": "Liliʻuokalani Gardens",
+    "sourceUrl": "https://www.konaweb.com/calendar/",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Paniolo Preservation Society 25th Anniversary & Ka Mea Kanu ʻAi",
+    "town": "Nāʻālehu",
+    "region": "Ka‘ū",
+    "category": "Culture & Food",
+    "startDate": "2026-09-02",
+    "endDate": "2026-09-03",
+    "venue": "Nāʻālehu Theatre",
+    "sourceUrl": "https://www.thebigislandgroup.com/blog/september-calendar",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Queen Liliʻuokalani Long Distance Outrigger Canoe Race",
+    "town": "Kailua-Kona",
+    "region": "Kona",
+    "category": "Sports & Culture",
+    "startDate": "2026-09-03",
+    "endDate": "2026-09-07",
+    "venue": "Kailua Pier / Kona Coast",
+    "sourceUrl": "https://www.konaweb.com/calendar/",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Hawaiʻi Kūpuna Hula Festival",
+    "town": "Keauhou",
+    "region": "Kona",
+    "category": "Culture & Hula",
+    "startDate": "2026-09-09",
+    "endDate": "2026-09-10",
+    "venue": "Outrigger Kona Resort & Spa",
+    "sourceUrl": "https://www.konaweb.com/calendar/",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Kona Orchid Society Fall Orchid Show",
+    "town": "Kailua-Kona",
+    "region": "Kona",
+    "category": "Garden & Community",
+    "startDate": "2026-09-12",
+    "sourceUrl": "https://www.govisithawaii.com/all-you-need-to-know-for-planning-a-hawaii-vacation-for-september/",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Kings’ Shops 35th Anniversary Sunset Kanikapila",
+    "town": "Waikoloa",
+    "region": "South Kohala",
+    "category": "Music & Community",
+    "startDate": "2026-09-12",
+    "venue": "Kings’ Shops",
+    "sourceUrl": "https://www.govisithawaii.com/all-you-need-to-know-for-planning-a-hawaii-vacation-for-september/",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Paniolo Festival Week",
+    "town": "Waimea",
+    "region": "South Kohala",
+    "category": "Festival & Culture",
+    "startDate": "2026-09-14",
+    "endDate": "2026-09-19",
+    "venue": "Waimea",
+    "sourceUrl": "https://www.hawaii-guide.com/blog/big-island-events-in-september",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Paniolo Bingo Night",
+    "town": "Waimea",
+    "region": "South Kohala",
+    "category": "Community & Culture",
+    "startDate": "2026-09-14",
+    "time": "5:00 PM–10:00 PM",
+    "parentEvent": "Paniolo Festival Week",
+    "sourceUrl": "https://www.thebigislandgroup.com/blog/september-calendar",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "74th Annual Waimea Paniolo Parade & Hoʻolauleʻa",
+    "town": "Waimea",
+    "region": "South Kohala",
+    "category": "Parade & Culture",
+    "startDate": "2026-09-19",
+    "time": "10:00 AM parade; 11:30 AM–4:00 PM Hoʻolauleʻa",
+    "venue": "Waimea Park to Kalani Schutte District Park",
+    "parentEvent": "Paniolo Festival Week",
+    "sourceUrl": "https://www.konaweb.com/calendar/",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Big Island Book Fest",
+    "town": "Keauhou",
+    "region": "Kona",
+    "category": "Books & Family",
+    "startDate": "2026-09-19",
+    "time": "11:00 AM",
+    "venue": "Kona Stories Bookstore, Keauhou Shopping Center",
+    "sourceUrl": "https://www.konaweb.com/calendar/",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Kokua Kailua Fall Concert",
+    "town": "Kailua-Kona",
+    "region": "Kona",
+    "category": "Music & Community",
+    "startDate": "2026-09-20",
+    "time": "4:00 PM",
+    "venue": "Center Stage across from Huliheʻe Palace",
+    "parentEvent": "Kokua Kailua Village Stroll",
+    "sourceUrl": "https://www.konaweb.com/calendar/",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Hawaiʻi Keiki Rodeo – September Weekend",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Rodeo & Family",
+    "startDate": "2026-09-26",
+    "endDate": "2026-09-27",
+    "sourceUrl": "https://www.govisithawaii.com/all-you-need-to-know-for-planning-a-hawaii-vacation-for-september/",
+    "status": "verified"
+  },
+  {
+    "name": "Hilo Seniors Resource Fair",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Community",
+    "startDate": "2026-09-09",
+    "time": "9:00 AM",
+    "venue": "424 Kilauea Ave",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Family Storytime – Laupāhoehoe",
+    "town": "Laupāhoehoe",
+    "region": "Hāmākua",
+    "category": "Family & Books",
+    "startDate": "2026-09-09",
+    "time": "10:00 AM",
+    "venue": "Laupāhoehoe Public & School Library",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Aloha Fridays at Volcano Art Center",
+    "town": "Volcano",
+    "region": "Puna",
+    "category": "Art & Culture",
+    "recurrence": "Friday series",
+    "time": "11:00 AM",
+    "venue": "Volcano Art Center Gallery, Hawaiʻi Volcanoes National Park",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "Mākeke Fridays at Queens’ Marketplace",
+    "town": "Waikoloa",
+    "region": "South Kohala",
+    "category": "Market & Makers",
+    "recurrence": "Friday series",
+    "time": "4:00 PM",
+    "venue": "Queens’ Marketplace",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "Friday Night Market at the Hilo Town Market",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Market & Community",
+    "recurrence": "Friday series",
+    "time": "5:00 PM",
+    "venue": "69 Waianuenue Ave",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "Hale Ho‘aloha Lūʻau at Mauna Lani",
+    "town": "Kohala Coast",
+    "region": "South Kohala",
+    "category": "Culture & Food",
+    "recurrence": "Recurring",
+    "time": "5:30 PM",
+    "venue": "Mauna Lani",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "Korean Food Festival at KTA Puainako",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Food & Culture",
+    "startDate": "2026-09-12",
+    "time": "10:00 AM",
+    "venue": "KTA Super Stores Puainako",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Food Truck Saturdays at the Meadery",
+    "town": "Keaʻau",
+    "region": "Puna",
+    "category": "Food & Community",
+    "recurrence": "Saturday series",
+    "time": "12:00 PM",
+    "venue": "16-313 Shipman Rd",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "AMTGARD Live Action Role Playing – Hilo",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Games & Community",
+    "recurrence": "Recurring",
+    "time": "1:00 PM",
+    "venue": "Liliʻuokalani Gardens",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "Waimea Cherry Blossom Heritage Festival",
+    "town": "Waimea",
+    "region": "South Kohala",
+    "category": "Festival & Culture",
+    "recurrence": "Annual February",
+    "venue": "Waimea",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortn-EDate/-sortd-asc/-toggle-next30days",
+    "status": "annual-series"
+  },
+  {
+    "name": "HHOA Hilo Stampede Rodeo",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Rodeo & Sports",
+    "recurrence": "Annual February",
+    "venue": "Hilo",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortn-EDate/-sortd-asc/-toggle-next30days",
+    "status": "annual-series"
+  },
+  {
+    "name": "Snooze at the Zoo",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Family & Wildlife",
+    "recurrence": "Annual March",
+    "venue": "Panaʻewa Rainforest Zoo & Gardens",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortn-EDate/-sortd-asc/-toggle-next30days",
+    "status": "annual-series"
+  },
+  {
+    "name": "Haili Volleyball Tournament",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Sports",
+    "recurrence": "Annual March",
+    "venue": "Hilo",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortn-EDate/-sortd-asc/-toggle-next30days",
+    "status": "annual-series"
+  },
+  {
+    "name": "HKRA Rodeo Finals",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Rodeo & Sports",
+    "recurrence": "Annual March",
+    "venue": "Hilo",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortn-EDate/-sortd-asc/-toggle-next30days",
+    "status": "annual-series"
+  },
+  {
+    "name": "U.S. Pacific Fleet Band Performance at the Zoo",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Music & Family",
+    "recurrence": "Annual March",
+    "venue": "Panaʻewa Rainforest Zoo & Gardens",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortn-EDate/-sortd-asc/-toggle-next30days",
+    "status": "annual-series"
+  },
+  {
+    "name": "Hilo ʻUkulele Festival",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Music & Culture",
+    "recurrence": "Annual April",
+    "venue": "Hilo",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortn-EDate/-sortd-asc/-toggle-next30days",
+    "status": "annual-series"
+  },
+  {
+    "name": "Shibukawa Sister City Student Art Exchange",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Art & Community",
+    "recurrence": "Annual April",
+    "venue": "Hilo",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortn-EDate/-sortd-asc/-toggle-next30days",
+    "status": "annual-series"
+  },
+  {
+    "name": "Hilo Lei Day Festival",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Culture & Festival",
+    "recurrence": "Annual May",
+    "venue": "Hilo",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortn-EDate/-sortd-asc/-toggle-next30days",
+    "status": "annual-series"
+  },
+  {
+    "name": "Hāmākua Harvest Annual Farm Festival",
+    "town": "Honokaʻa",
+    "region": "Hāmākua",
+    "category": "Farm & Festival",
+    "recurrence": "Annual May",
+    "venue": "Hāmākua Harvest",
+    "sourceUrl": "https://www.gohawaii.com/islands/hawaii-big-island/events/annual-festivals",
+    "status": "annual-series"
+  },
+  {
+    "name": "Kaʻū Coffee Festival",
+    "town": "Pāhala",
+    "region": "Ka‘ū",
+    "category": "Food & Festival",
+    "recurrence": "Annual May",
+    "venue": "Kaʻū",
+    "sourceUrl": "https://www.gohawaii.com/islands/hawaii-big-island/events/annual-festivals",
+    "status": "annual-series"
+  },
+  {
+    "name": "King Kamehameha Day Parade – North Kohala",
+    "town": "Kapaʻau",
+    "region": "North Kohala",
+    "category": "Parade & Culture",
+    "recurrence": "Annual June",
+    "venue": "North Kohala",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortn-EDate/-sortd-asc/-toggle-next30days",
+    "status": "annual-series"
+  },
+  {
+    "name": "King Kamehameha Day Parade – Kona",
+    "town": "Kailua-Kona",
+    "region": "Kona",
+    "category": "Parade & Culture",
+    "recurrence": "Annual June",
+    "venue": "Kailua-Kona",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortn-EDate/-sortd-asc/-toggle-next30days",
+    "status": "annual-series"
+  },
+  {
+    "name": "Fourth of July Hilo Bay Blast",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Holiday & Family",
+    "recurrence": "Annual July 4",
+    "venue": "Hilo Bay",
+    "sourceUrl": "https://www.parks.hawaiicounty.gov/office-of-the-director/news-updates/-sortd-desc/-sortn-EDate/-toggle-allupcoming",
+    "status": "annual-series"
+  },
+  {
+    "name": "Hawaiian International Billfish Tournament",
+    "town": "Kailua-Kona",
+    "region": "Kona",
+    "category": "Sports & Fishing",
+    "recurrence": "Annual August",
+    "venue": "Kailua-Kona",
+    "sourceUrl": "https://www.gohawaii.com/islands/hawaii-big-island/events/annual-festivals",
+    "status": "annual-series"
+  },
+  {
+    "name": "Kona Brewers Festival",
+    "town": "Kailua-Kona",
+    "region": "Kona",
+    "category": "Food & Drink",
+    "recurrence": "Annual March",
+    "venue": "Kailua-Kona",
+    "sourceUrl": "https://www.gohawaii.com/islands/hawaii-big-island/events/annual-festivals",
+    "status": "annual-series"
+  },
+  {
+    "name": "Panaʻewa Stampede Rodeo",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Rodeo & Culture",
+    "recurrence": "Annual February",
+    "venue": "Panaʻewa",
+    "sourceUrl": "https://www.gohawaii.com/islands/hawaii-big-island/events/annual-festivals",
+    "status": "annual-series"
+  },
+  {
+    "name": "Kamehameha Festival",
+    "town": "Big Island",
+    "region": "Big Island",
+    "category": "Festival & Culture",
+    "recurrence": "Annual June",
+    "sourceUrl": "https://www.gohawaii.com/islands/hawaii-big-island/events/annual-festivals",
+    "status": "annual-series"
+  },
+  {
+    "name": "Free Entrance Day – Hawaiʻi Volcanoes National Park (Veterans Day)",
+    "town": "Volcano",
+    "region": "Ka‘ū",
+    "category": "Nature & Community",
+    "startDate": "2026-11-11",
+    "venue": "Hawaiʻi Volcanoes National Park",
+    "sourceUrl": "https://www.konaweb.com/calendar/",
+    "status": "verified"
+  },
+  {
+    "name": "Free Entrance Day – Puʻuhonua o Hōnaunau National Historical Park (Veterans Day)",
+    "town": "Hōnaunau",
+    "region": "Kona",
+    "category": "Culture & Outdoors",
+    "startDate": "2026-11-11",
+    "venue": "Puʻuhonua o Hōnaunau National Historical Park",
+    "sourceUrl": "https://www.konaweb.com/calendar/",
+    "status": "verified"
+  },
+  {
+    "name": "Free Entrance Day – Kaloko-Honokōhau National Historical Park (Veterans Day)",
+    "town": "Kailua-Kona",
+    "region": "Kona",
+    "category": "Culture & Outdoors",
+    "startDate": "2026-11-11",
+    "venue": "Kaloko-Honokōhau National Historical Park",
+    "sourceUrl": "https://www.konaweb.com/calendar/",
+    "status": "verified"
   }
 ]
