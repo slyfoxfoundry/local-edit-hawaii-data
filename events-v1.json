@@ -2,10 +2,10 @@
   "meta": {
     "section": "Events",
     "island": "Big Island",
-    "v1Status": "qa-in-progress",
+    "v1Status": "final-verification",
     "generatedFrom": "events-discovery.json",
-    "publishableCount": 209,
-    "holdCount": 155,
+    "publishableCount": 189,
+    "holdCount": 175,
     "categoryTaxonomy": [
       "Festivals & Celebrations",
       "Music & Performance",
@@ -17,7 +17,7 @@
       "Community & Family"
     ],
     "asOf": "2026-09-20",
-    "qaNotes": "Removed low-value/non-consumer listings and exact duplicates; corrected selected dates/locations against current calendars. Final source/date QA remains."
+    "qaNotes": "Removed expired one-time events, non-consumer service/program listings, insufficiently sourced micro-events, and exact duplicates. Remaining records require final verification of date/recurrence and display fields before publish-ready."
   },
   "events": [
     {
@@ -1339,19 +1339,6 @@
       "displayCategory": "Arts & Learning"
     },
     {
-      "name": "34th Annual Clyde \"Kindy\" Sproat Falsetto and Storytelling Contest",
-      "town": "Waimea",
-      "region": "South Kohala",
-      "category": "Music & Culture",
-      "startDate": "2026-09-16",
-      "time": "7:00 PM",
-      "venue": "Kahilu Theatre",
-      "parentEvent": "Paniolo Festival Week",
-      "sourceUrl": "https://kahilu.org/shows/",
-      "status": "verified",
-      "displayCategory": "Music & Performance"
-    },
-    {
       "name": "Kahilu Gallery Reception – Dominic Tidmarsh & Ken Charon",
       "town": "Waimea",
       "region": "South Kohala",
@@ -1640,54 +1627,6 @@
       "displayCategory": "Festivals & Celebrations"
     },
     {
-      "name": "Kahilu Fall Festival Series",
-      "town": "Waimea",
-      "region": "South Kohala",
-      "category": "Festival & Arts",
-      "startDate": "2026-08-01",
-      "endDate": "2026-11-30",
-      "venue": "Kahilu Theatre",
-      "sourceUrl": "https://hta.hawaii.gov/news/hawai%CA%BBi-tourism-authority-announces-2026-community-enrichment-program-recipents/",
-      "status": "verified-series",
-      "displayCategory": "Festivals & Celebrations"
-    },
-    {
-      "name": "Niaulani Nature Trail, Cultural Experiences and Forest Fair",
-      "town": "Volcano",
-      "region": "Puna",
-      "category": "Nature & Culture",
-      "startDate": "2026-07-01",
-      "endDate": "2026-09-30",
-      "venue": "Volcano Art Center Niaulani Campus",
-      "sourceUrl": "https://hta.hawaii.gov/news/hawai%CA%BBi-tourism-authority-announces-2026-community-enrichment-program-recipents/",
-      "status": "verified-series",
-      "displayCategory": "Culture & Heritage"
-    },
-    {
-      "name": "From Blossom to Barrel: Hawaiʻi Honey and Pollinator Experience",
-      "town": "Big Island",
-      "region": "Big Island",
-      "category": "Farm & Nature",
-      "startDate": "2026-07-01",
-      "endDate": "2026-11-30",
-      "venue": "Bird and Bee Animal Sanctuary",
-      "sourceUrl": "https://hta.hawaii.gov/news/hawai%CA%BBi-tourism-authority-announces-2026-community-enrichment-program-recipents/",
-      "status": "verified-series",
-      "displayCategory": "Food & Farm"
-    },
-    {
-      "name": "Ke Kai Ola Open Houses and Volunteer Conservation Program",
-      "town": "Kailua-Kona",
-      "region": "Kona",
-      "category": "Nature & Community",
-      "startDate": "2026-07-01",
-      "endDate": "2026-12-31",
-      "venue": "The Marine Mammal Center – Ke Kai Ola",
-      "sourceUrl": "https://hta.hawaii.gov/news/hawai%CA%BBi-tourism-authority-announces-2026-community-enrichment-program-recipents/",
-      "status": "verified-series",
-      "displayCategory": "Sports & Outdoors"
-    },
-    {
       "name": "ʻAha Hawaiʻi Kuauli Workshop Series",
       "town": "Big Island",
       "region": "Big Island",
@@ -1709,30 +1648,6 @@
       "sourceUrl": "https://boxoffice.hiff.org/how-to-hiff",
       "status": "verified",
       "displayCategory": "Festivals & Celebrations"
-    },
-    {
-      "name": "5th Annual Pāhoa Tiny Art Show",
-      "town": "Pāhoa",
-      "region": "Puna",
-      "category": "Art & Community",
-      "startDate": "2026-08-31",
-      "endDate": "2026-09-30",
-      "venue": "Pāhoa Public & School Library",
-      "sourceUrl": "https://www.librarieshawaii.org/event/the-4th-annual-pahoa-tiny-art-show-2-2026-08-17-2/all/",
-      "status": "verified",
-      "displayCategory": "Arts & Learning"
-    },
-    {
-      "name": "Vibrant Hawaiʻi Social Service Navigation – Pāhoa",
-      "town": "Pāhoa",
-      "region": "Puna",
-      "category": "Community",
-      "recurrence": "Mondays",
-      "time": "12:00 PM–4:00 PM",
-      "venue": "Pāhoa Public & School Library",
-      "sourceUrl": "https://www.librarieshawaii.org/events/",
-      "status": "verified",
-      "displayCategory": "Community & Family"
     },
     {
       "name": "Family Story Time – Pāhoa",
@@ -1942,17 +1857,6 @@
       "displayCategory": "Festivals & Celebrations"
     },
     {
-      "name": "2026 Breadfruit Celebration",
-      "town": "Kailua-Kona",
-      "region": "Kona",
-      "category": "Food & Culture",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-24",
-      "sourceUrl": "https://www.hawaiicounty.gov/departments/office-of-sustainability-climate-equity-resilience/community-events-spotlight",
-      "status": "verified",
-      "displayCategory": "Culture & Heritage"
-    },
-    {
       "name": "Native Food Forest Workshop Series",
       "town": "Big Island",
       "region": "Big Island",
@@ -2063,42 +1967,6 @@
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
       "displayCategory": "Sports & Outdoors"
-    },
-    {
-      "name": "Coloring Event in the Labyrinth",
-      "town": "Hawaiian Paradise Park",
-      "region": "Puna",
-      "category": "Art & Community",
-      "recurrence": "Saturdays",
-      "time": "9:00 AM",
-      "venue": "15-1601 4th Street",
-      "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
-      "status": "verified",
-      "displayCategory": "Arts & Learning"
-    },
-    {
-      "name": "Weekly Sunday Gathering – Hāmākua",
-      "town": "Waimea",
-      "region": "Hāmākua",
-      "category": "Community",
-      "recurrence": "Sundays",
-      "time": "11:30 AM",
-      "venue": "64-1067 Māmalahoa Hwy #B4",
-      "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
-      "status": "verified",
-      "displayCategory": "Community & Family"
-    },
-    {
-      "name": "Improv Comedy Classes – Puna",
-      "town": "Hawaiian Paradise Park",
-      "region": "Puna",
-      "category": "Comedy & Workshops",
-      "recurrence": "Sundays",
-      "time": "12:00 PM",
-      "venue": "15-1601 4th Street",
-      "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
-      "status": "verified",
-      "displayCategory": "Music & Performance"
     },
     {
       "name": "Lei Making at SCP Hilo Hotel",
@@ -2233,18 +2101,6 @@
       "displayCategory": "Music & Performance"
     },
     {
-      "name": "Somebody Famous – Kaʻū Performing Arts Society",
-      "town": "Ocean View",
-      "region": "Kaʻū",
-      "category": "Theater & Performance",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-20",
-      "venue": "Ocean View Community Center",
-      "sourceUrl": "https://kaunewshawaii.org/events",
-      "status": "verified",
-      "displayCategory": "Music & Performance"
-    },
-    {
       "name": "Heat Resilience & Cooling Solutions Workshop",
       "town": "Ocean View",
       "region": "Kaʻū",
@@ -2267,18 +2123,6 @@
       "sourceUrl": "https://kaunewshawaii.org/events",
       "status": "verified",
       "displayCategory": "Food & Farm"
-    },
-    {
-      "name": "Kaʻū Bon Dance",
-      "town": "Nāʻālehu",
-      "region": "Kaʻū",
-      "category": "Culture & Community",
-      "startDate": "2026-09-19",
-      "time": "2:00 PM–7:00 PM",
-      "venue": "Nāʻālehu Hongwanji",
-      "sourceUrl": "https://kaunewshawaii.org/events",
-      "status": "verified",
-      "displayCategory": "Culture & Heritage"
     },
     {
       "name": "Kaʻū Taro Festival",
@@ -2338,88 +2182,6 @@
       "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
       "status": "verified",
       "displayCategory": "Markets & Fairs"
-    },
-    {
-      "name": "Hilo Community Yoga – Banyan Drive",
-      "town": "Hilo",
-      "region": "Hilo",
-      "category": "Wellness & Community",
-      "recurrence": "Recurring",
-      "time": "8:00 AM",
-      "venue": "Banyan Drive",
-      "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
-      "status": "verified",
-      "displayCategory": "Sports & Outdoors"
-    },
-    {
-      "name": "Keaʻau Community Craft Circle",
-      "town": "Keaʻau",
-      "region": "Puna",
-      "category": "Art & Community",
-      "recurrence": "Recurring",
-      "venue": "Keaʻau",
-      "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
-      "status": "verified",
-      "displayCategory": "Arts & Learning"
-    },
-    {
-      "name": "Hāmākua Community Garden Workday",
-      "town": "Honokaʻa",
-      "region": "Hāmākua",
-      "category": "Farm & Community",
-      "recurrence": "Recurring",
-      "venue": "Honokaʻa area",
-      "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
-      "status": "verified",
-      "displayCategory": "Food & Farm"
-    },
-    {
-      "name": "North Kohala Community Market Day",
-      "town": "Hāwī",
-      "region": "North Kohala",
-      "category": "Market & Community",
-      "recurrence": "Recurring",
-      "venue": "Hāwī",
-      "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
-      "status": "verified",
-      "displayCategory": "Markets & Fairs"
-    },
-    {
-      "name": "Puna Community Music Jam",
-      "town": "Pāhoa",
-      "region": "Puna",
-      "category": "Music & Community",
-      "recurrence": "Recurring",
-      "venue": "Pāhoa",
-      "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
-      "status": "verified",
-      "displayCategory": "Music & Performance"
-    },
-    {
-      "name": "Kona Village Cocktail Pop-Up – Century Grand Platform 18",
-      "town": "Kailua-Kona",
-      "region": "Kona",
-      "category": "Food & Drink",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-19",
-      "venue": "Shipwreck Bar, Kona Village",
-      "parentEvent": "Kona Village Cocktail Pop-Up Series",
-      "sourceUrl": "https://hawaii.com/events/kona-village-cocktail-pop-up-series",
-      "status": "verified",
-      "displayCategory": "Food & Farm"
-    },
-    {
-      "name": "Pizzaiolo by the Sea – Flour + Water Weekend",
-      "town": "Kailua-Kona",
-      "region": "Kona",
-      "category": "Food & Drink",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-19",
-      "venue": "Kona Village, A Rosewood Resort",
-      "parentEvent": "Pizzaiolo by the Sea at Kona Village",
-      "sourceUrl": "https://hawaii.com/events/pizzaiolo-by-the-sea-at-kona-village",
-      "status": "verified",
-      "displayCategory": "Food & Farm"
     },
     {
       "name": "Kona Village Cocktail Pop-Up – Rubén Rolón of Bar Colette",
@@ -4529,6 +4291,264 @@
       "status": "verified-historical-2026",
       "displayCategory": "Sports & Outdoors",
       "holdReason": "past-one-time-event"
+    },
+    {
+      "name": "34th Annual Clyde \"Kindy\" Sproat Falsetto and Storytelling Contest",
+      "town": "Waimea",
+      "region": "South Kohala",
+      "category": "Music & Culture",
+      "startDate": "2026-09-16",
+      "time": "7:00 PM",
+      "venue": "Kahilu Theatre",
+      "parentEvent": "Paniolo Festival Week",
+      "sourceUrl": "https://kahilu.org/shows/",
+      "status": "verified",
+      "displayCategory": "Music & Performance",
+      "holdReason": "expired"
+    },
+    {
+      "name": "Kahilu Fall Festival Series",
+      "town": "Waimea",
+      "region": "South Kohala",
+      "category": "Festival & Arts",
+      "startDate": "2026-08-01",
+      "endDate": "2026-11-30",
+      "venue": "Kahilu Theatre",
+      "sourceUrl": "https://hta.hawaii.gov/news/hawai%CA%BBi-tourism-authority-announces-2026-community-enrichment-program-recipents/",
+      "status": "verified-series",
+      "displayCategory": "Festivals & Celebrations",
+      "holdReason": "expired"
+    },
+    {
+      "name": "Niaulani Nature Trail, Cultural Experiences and Forest Fair",
+      "town": "Volcano",
+      "region": "Puna",
+      "category": "Nature & Culture",
+      "startDate": "2026-07-01",
+      "endDate": "2026-09-30",
+      "venue": "Volcano Art Center Niaulani Campus",
+      "sourceUrl": "https://hta.hawaii.gov/news/hawai%CA%BBi-tourism-authority-announces-2026-community-enrichment-program-recipents/",
+      "status": "verified-series",
+      "displayCategory": "Culture & Heritage",
+      "holdReason": "expired"
+    },
+    {
+      "name": "From Blossom to Barrel: Hawaiʻi Honey and Pollinator Experience",
+      "town": "Big Island",
+      "region": "Big Island",
+      "category": "Farm & Nature",
+      "startDate": "2026-07-01",
+      "endDate": "2026-11-30",
+      "venue": "Bird and Bee Animal Sanctuary",
+      "sourceUrl": "https://hta.hawaii.gov/news/hawai%CA%BBi-tourism-authority-announces-2026-community-enrichment-program-recipents/",
+      "status": "verified-series",
+      "displayCategory": "Food & Farm",
+      "holdReason": "expired"
+    },
+    {
+      "name": "Ke Kai Ola Open Houses and Volunteer Conservation Program",
+      "town": "Kailua-Kona",
+      "region": "Kona",
+      "category": "Nature & Community",
+      "startDate": "2026-07-01",
+      "endDate": "2026-12-31",
+      "venue": "The Marine Mammal Center – Ke Kai Ola",
+      "sourceUrl": "https://hta.hawaii.gov/news/hawai%CA%BBi-tourism-authority-announces-2026-community-enrichment-program-recipents/",
+      "status": "verified-series",
+      "displayCategory": "Sports & Outdoors",
+      "holdReason": "expired"
+    },
+    {
+      "name": "5th Annual Pāhoa Tiny Art Show",
+      "town": "Pāhoa",
+      "region": "Puna",
+      "category": "Art & Community",
+      "startDate": "2026-08-31",
+      "endDate": "2026-09-30",
+      "venue": "Pāhoa Public & School Library",
+      "sourceUrl": "https://www.librarieshawaii.org/event/the-4th-annual-pahoa-tiny-art-show-2-2026-08-17-2/all/",
+      "status": "verified",
+      "displayCategory": "Arts & Learning",
+      "holdReason": "expired"
+    },
+    {
+      "name": "Vibrant Hawaiʻi Social Service Navigation – Pāhoa",
+      "town": "Pāhoa",
+      "region": "Puna",
+      "category": "Community",
+      "recurrence": "Mondays",
+      "time": "12:00 PM–4:00 PM",
+      "venue": "Pāhoa Public & School Library",
+      "sourceUrl": "https://www.librarieshawaii.org/events/",
+      "status": "verified",
+      "displayCategory": "Community & Family",
+      "holdReason": "not-v1-consumer-event"
+    },
+    {
+      "name": "2026 Breadfruit Celebration",
+      "town": "Kailua-Kona",
+      "region": "Kona",
+      "category": "Food & Culture",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-24",
+      "sourceUrl": "https://www.hawaiicounty.gov/departments/office-of-sustainability-climate-equity-resilience/community-events-spotlight",
+      "status": "verified",
+      "displayCategory": "Culture & Heritage",
+      "holdReason": "expired"
+    },
+    {
+      "name": "Coloring Event in the Labyrinth",
+      "town": "Hawaiian Paradise Park",
+      "region": "Puna",
+      "category": "Art & Community",
+      "recurrence": "Saturdays",
+      "time": "9:00 AM",
+      "venue": "15-1601 4th Street",
+      "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+      "status": "verified",
+      "displayCategory": "Arts & Learning",
+      "holdReason": "source-detail-insufficient-for-v1"
+    },
+    {
+      "name": "Weekly Sunday Gathering – Hāmākua",
+      "town": "Waimea",
+      "region": "Hāmākua",
+      "category": "Community",
+      "recurrence": "Sundays",
+      "time": "11:30 AM",
+      "venue": "64-1067 Māmalahoa Hwy #B4",
+      "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+      "status": "verified",
+      "displayCategory": "Community & Family",
+      "holdReason": "source-detail-insufficient-for-v1"
+    },
+    {
+      "name": "Improv Comedy Classes – Puna",
+      "town": "Hawaiian Paradise Park",
+      "region": "Puna",
+      "category": "Comedy & Workshops",
+      "recurrence": "Sundays",
+      "time": "12:00 PM",
+      "venue": "15-1601 4th Street",
+      "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+      "status": "verified",
+      "displayCategory": "Music & Performance",
+      "holdReason": "source-detail-insufficient-for-v1"
+    },
+    {
+      "name": "Somebody Famous – Kaʻū Performing Arts Society",
+      "town": "Ocean View",
+      "region": "Kaʻū",
+      "category": "Theater & Performance",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-20",
+      "venue": "Ocean View Community Center",
+      "sourceUrl": "https://kaunewshawaii.org/events",
+      "status": "verified",
+      "displayCategory": "Music & Performance",
+      "holdReason": "expired"
+    },
+    {
+      "name": "Kaʻū Bon Dance",
+      "town": "Nāʻālehu",
+      "region": "Kaʻū",
+      "category": "Culture & Community",
+      "startDate": "2026-09-19",
+      "time": "2:00 PM–7:00 PM",
+      "venue": "Nāʻālehu Hongwanji",
+      "sourceUrl": "https://kaunewshawaii.org/events",
+      "status": "verified",
+      "displayCategory": "Culture & Heritage",
+      "holdReason": "expired"
+    },
+    {
+      "name": "Hilo Community Yoga – Banyan Drive",
+      "town": "Hilo",
+      "region": "Hilo",
+      "category": "Wellness & Community",
+      "recurrence": "Recurring",
+      "time": "8:00 AM",
+      "venue": "Banyan Drive",
+      "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+      "status": "verified",
+      "displayCategory": "Sports & Outdoors",
+      "holdReason": "source-detail-insufficient-for-v1"
+    },
+    {
+      "name": "Keaʻau Community Craft Circle",
+      "town": "Keaʻau",
+      "region": "Puna",
+      "category": "Art & Community",
+      "recurrence": "Recurring",
+      "venue": "Keaʻau",
+      "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+      "status": "verified",
+      "displayCategory": "Arts & Learning",
+      "holdReason": "source-detail-insufficient-for-v1"
+    },
+    {
+      "name": "Hāmākua Community Garden Workday",
+      "town": "Honokaʻa",
+      "region": "Hāmākua",
+      "category": "Farm & Community",
+      "recurrence": "Recurring",
+      "venue": "Honokaʻa area",
+      "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+      "status": "verified",
+      "displayCategory": "Food & Farm",
+      "holdReason": "source-detail-insufficient-for-v1"
+    },
+    {
+      "name": "North Kohala Community Market Day",
+      "town": "Hāwī",
+      "region": "North Kohala",
+      "category": "Market & Community",
+      "recurrence": "Recurring",
+      "venue": "Hāwī",
+      "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+      "status": "verified",
+      "displayCategory": "Markets & Fairs",
+      "holdReason": "source-detail-insufficient-for-v1"
+    },
+    {
+      "name": "Puna Community Music Jam",
+      "town": "Pāhoa",
+      "region": "Puna",
+      "category": "Music & Community",
+      "recurrence": "Recurring",
+      "venue": "Pāhoa",
+      "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+      "status": "verified",
+      "displayCategory": "Music & Performance",
+      "holdReason": "source-detail-insufficient-for-v1"
+    },
+    {
+      "name": "Kona Village Cocktail Pop-Up – Century Grand Platform 18",
+      "town": "Kailua-Kona",
+      "region": "Kona",
+      "category": "Food & Drink",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-19",
+      "venue": "Shipwreck Bar, Kona Village",
+      "parentEvent": "Kona Village Cocktail Pop-Up Series",
+      "sourceUrl": "https://hawaii.com/events/kona-village-cocktail-pop-up-series",
+      "status": "verified",
+      "displayCategory": "Food & Farm",
+      "holdReason": "expired"
+    },
+    {
+      "name": "Pizzaiolo by the Sea – Flour + Water Weekend",
+      "town": "Kailua-Kona",
+      "region": "Kona",
+      "category": "Food & Drink",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-19",
+      "venue": "Kona Village, A Rosewood Resort",
+      "parentEvent": "Pizzaiolo by the Sea at Kona Village",
+      "sourceUrl": "https://hawaii.com/events/pizzaiolo-by-the-sea-at-kona-village",
+      "status": "verified",
+      "displayCategory": "Food & Farm",
+      "holdReason": "expired"
     }
   ]
 }
