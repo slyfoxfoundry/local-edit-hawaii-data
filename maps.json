@@ -2852,7 +2852,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>250 Keawe St, Hilo, HI 96720</strong><br>(808) 498-4048</p></div>",
       "date": "2026-09-19T08:30:00-10:00",
       "id": 1038,
-      "images": [],
+      "images": [
+        {
+          "id": "paradise-coffee-roasters-hero",
+          "url": "https://paradiseroasters.com/cdn/shop/files/Paradise-tasting.jpg?crop=center&height=1440&v=1772305595&width=1440"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -2873,13 +2878,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://paradiseroasters.com/cdn/shop/files/Paradise-tasting.jpg?crop=center&height=1440&v=1772305595&width=1440",
+      "imageSourceUrl": "https://paradiseroasters.com/pages/hawaii-roastery-tasting-room",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://paradiseroasters.com/cdn/shop/files/Paradise-tasting.jpg?crop=center&height=1440&v=1772305595&width=1440",
+      "originalThumbnail": "https://paradiseroasters.com/cdn/shop/files/Paradise-tasting.jpg?crop=center&height=1440&v=1772305595&width=1440",
+      "thumbnail": "https://paradiseroasters.com/cdn/shop/files/Paradise-tasting.jpg?crop=center&height=1440&v=1772305595&width=1440",
+      "smallThumbnail": "https://paradiseroasters.com/cdn/shop/files/Paradise-tasting.jpg?crop=center&height=1440&v=1772305595&width=1440"
     },
     {
       "address": "57 Mamo St, Hilo, HI 96720",
@@ -3383,7 +3392,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waikoloa</strong></p><p><strong>69-1081 Kuʻualiʻi Pl, Waikoloa, HI 96738</strong><br>(808) 769-5282</p></div>",
       "date": "2026-09-19T08:30:00-10:00",
       "id": 1045,
-      "images": [],
+      "images": [
+        {
+          "id": "lava-lava-beach-club-hero",
+          "url": "https://static.wixstatic.com/media/56dc34_443a1e27b84e44d6a41c01875df5142b~mv2.png/v1/fill/w_1430,h_946,al_c/56dc34_443a1e27b84e44d6a41c01875df5142b~mv2.png"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -3404,13 +3418,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.wixstatic.com/media/56dc34_443a1e27b84e44d6a41c01875df5142b~mv2.png/v1/fill/w_1430,h_946,al_c/56dc34_443a1e27b84e44d6a41c01875df5142b~mv2.png",
+      "imageSourceUrl": "https://lavalavabeachclub.com/bigisland/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://static.wixstatic.com/media/56dc34_443a1e27b84e44d6a41c01875df5142b~mv2.png/v1/fill/w_1430,h_946,al_c/56dc34_443a1e27b84e44d6a41c01875df5142b~mv2.png",
+      "originalThumbnail": "https://static.wixstatic.com/media/56dc34_443a1e27b84e44d6a41c01875df5142b~mv2.png/v1/fill/w_1430,h_946,al_c/56dc34_443a1e27b84e44d6a41c01875df5142b~mv2.png",
+      "thumbnail": "https://static.wixstatic.com/media/56dc34_443a1e27b84e44d6a41c01875df5142b~mv2.png/v1/fill/w_1430,h_946,al_c/56dc34_443a1e27b84e44d6a41c01875df5142b~mv2.png",
+      "smallThumbnail": "https://static.wixstatic.com/media/56dc34_443a1e27b84e44d6a41c01875df5142b~mv2.png/v1/fill/w_1430,h_946,al_c/56dc34_443a1e27b84e44d6a41c01875df5142b~mv2.png"
     },
     {
       "address": "485 Hinano St, Hilo, HI 96720",
@@ -9327,7 +9345,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>969 Kīlauea Ave, Hilo, HI 96720</strong><br>(808) 464-8594</p></div>",
       "date": "2026-09-19T10:45:00-10:00",
       "id": 1209,
-      "images": [],
+      "images": [
+        {
+          "id": "chris-bbq-grill-hero",
+          "url": "https://chrisbbqandgrill.com/wp-content/uploads/2024/06/Huli-Huli-600x600.png"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -9348,13 +9371,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://chrisbbqandgrill.com/wp-content/uploads/2024/06/Huli-Huli-600x600.png",
+      "imageSourceUrl": "https://chrisbbqandgrill.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://chrisbbqandgrill.com/wp-content/uploads/2024/06/Huli-Huli-600x600.png",
+      "originalThumbnail": "https://chrisbbqandgrill.com/wp-content/uploads/2024/06/Huli-Huli-600x600.png",
+      "thumbnail": "https://chrisbbqandgrill.com/wp-content/uploads/2024/06/Huli-Huli-600x600.png",
+      "smallThumbnail": "https://chrisbbqandgrill.com/wp-content/uploads/2024/06/Huli-Huli-600x600.png"
     },
     {
       "address": "64-703 Keaka Kea Pl, Waimea, HI 96743",
@@ -9363,7 +9390,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waimea</strong></p><p><strong>64-703 Keaka Kea Pl, Waimea, HI 96743</strong><br>747-242-3388</p></div>",
       "date": "2026-09-19T10:45:00-10:00",
       "id": 1210,
-      "images": [],
+      "images": [
+        {
+          "id": "country-grounds-coffee-co-hero",
+          "url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_800,h_800/https://countrygrounds.coffee/wp-content/uploads/2022/10/Drink-Home.png"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -9384,13 +9416,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_800,h_800/https://countrygrounds.coffee/wp-content/uploads/2022/10/Drink-Home.png",
+      "imageSourceUrl": "https://countrygrounds.coffee/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_800,h_800/https://countrygrounds.coffee/wp-content/uploads/2022/10/Drink-Home.png",
+      "originalThumbnail": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_800,h_800/https://countrygrounds.coffee/wp-content/uploads/2022/10/Drink-Home.png",
+      "thumbnail": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_800,h_800/https://countrygrounds.coffee/wp-content/uploads/2022/10/Drink-Home.png",
+      "smallThumbnail": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_800,h_800/https://countrygrounds.coffee/wp-content/uploads/2022/10/Drink-Home.png"
     },
     {
       "address": "64-1032 Mamalahoa Hwy, Suite 101, Waimea, HI 96743",
