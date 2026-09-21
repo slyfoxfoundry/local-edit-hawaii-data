@@ -4564,7 +4564,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1075,
-      "images": [],
+      "images": [
+        {
+          "id": "gecko-girlz-shave-ice-hero",
+          "url": "https://geckogirlz.com/wp-content/uploads/Shave-ice-lava-flow.png"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4585,13 +4590,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://geckogirlz.com/wp-content/uploads/Shave-ice-lava-flow.png",
+      "imageSourceUrl": "https://geckogirlz.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://geckogirlz.com/wp-content/uploads/Shave-ice-lava-flow.png",
+      "originalThumbnail": "https://geckogirlz.com/wp-content/uploads/Shave-ice-lava-flow.png",
+      "thumbnail": "https://geckogirlz.com/wp-content/uploads/Shave-ice-lava-flow.png",
+      "smallThumbnail": "https://geckogirlz.com/wp-content/uploads/Shave-ice-lava-flow.png"
     },
     {
       "address": "",
