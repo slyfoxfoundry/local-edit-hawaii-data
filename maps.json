@@ -7293,7 +7293,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Naʻalehu</strong></p></div>",
       "date": "2026-09-19T09:25:00-10:00",
       "id": 1153,
-      "images": [],
+      "images": [
+        {
+          "id": "ka-lae-coffee-hero",
+          "url": "https://kalaecoffee.com/pics/post932_2860_Blog2.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -7302,8 +7307,8 @@
       "summary": "Established Big Island coffee shop business.",
       "title": "Ka Lae Coffee",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://kalaecoffee.com/home",
+      "website": "https://kalaecoffee.com/home",
       "category": "Eat + Drink",
       "subcategory": "Coffee & Cafés",
       "placeType": "Coffee & Cafés",
@@ -7314,13 +7319,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://kalaecoffee.com/pics/post932_2860_Blog2.jpg",
+      "imageSourceUrl": "https://kalaecoffee.com/home",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://kalaecoffee.com/pics/post932_2860_Blog2.jpg",
+      "originalThumbnail": "https://kalaecoffee.com/pics/post932_2860_Blog2.jpg",
+      "thumbnail": "https://kalaecoffee.com/pics/post932_2860_Blog2.jpg",
+      "smallThumbnail": "https://kalaecoffee.com/pics/post932_2860_Blog2.jpg"
     },
     {
       "address": "",
@@ -11154,7 +11163,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Keaʻau</strong></p><p><strong>16-586 Old Volcano Rd, Keaʻau, HI 96749</strong><br>(808) 731-4880</p></div>",
       "date": "2026-09-19T11:30:00-10:00",
       "id": 1257,
-      "images": [],
+      "images": [
+        {
+          "id": "countryside-cafe-kea-au-hero",
+          "url": "https://static.wixstatic.com/media/ea9a45_135d2874807747e7add1133e3f61d59d.jpg/v1/fill/w_594,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ea9a45_135d2874807747e7add1133e3f61d59d.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -11175,13 +11189,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.wixstatic.com/media/ea9a45_135d2874807747e7add1133e3f61d59d.jpg/v1/fill/w_594,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ea9a45_135d2874807747e7add1133e3f61d59d.jpg",
+      "imageSourceUrl": "https://www.countrysidecafe808.net/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://static.wixstatic.com/media/ea9a45_135d2874807747e7add1133e3f61d59d.jpg/v1/fill/w_594,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ea9a45_135d2874807747e7add1133e3f61d59d.jpg",
+      "originalThumbnail": "https://static.wixstatic.com/media/ea9a45_135d2874807747e7add1133e3f61d59d.jpg/v1/fill/w_594,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ea9a45_135d2874807747e7add1133e3f61d59d.jpg",
+      "thumbnail": "https://static.wixstatic.com/media/ea9a45_135d2874807747e7add1133e3f61d59d.jpg/v1/fill/w_594,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ea9a45_135d2874807747e7add1133e3f61d59d.jpg",
+      "smallThumbnail": "https://static.wixstatic.com/media/ea9a45_135d2874807747e7add1133e3f61d59d.jpg/v1/fill/w_594,h_1102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ea9a45_135d2874807747e7add1133e3f61d59d.jpg"
     },
     {
       "address": "",
@@ -16270,7 +16288,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Pahala</strong></p><p><strong>96-2694 Wood Valley Rd, Pahala, HI 96777</strong></p></div>",
       "date": "2026-09-20T17:20:00-10:00",
       "id": 1398,
-      "images": [],
+      "images": [
+        {
+          "id": "kau-coffee-mill-hero",
+          "url": "https://cdn.shopify.com/s/files/1/0682/0446/2258/files/desktopVL.webp?v=1761281881"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -16279,8 +16302,8 @@
       "summary": "Established Big Island coffee / cafe business.",
       "title": "Kau Coffee Mill",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://kaucoffeemill.com/",
+      "website": "https://kaucoffeemill.com/",
       "category": "Eat + Drink",
       "subcategory": "Coffee & Cafés",
       "placeType": "Coffee & Cafés",
@@ -16291,13 +16314,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://cdn.shopify.com/s/files/1/0682/0446/2258/files/desktopVL.webp?v=1761281881",
+      "imageSourceUrl": "https://kaucoffeemill.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-20"
+      "hoursLastVerified": "2026-09-20",
+      "largeThumbnail": "https://cdn.shopify.com/s/files/1/0682/0446/2258/files/desktopVL.webp?v=1761281881",
+      "originalThumbnail": "https://cdn.shopify.com/s/files/1/0682/0446/2258/files/desktopVL.webp?v=1761281881",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0682/0446/2258/files/desktopVL.webp?v=1761281881",
+      "smallThumbnail": "https://cdn.shopify.com/s/files/1/0682/0446/2258/files/desktopVL.webp?v=1761281881"
     },
     {
       "address": "96-1155 Kamani St, Pahala, HI 96777",
