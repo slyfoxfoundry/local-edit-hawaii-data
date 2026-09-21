@@ -215,7 +215,36 @@
       "imageRights": "Official shopping-center directory",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "11:00",
+          "close": "18:00"
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -251,7 +280,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -287,7 +345,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -325,7 +412,36 @@
       "imageRights": "Official shopping-center directory",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -469,7 +585,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -613,7 +758,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -649,7 +823,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -723,7 +926,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "07:00",
+          "close": "15:00"
+        },
+        "Mon": {
+          "open": "07:00",
+          "close": "15:00"
+        },
+        "Tue": {
+          "open": "07:00",
+          "close": "15:00"
+        },
+        "Wed": {
+          "open": "07:00",
+          "close": "15:00"
+        },
+        "Thu": {
+          "open": "07:00",
+          "close": "15:00"
+        },
+        "Fri": {
+          "open": "07:00",
+          "close": "15:00"
+        },
+        "Sat": {
+          "open": "07:00",
+          "close": "15:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -759,7 +991,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Mon": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Wed": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Sun": {
+          "open": "09:00",
+          "close": "16:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -795,7 +1056,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Mon": {
+          "open": "10:30",
+          "close": "17:00"
+        },
+        "Tue": {
+          "open": "10:30",
+          "close": "17:00"
+        },
+        "Wed": {
+          "open": "10:30",
+          "close": "17:00"
+        },
+        "Thu": {
+          "open": "10:30",
+          "close": "17:00"
+        },
+        "Fri": {
+          "open": "10:30",
+          "close": "17:00"
+        },
+        "Sat": {
+          "open": "10:30",
+          "close": "17:00"
+        },
+        "Sun": {
+          "closed": true
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -903,7 +1192,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Mon": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Sun": {
+          "closed": true
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -1011,7 +1328,34 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "closed": true
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "15:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "15:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "15:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "15:00"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "15:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -1155,7 +1499,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Mon": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Sun": {
+          "closed": true
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -1299,7 +1671,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Mon": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Sun": {
+          "closed": true
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -1371,7 +1771,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -1445,7 +1873,36 @@
       "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Mon": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "Tue": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "Wed": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "Thu": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "Fri": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "Sat": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "Sun": {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -1481,7 +1938,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "06:00",
+          "close": "18:00"
+        },
+        "Tue": {
+          "open": "06:00",
+          "close": "18:00"
+        },
+        "Wed": {
+          "open": "06:00",
+          "close": "18:00"
+        },
+        "Thu": {
+          "open": "06:00",
+          "close": "18:00"
+        },
+        "Fri": {
+          "open": "06:00",
+          "close": "18:00"
+        },
+        "Sat": {
+          "open": "07:00",
+          "close": "16:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -1517,7 +2002,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Mon": {
+          "open": "09:00",
+          "close": "20:00"
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "20:00"
+        },
+        "Wed": {
+          "open": "09:00",
+          "close": "20:00"
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "20:00"
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "20:00"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "20:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -1591,7 +2105,36 @@
       "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "05:30",
+          "close": "22:00"
+        },
+        "Mon": {
+          "open": "05:30",
+          "close": "22:00"
+        },
+        "Tue": {
+          "open": "05:30",
+          "close": "22:00"
+        },
+        "Wed": {
+          "open": "05:30",
+          "close": "22:00"
+        },
+        "Thu": {
+          "open": "05:30",
+          "close": "22:00"
+        },
+        "Fri": {
+          "open": "05:30",
+          "close": "22:00"
+        },
+        "Sat": {
+          "open": "05:30",
+          "close": "22:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -1627,7 +2170,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "06:00",
+          "close": "22:00"
+        },
+        "Mon": {
+          "open": "06:00",
+          "close": "22:00"
+        },
+        "Tue": {
+          "open": "06:00",
+          "close": "22:00"
+        },
+        "Wed": {
+          "open": "06:00",
+          "close": "22:00"
+        },
+        "Thu": {
+          "open": "06:00",
+          "close": "22:00"
+        },
+        "Fri": {
+          "open": "06:00",
+          "close": "22:00"
+        },
+        "Sat": {
+          "open": "06:00",
+          "close": "22:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -1699,7 +2271,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Mon": {
+          "open": "09:00",
+          "close": "19:00"
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "19:00"
+        },
+        "Wed": {
+          "open": "09:00",
+          "close": "19:00"
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "19:00"
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "19:00"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "Sun": {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -1737,7 +2338,36 @@
       "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Mon": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "21:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "21:00"
+        },
+        "Sun": {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -1775,7 +2405,36 @@
       "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Mon": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "Tue": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "Wed": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "Thu": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "Fri": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Sun": {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -1813,7 +2472,36 @@
       "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Mon": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Wed": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Sun": {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -2101,7 +2789,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Mon": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Wed": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -2245,7 +2962,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "10:00",
+          "close": "17:30"
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "17:30"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "17:30"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "17:30"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "17:30"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "17:30"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "17:30"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -2353,7 +3099,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "09:00",
+          "close": "19:00"
+        },
+        "Mon": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Wed": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -2461,7 +3236,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "08:30",
+          "close": "22:00"
+        },
+        "Mon": {
+          "open": "08:30",
+          "close": "22:00"
+        },
+        "Tue": {
+          "open": "08:30",
+          "close": "22:00"
+        },
+        "Wed": {
+          "open": "08:30",
+          "close": "22:00"
+        },
+        "Thu": {
+          "open": "08:30",
+          "close": "22:00"
+        },
+        "Fri": {
+          "open": "08:30",
+          "close": "22:00"
+        },
+        "Sat": {
+          "open": "08:30",
+          "close": "22:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -2497,7 +3301,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "18:45"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "18:45"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "18:45"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "18:45"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "18:45"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "18:45"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -2641,7 +3474,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "09:00",
+          "close": "19:30"
+        },
+        "Mon": {
+          "open": "09:00",
+          "close": "19:30"
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "19:30"
+        },
+        "Wed": {
+          "open": "09:00",
+          "close": "19:30"
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "19:30"
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "19:30"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "19:30"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -2713,7 +3575,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3145,7 +4035,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "00:00",
+          "close": "24:00"
+        },
+        "Mon": {
+          "open": "00:00",
+          "close": "24:00"
+        },
+        "Tue": {
+          "open": "00:00",
+          "close": "24:00"
+        },
+        "Wed": {
+          "open": "00:00",
+          "close": "24:00"
+        },
+        "Thu": {
+          "open": "00:00",
+          "close": "24:00"
+        },
+        "Fri": {
+          "open": "00:00",
+          "close": "24:00"
+        },
+        "Sat": {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3181,7 +4100,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3217,7 +4165,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Mon": {
+          "open": "05:30",
+          "close": "20:00"
+        },
+        "Tue": {
+          "open": "05:30",
+          "close": "20:00"
+        },
+        "Wed": {
+          "open": "05:30",
+          "close": "20:00"
+        },
+        "Thu": {
+          "open": "05:30",
+          "close": "20:00"
+        },
+        "Fri": {
+          "open": "05:30",
+          "close": "20:00"
+        },
+        "Sat": {
+          "open": "06:00",
+          "close": "20:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3325,7 +4302,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "08:00",
+          "close": "16:00"
+        },
+        "Mon": {
+          "open": "08:00",
+          "close": "19:00"
+        },
+        "Tue": {
+          "open": "08:00",
+          "close": "19:00"
+        },
+        "Wed": {
+          "open": "08:00",
+          "close": "19:00"
+        },
+        "Thu": {
+          "open": "08:00",
+          "close": "19:00"
+        },
+        "Fri": {
+          "open": "08:00",
+          "close": "19:00"
+        },
+        "Sat": {
+          "open": "08:00",
+          "close": "19:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3397,7 +4403,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "10:00",
+          "close": "16:30"
+        },
+        "Mon": {
+          "open": "09:00",
+          "close": "17:30"
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "17:30"
+        },
+        "Wed": {
+          "open": "09:00",
+          "close": "17:30"
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "17:30"
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "17:30"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3433,7 +4468,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "09:30",
+          "close": "16:30"
+        },
+        "Tue": {
+          "open": "09:30",
+          "close": "16:30"
+        },
+        "Wed": {
+          "open": "09:30",
+          "close": "16:30"
+        },
+        "Thu": {
+          "open": "09:30",
+          "close": "16:30"
+        },
+        "Fri": {
+          "open": "09:30",
+          "close": "16:30"
+        },
+        "Sat": {
+          "open": "09:30",
+          "close": "15:30"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3469,7 +4532,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "11:30",
+          "close": "15:30"
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3507,7 +4599,36 @@
       "imageRights": "Official shopping-center directory",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "11:00",
+          "close": "17:00"
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "18:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3543,7 +4664,34 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "11:00",
+          "close": "19:30"
+        },
+        "Mon": {
+          "open": "11:00",
+          "close": "19:30"
+        },
+        "Tue": {
+          "closed": true
+        },
+        "Wed": {
+          "closed": true
+        },
+        "Thu": {
+          "open": "11:00",
+          "close": "19:30"
+        },
+        "Fri": {
+          "open": "11:00",
+          "close": "19:30"
+        },
+        "Sat": {
+          "open": "11:00",
+          "close": "19:30"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3579,7 +4727,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "10:30",
+          "close": "16:00"
+        },
+        "Tue": {
+          "open": "10:30",
+          "close": "16:00"
+        },
+        "Wed": {
+          "open": "10:30",
+          "close": "16:00"
+        },
+        "Thu": {
+          "open": "10:30",
+          "close": "16:00"
+        },
+        "Fri": {
+          "open": "10:30",
+          "close": "16:00"
+        },
+        "Sat": {
+          "open": "10:30",
+          "close": "16:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3615,7 +4791,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3651,7 +4855,34 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "11:00",
+          "close": "20:00"
+        },
+        "Mon": {
+          "open": "11:00",
+          "close": "20:00"
+        },
+        "Tue": {
+          "closed": true
+        },
+        "Wed": {
+          "closed": true
+        },
+        "Thu": {
+          "open": "11:00",
+          "close": "20:00"
+        },
+        "Fri": {
+          "open": "11:00",
+          "close": "20:00"
+        },
+        "Sat": {
+          "open": "11:00",
+          "close": "20:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3687,7 +4918,32 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "closed": true
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "13:00"
+        },
+        "Wed": {
+          "closed": true
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "13:00"
+        },
+        "Fri": {
+          "closed": true
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "13:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3723,7 +4979,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3759,7 +5043,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "09:00",
+          "close": "15:00"
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "15:00"
+        },
+        "Wed": {
+          "open": "09:00",
+          "close": "15:00"
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "15:00"
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "15:00"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "12:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3795,7 +5107,30 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "closed": true
+        },
+        "Tue": {
+          "closed": true
+        },
+        "Wed": {
+          "closed": true
+        },
+        "Thu": {
+          "closed": true
+        },
+        "Fri": {
+          "closed": true
+        },
+        "Sat": {
+          "open": "07:30",
+          "close": "12:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3833,7 +5168,36 @@
       "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Mon": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Tue": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Wed": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Thu": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Fri": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Sat": {
+          "open": "06:00",
+          "close": "20:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3869,7 +5233,30 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "closed": true
+        },
+        "Tue": {
+          "closed": true
+        },
+        "Wed": {
+          "open": "08:30",
+          "close": "13:30"
+        },
+        "Thu": {
+          "closed": true
+        },
+        "Fri": {
+          "closed": true
+        },
+        "Sat": {
+          "closed": true
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3905,7 +5292,30 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "closed": true
+        },
+        "Tue": {
+          "closed": true
+        },
+        "Wed": {
+          "closed": true
+        },
+        "Thu": {
+          "closed": true
+        },
+        "Fri": {
+          "closed": true
+        },
+        "Sat": {
+          "open": "07:30",
+          "close": "13:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3943,7 +5353,36 @@
       "imageRights": "Official shopping-center directory",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "05:00",
+          "close": "23:00"
+        },
+        "Mon": {
+          "open": "05:00",
+          "close": "23:00"
+        },
+        "Tue": {
+          "open": "05:00",
+          "close": "23:00"
+        },
+        "Wed": {
+          "open": "05:00",
+          "close": "23:00"
+        },
+        "Thu": {
+          "open": "05:00",
+          "close": "23:00"
+        },
+        "Fri": {
+          "open": "05:00",
+          "close": "23:00"
+        },
+        "Sat": {
+          "open": "05:00",
+          "close": "23:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -3979,7 +5418,30 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "closed": true
+        },
+        "Tue": {
+          "closed": true
+        },
+        "Wed": {
+          "closed": true
+        },
+        "Thu": {
+          "closed": true
+        },
+        "Fri": {
+          "closed": true
+        },
+        "Sat": {
+          "open": "07:00",
+          "close": "12:30"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4051,7 +5513,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4159,7 +5649,34 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "11:30",
+          "close": "16:30"
+        },
+        "Mon": {
+          "closed": true
+        },
+        "Tue": {
+          "closed": true
+        },
+        "Wed": {
+          "open": "11:30",
+          "close": "16:30"
+        },
+        "Thu": {
+          "open": "11:30",
+          "close": "16:30"
+        },
+        "Fri": {
+          "open": "11:30",
+          "close": "16:30"
+        },
+        "Sat": {
+          "open": "11:30",
+          "close": "16:30"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4231,7 +5748,34 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "closed": true
+        },
+        "Tue": {
+          "open": "10:30",
+          "close": "16:00"
+        },
+        "Wed": {
+          "open": "10:30",
+          "close": "16:00"
+        },
+        "Thu": {
+          "open": "10:30",
+          "close": "16:00"
+        },
+        "Fri": {
+          "open": "10:30",
+          "close": "16:00"
+        },
+        "Sat": {
+          "open": "10:30",
+          "close": "16:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4267,7 +5811,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "10:00",
+          "close": "14:00"
+        },
+        "Mon": {
+          "closed": true
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4339,7 +5911,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "18:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4375,7 +5976,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4411,7 +6040,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "10:30",
+          "close": "18:30"
+        },
+        "Tue": {
+          "open": "10:30",
+          "close": "18:30"
+        },
+        "Wed": {
+          "open": "10:30",
+          "close": "18:30"
+        },
+        "Thu": {
+          "open": "10:30",
+          "close": "18:30"
+        },
+        "Fri": {
+          "open": "10:30",
+          "close": "18:30"
+        },
+        "Sat": {
+          "open": "10:30",
+          "close": "18:30"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4447,7 +6104,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "09:00",
+          "close": "14:00"
+        },
+        "Mon": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Wed": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4555,7 +6241,30 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "07:30",
+          "close": "14:00"
+        },
+        "Mon": {
+          "closed": true
+        },
+        "Tue": {
+          "closed": true
+        },
+        "Wed": {
+          "closed": true
+        },
+        "Thu": {
+          "closed": true
+        },
+        "Fri": {
+          "closed": true
+        },
+        "Sat": {
+          "closed": true
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4591,7 +6300,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Mon": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Tue": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Wed": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Thu": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Fri": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Sat": {
+          "open": "06:00",
+          "close": "20:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4627,7 +6365,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "Mon": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "Tue": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "Wed": {
+          "open": "08:00",
+          "close": "21:00"
+        },
+        "Thu": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "Fri": {
+          "open": "08:00",
+          "close": "17:00"
+        },
+        "Sat": {
+          "open": "08:00",
+          "close": "17:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4665,7 +6432,36 @@
       "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "06:00",
+          "close": "21:00"
+        },
+        "Mon": {
+          "open": "06:00",
+          "close": "21:00"
+        },
+        "Tue": {
+          "open": "06:00",
+          "close": "21:00"
+        },
+        "Wed": {
+          "open": "06:00",
+          "close": "21:00"
+        },
+        "Thu": {
+          "open": "06:00",
+          "close": "21:00"
+        },
+        "Fri": {
+          "open": "06:00",
+          "close": "21:00"
+        },
+        "Sat": {
+          "open": "06:00",
+          "close": "21:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4701,7 +6497,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "07:00",
+          "close": "20:00"
+        },
+        "Mon": {
+          "open": "06:30",
+          "close": "20:00"
+        },
+        "Tue": {
+          "open": "06:30",
+          "close": "20:00"
+        },
+        "Wed": {
+          "open": "06:30",
+          "close": "20:00"
+        },
+        "Thu": {
+          "open": "06:30",
+          "close": "20:00"
+        },
+        "Fri": {
+          "open": "06:30",
+          "close": "20:00"
+        },
+        "Sat": {
+          "open": "06:30",
+          "close": "20:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4739,7 +6564,36 @@
       "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Mon": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "Tue": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "Wed": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "Thu": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "Fri": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Sun": {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4775,7 +6629,32 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Mon": {
+          "closed": true
+        },
+        "Tue": {
+          "closed": true
+        },
+        "Wed": {
+          "closed": true
+        },
+        "Thu": {
+          "closed": true
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "17:00"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4811,7 +6690,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "Mon": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "Tue": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "Wed": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "Thu": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "Fri": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "Sat": {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4847,7 +6755,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "06:30",
+          "close": "22:00"
+        },
+        "Mon": {
+          "open": "06:30",
+          "close": "22:00"
+        },
+        "Tue": {
+          "open": "06:30",
+          "close": "22:00"
+        },
+        "Wed": {
+          "open": "06:30",
+          "close": "22:00"
+        },
+        "Thu": {
+          "open": "06:30",
+          "close": "22:00"
+        },
+        "Fri": {
+          "open": "06:30",
+          "close": "22:00"
+        },
+        "Sat": {
+          "open": "06:30",
+          "close": "22:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4883,7 +6820,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "06:00",
+          "close": "21:00"
+        },
+        "Mon": {
+          "open": "06:00",
+          "close": "21:00"
+        },
+        "Tue": {
+          "open": "06:00",
+          "close": "21:00"
+        },
+        "Wed": {
+          "open": "06:00",
+          "close": "21:00"
+        },
+        "Thu": {
+          "open": "06:00",
+          "close": "21:00"
+        },
+        "Fri": {
+          "open": "06:00",
+          "close": "21:00"
+        },
+        "Sat": {
+          "open": "06:00",
+          "close": "21:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4919,7 +6885,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Mon": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "Wed": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4957,7 +6952,36 @@
       "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "Mon": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "Tue": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "Wed": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "Thu": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "Fri": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "Sat": {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -4993,7 +7017,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "05:00",
+          "close": "18:30"
+        },
+        "Mon": {
+          "open": "05:00",
+          "close": "18:30"
+        },
+        "Tue": {
+          "open": "05:00",
+          "close": "18:30"
+        },
+        "Wed": {
+          "open": "05:00",
+          "close": "18:30"
+        },
+        "Thu": {
+          "open": "05:00",
+          "close": "18:30"
+        },
+        "Fri": {
+          "open": "05:00",
+          "close": "18:30"
+        },
+        "Sat": {
+          "open": "05:00",
+          "close": "18:30"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5029,7 +7082,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "Mon": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "Tue": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "Wed": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "Thu": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "Fri": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "Sat": {
+          "open": "07:00",
+          "close": "19:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5105,7 +7187,35 @@
       "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "10:00",
+          "close": "14:00"
+        },
+        "Mon": {
+          "closed": true
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Sat": {
+          "open": "11:00",
+          "close": "15:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5177,7 +7287,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "06:00",
+          "close": "21:45"
+        },
+        "Mon": {
+          "open": "06:00",
+          "close": "21:45"
+        },
+        "Tue": {
+          "open": "06:00",
+          "close": "21:45"
+        },
+        "Wed": {
+          "open": "06:00",
+          "close": "21:45"
+        },
+        "Thu": {
+          "open": "06:00",
+          "close": "21:45"
+        },
+        "Fri": {
+          "open": "06:00",
+          "close": "21:45"
+        },
+        "Sat": {
+          "open": "06:00",
+          "close": "21:45"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5213,7 +7352,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "Mon": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Tue": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Wed": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Thu": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Fri": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Sat": {
+          "open": "06:00",
+          "close": "20:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5249,7 +7417,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Mon": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Tue": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Wed": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Thu": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Fri": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Sat": {
+          "open": "06:00",
+          "close": "20:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5287,7 +7484,36 @@
       "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "08:30",
+          "close": "14:00"
+        },
+        "Mon": {
+          "open": "09:00",
+          "close": "15:00"
+        },
+        "Tue": {
+          "open": "08:30",
+          "close": "15:00"
+        },
+        "Wed": {
+          "open": "08:30",
+          "close": "15:00"
+        },
+        "Thu": {
+          "open": "08:30",
+          "close": "15:00"
+        },
+        "Fri": {
+          "open": "08:30",
+          "close": "14:00"
+        },
+        "Sat": {
+          "open": "08:30",
+          "close": "15:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5323,7 +7549,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "05:00",
+          "close": "23:00"
+        },
+        "Mon": {
+          "open": "05:00",
+          "close": "23:00"
+        },
+        "Tue": {
+          "open": "05:00",
+          "close": "23:00"
+        },
+        "Wed": {
+          "open": "05:00",
+          "close": "23:00"
+        },
+        "Thu": {
+          "open": "05:00",
+          "close": "23:00"
+        },
+        "Fri": {
+          "open": "05:00",
+          "close": "23:00"
+        },
+        "Sat": {
+          "open": "05:00",
+          "close": "23:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5359,7 +7614,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Wed": {
+          "open": "09:30",
+          "close": "17:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Sat": {
+          "open": "09:30",
+          "close": "17:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5395,7 +7678,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "11:00",
+          "close": "15:00"
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Sat": {
+          "closed": true
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5431,7 +7742,32 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Tue": {
+          "closed": true
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Thu": {
+          "closed": true
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "16:00"
+        },
+        "Sat": {
+          "closed": true
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5469,7 +7805,36 @@
       "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "09:00",
+          "close": "17:30"
+        },
+        "Mon": {
+          "open": "09:00",
+          "close": "17:30"
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "17:30"
+        },
+        "Wed": {
+          "open": "09:00",
+          "close": "17:30"
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "17:30"
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "17:30"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "17:30"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5507,7 +7872,31 @@
       "imageRights": "Official organization website",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "closed": true
+        },
+        "Tue": {
+          "closed": true
+        },
+        "Wed": {
+          "open": "08:00",
+          "close": "14:00"
+        },
+        "Thu": {
+          "closed": true
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "15:00"
+        },
+        "Sat": {
+          "closed": true
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5543,7 +7932,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "08:00",
+          "close": "12:00"
+        },
+        "Mon": {
+          "open": "06:00",
+          "close": "19:00"
+        },
+        "Tue": {
+          "open": "06:00",
+          "close": "19:00"
+        },
+        "Wed": {
+          "open": "06:00",
+          "close": "19:00"
+        },
+        "Thu": {
+          "open": "06:00",
+          "close": "19:00"
+        },
+        "Fri": {
+          "open": "06:00",
+          "close": "19:00"
+        },
+        "Sat": {
+          "open": "07:00",
+          "close": "17:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5579,7 +7997,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Mon": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Wed": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "21:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5615,7 +8062,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "07:00",
+          "close": "16:00"
+        },
+        "Tue": {
+          "open": "07:00",
+          "close": "16:00"
+        },
+        "Wed": {
+          "open": "07:00",
+          "close": "16:00"
+        },
+        "Thu": {
+          "open": "07:00",
+          "close": "16:00"
+        },
+        "Fri": {
+          "open": "07:00",
+          "close": "16:00"
+        },
+        "Sat": {
+          "open": "08:00",
+          "close": "12:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5651,7 +8126,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "08:00",
+          "close": "15:00"
+        },
+        "Tue": {
+          "open": "08:00",
+          "close": "15:00"
+        },
+        "Wed": {
+          "open": "08:00",
+          "close": "15:00"
+        },
+        "Thu": {
+          "open": "08:00",
+          "close": "15:00"
+        },
+        "Fri": {
+          "open": "08:00",
+          "close": "15:00"
+        },
+        "Sat": {
+          "open": "08:00",
+          "close": "15:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5723,7 +8226,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "05:30",
+          "close": "20:30"
+        },
+        "Mon": {
+          "open": "05:00",
+          "close": "20:30"
+        },
+        "Tue": {
+          "open": "05:00",
+          "close": "20:30"
+        },
+        "Wed": {
+          "open": "05:00",
+          "close": "20:30"
+        },
+        "Thu": {
+          "open": "05:00",
+          "close": "20:30"
+        },
+        "Fri": {
+          "open": "05:00",
+          "close": "21:00"
+        },
+        "Sat": {
+          "open": "05:00",
+          "close": "21:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5759,7 +8291,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Mon": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Tue": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Wed": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Thu": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Fri": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "Sat": {
+          "open": "06:00",
+          "close": "20:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5795,7 +8356,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "10:00",
+          "close": "19:00"
+        },
+        "Mon": {
+          "open": "09:00",
+          "close": "19:00"
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "19:00"
+        },
+        "Wed": {
+          "open": "09:00",
+          "close": "19:00"
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "19:00"
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "19:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5833,7 +8423,36 @@
       "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Mon": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "Wed": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "Sat": {
+          "open": "09:00",
+          "close": "18:00"
+        },
+        "Sun": {
+          "open": "09:00",
+          "close": "17:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5869,7 +8488,30 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "closed": true
+        },
+        "Tue": {
+          "closed": true
+        },
+        "Wed": {
+          "closed": true
+        },
+        "Thu": {
+          "closed": true
+        },
+        "Fri": {
+          "closed": true
+        },
+        "Sat": {
+          "open": "07:00",
+          "close": "12:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5907,7 +8549,36 @@
       "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "08:00",
+          "close": "16:00"
+        },
+        "Mon": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "Tue": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "Wed": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "Thu": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "Fri": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "Sat": {
+          "open": "07:00",
+          "close": "18:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5943,7 +8614,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "05:00",
+          "close": "21:30"
+        },
+        "Mon": {
+          "open": "05:00",
+          "close": "21:30"
+        },
+        "Tue": {
+          "open": "05:00",
+          "close": "21:30"
+        },
+        "Wed": {
+          "open": "05:00",
+          "close": "21:30"
+        },
+        "Thu": {
+          "open": "05:00",
+          "close": "21:30"
+        },
+        "Fri": {
+          "open": "05:00",
+          "close": "21:30"
+        },
+        "Sat": {
+          "open": "05:00",
+          "close": "21:30"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -5979,7 +8679,35 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Tue": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "17:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -6015,7 +8743,36 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "open": "05:00",
+          "close": "21:30"
+        },
+        "Mon": {
+          "open": "05:00",
+          "close": "21:30"
+        },
+        "Tue": {
+          "open": "05:00",
+          "close": "21:30"
+        },
+        "Wed": {
+          "open": "05:00",
+          "close": "21:30"
+        },
+        "Thu": {
+          "open": "05:00",
+          "close": "21:30"
+        },
+        "Fri": {
+          "open": "05:00",
+          "close": "21:30"
+        },
+        "Sat": {
+          "open": "05:00",
+          "close": "21:30"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -6053,7 +8810,34 @@
       "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "open": "09:00",
+          "close": "16:00"
+        },
+        "Tue": {
+          "open": "09:00",
+          "close": "16:00"
+        },
+        "Wed": {
+          "open": "09:00",
+          "close": "16:00"
+        },
+        "Thu": {
+          "open": "09:00",
+          "close": "16:00"
+        },
+        "Fri": {
+          "open": "09:00",
+          "close": "16:00"
+        },
+        "Sat": {
+          "closed": true
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
@@ -6125,7 +8909,33 @@
       "imageRights": "Needs review",
       "featured": false,
       "listingPlan": "basic",
-      "hoursStructured": null,
+      "hoursStructured": {
+        "Sun": {
+          "closed": true
+        },
+        "Mon": {
+          "closed": true
+        },
+        "Tue": {
+          "closed": true
+        },
+        "Wed": {
+          "open": "10:00",
+          "close": "16:30"
+        },
+        "Thu": {
+          "open": "10:00",
+          "close": "16:30"
+        },
+        "Fri": {
+          "open": "10:00",
+          "close": "16:30"
+        },
+        "Sat": {
+          "open": "10:00",
+          "close": "16:00"
+        }
+      },
       "hoursLastVerified": "2026-09-21"
     },
     {
