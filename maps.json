@@ -7172,7 +7172,11 @@
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "",
+      "originalThumbnail": "",
+      "thumbnail": "",
+      "smallThumbnail": ""
     },
     {
       "address": "",
@@ -7361,7 +7365,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Naʻalehu</strong></p></div>",
       "date": "2026-09-19T09:25:00-10:00",
       "id": 1155,
-      "images": [],
+      "images": [
+        {
+          "id": "mauka-to-makai-a-local-eatery-at-manadina-farm-hero",
+          "url": "https://static.wixstatic.com/media/314a61_f0f9aaf728e2461588b7e7fe0c04def8~mv2.jpg/v1/fill/w_980%2Ch_653%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/314a61_f0f9aaf728e2461588b7e7fe0c04def8~mv2.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -7382,13 +7391,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.wixstatic.com/media/314a61_f0f9aaf728e2461588b7e7fe0c04def8~mv2.jpg/v1/fill/w_980%2Ch_653%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/314a61_f0f9aaf728e2461588b7e7fe0c04def8~mv2.jpg",
+      "imageSourceUrl": "https://www.manadina.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://static.wixstatic.com/media/314a61_f0f9aaf728e2461588b7e7fe0c04def8~mv2.jpg/v1/fill/w_980%2Ch_653%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/314a61_f0f9aaf728e2461588b7e7fe0c04def8~mv2.jpg",
+      "originalThumbnail": "https://static.wixstatic.com/media/314a61_f0f9aaf728e2461588b7e7fe0c04def8~mv2.jpg/v1/fill/w_980%2Ch_653%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/314a61_f0f9aaf728e2461588b7e7fe0c04def8~mv2.jpg",
+      "thumbnail": "https://static.wixstatic.com/media/314a61_f0f9aaf728e2461588b7e7fe0c04def8~mv2.jpg/v1/fill/w_980%2Ch_653%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/314a61_f0f9aaf728e2461588b7e7fe0c04def8~mv2.jpg",
+      "smallThumbnail": "https://static.wixstatic.com/media/314a61_f0f9aaf728e2461588b7e7fe0c04def8~mv2.jpg/v1/fill/w_980%2Ch_653%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/314a61_f0f9aaf728e2461588b7e7fe0c04def8~mv2.jpg"
     },
     {
       "address": "",
