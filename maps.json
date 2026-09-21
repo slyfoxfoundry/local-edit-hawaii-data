@@ -3898,7 +3898,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1055,
-      "images": [],
+      "images": [
+        {
+          "id": "miyo-s-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://miyosrestaurant.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -3907,8 +3912,8 @@
       "summary": "Established Big Island japanese business.",
       "title": "Miyo's",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://miyosrestaurant.com/",
+      "website": "https://miyosrestaurant.com/",
       "category": "Eat + Drink",
       "subcategory": "Japanese & Sushi",
       "placeType": "Japanese & Sushi",
@@ -3919,13 +3924,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://miyosrestaurant.com/",
+      "imageSourceUrl": "https://miyosrestaurant.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://miyosrestaurant.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://miyosrestaurant.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://miyosrestaurant.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://miyosrestaurant.com/"
     },
     {
       "address": "",
@@ -4078,7 +4087,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1060,
-      "images": [],
+      "images": [
+        {
+          "id": "hilo-burger-joint-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://hiloburgerjoint.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4087,8 +4101,8 @@
       "summary": "Established Big Island burgers / bar business.",
       "title": "Hilo Burger Joint",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://hiloburgerjoint.com/",
+      "website": "https://hiloburgerjoint.com/",
       "category": "Eat + Drink",
       "subcategory": "Bars, Breweries & Nightlife",
       "placeType": "Bars, Breweries & Nightlife",
@@ -4099,13 +4113,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://hiloburgerjoint.com/",
+      "imageSourceUrl": "https://hiloburgerjoint.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://hiloburgerjoint.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://hiloburgerjoint.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://hiloburgerjoint.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://hiloburgerjoint.com/"
     },
     {
       "address": "",
@@ -4330,7 +4348,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>585 Hinano St, Hilo, HI 96720</strong><br>(808) 935-8890</p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1067,
-      "images": [],
+      "images": [
+        {
+          "id": "big-island-candies-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandcandies.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4339,8 +4362,8 @@
       "summary": "Established Big Island confections / dessert business.",
       "title": "Big Island Candies",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.bigislandcandies.com/",
+      "website": "https://www.bigislandcandies.com/",
       "category": "Eat + Drink",
       "subcategory": "Bakery & Sweets",
       "placeType": "Bakery & Sweets",
@@ -4351,13 +4374,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandcandies.com/",
+      "imageSourceUrl": "https://www.bigislandcandies.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandcandies.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandcandies.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandcandies.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.bigislandcandies.com/"
     },
     {
       "address": "",
@@ -4492,7 +4519,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>75-5828 Kahakai Rd, Kailua-Kona, HI 96740</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1071,
-      "images": [],
+      "images": [
+        {
+          "id": "huggo-s-on-the-rocks-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.huggosontherocks.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4501,8 +4533,8 @@
       "summary": "Established Big Island beach bar / restaurant business.",
       "title": "Huggo's On The Rocks",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.huggosontherocks.com/",
+      "website": "https://www.huggosontherocks.com/",
       "category": "Eat + Drink",
       "subcategory": "Bars, Breweries & Nightlife",
       "placeType": "Bars, Breweries & Nightlife",
@@ -4513,13 +4545,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.huggosontherocks.com/",
+      "imageSourceUrl": "https://www.huggosontherocks.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.huggosontherocks.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.huggosontherocks.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.huggosontherocks.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.huggosontherocks.com/"
     },
     {
       "address": "",
@@ -4618,7 +4654,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1074,
-      "images": [],
+      "images": [
+        {
+          "id": "magics-beach-grill-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://magicsbeachgrill.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4627,8 +4668,8 @@
       "summary": "Established Big Island seafood / bar business.",
       "title": "Magics Beach Grill",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://magicsbeachgrill.com/",
+      "website": "https://magicsbeachgrill.com/",
       "category": "Eat + Drink",
       "subcategory": "Bars, Breweries & Nightlife",
       "placeType": "Bars, Breweries & Nightlife",
@@ -4639,13 +4680,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://magicsbeachgrill.com/",
+      "imageSourceUrl": "https://magicsbeachgrill.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://magicsbeachgrill.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://magicsbeachgrill.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://magicsbeachgrill.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://magicsbeachgrill.com/"
     },
     {
       "address": "",
@@ -4699,7 +4744,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1076,
-      "images": [],
+      "images": [
+        {
+          "id": "scandinavian-shave-ice-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://scandinavianshaveice.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4708,8 +4758,8 @@
       "summary": "Established Big Island shave ice / dessert business.",
       "title": "Scandinavian Shave Ice",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://scandinavianshaveice.com/",
+      "website": "https://scandinavianshaveice.com/",
       "category": "Eat + Drink",
       "subcategory": "Shave Ice & Frozen Treats",
       "placeType": "Shave Ice & Frozen Treats",
@@ -4720,13 +4770,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://scandinavianshaveice.com/",
+      "imageSourceUrl": "https://scandinavianshaveice.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://scandinavianshaveice.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://scandinavianshaveice.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://scandinavianshaveice.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://scandinavianshaveice.com/"
     },
     {
       "address": "",
@@ -4735,7 +4789,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1077,
-      "images": [],
+      "images": [
+        {
+          "id": "one-aloha-shave-ice-co-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.onealohashaveice.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4744,8 +4803,8 @@
       "summary": "Established Big Island shave ice / dessert business.",
       "title": "One Aloha Shave Ice Co.",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.onealohashaveice.com/",
+      "website": "https://www.onealohashaveice.com/",
       "category": "Eat + Drink",
       "subcategory": "Shave Ice & Frozen Treats",
       "placeType": "Shave Ice & Frozen Treats",
@@ -4756,13 +4815,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.onealohashaveice.com/",
+      "imageSourceUrl": "https://www.onealohashaveice.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.onealohashaveice.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.onealohashaveice.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.onealohashaveice.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.onealohashaveice.com/"
     },
     {
       "address": "74-425 Kealakehe Pkwy #4, Kailua-Kona, HI 96740",
@@ -4771,7 +4834,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>74-425 Kealakehe Pkwy #4, Kailua-Kona, HI 96740</strong><br>(808) 326-4166</p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1078,
-      "images": [],
+      "images": [
+        {
+          "id": "harbor-house-kona-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.theharborhousekona.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4780,8 +4848,8 @@
       "summary": "Established Big Island seafood / harbor restaurant business.",
       "title": "Harbor House Kona",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.theharborhousekona.com/",
+      "website": "https://www.theharborhousekona.com/",
       "category": "Eat + Drink",
       "subcategory": "Poke & Seafood",
       "placeType": "Poke & Seafood",
@@ -4792,13 +4860,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.theharborhousekona.com/",
+      "imageSourceUrl": "https://www.theharborhousekona.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.theharborhousekona.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.theharborhousekona.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.theharborhousekona.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.theharborhousekona.com/"
     },
     {
       "address": "",
