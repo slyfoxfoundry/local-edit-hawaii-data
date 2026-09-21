@@ -23059,7 +23059,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kohala Coast</strong></p></div>",
       "date": "2026-09-21T19:00:00-10:00",
       "id": 1589,
-      "images": [],
+      "images": [
+        {
+          "id": "ikena-landing-hero",
+          "url": "https://www.maunakearesort.com/images/hero/full/ikena-landing-buffet-1920x1200.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -23080,9 +23085,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.maunakearesort.com/images/hero/full/ikena-landing-buffet-1920x1200.jpg",
+      "imageSourceUrl": "https://www.maunakearesort.com/dine/casual/ikena-landing",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
@@ -23095,7 +23100,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kohala Coast</strong></p></div>",
       "date": "2026-09-21T19:00:00-10:00",
       "id": 1590,
-      "images": [],
+      "images": [
+        {
+          "id": "mauna-kea-luau-hero",
+          "url": "https://www.maunakearesort.com/images/maunakeabeachhotel/hero/partial/fire-knife.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -23116,9 +23126,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.maunakearesort.com/images/maunakeabeachhotel/hero/partial/fire-knife.jpg",
+      "imageSourceUrl": "https://www.maunakearesort.com/mauna-kea-beach-hotel/dining/mauna-kea-luau",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
