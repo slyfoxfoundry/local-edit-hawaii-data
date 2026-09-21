@@ -1470,7 +1470,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>80 Pauahi St, Hilo, HI 96720</strong><br>(808) 959-2336</p></div>",
       "date": "2026-09-19T12:00:00-10:00",
       "id": 1019,
-      "images": [],
+      "images": [
+        {
+          "id": "kuhio-grille-hero",
+          "url": "https://www.kuhiogrille.com/wp-content/uploads/2023/07/kuhiogrille_homebg-scaled.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -1491,9 +1496,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.kuhiogrille.com/wp-content/uploads/2023/07/kuhiogrille_homebg-scaled.jpg",
+      "imageSourceUrl": "https://www.kuhiogrille.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -2945,7 +2950,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>1177 Kilauea Ave, Hilo, HI 96720</strong><br>(808) 731-0917</p></div>",
       "date": "2026-09-19T08:30:00-10:00",
       "id": 1040,
-      "images": [],
+      "images": [
+        {
+          "id": "ola-brew-hilo-hero",
+          "url": "https://static.wixstatic.com/media/2fc3c5_506c796b0494491da1cdfa2bf1d91fa3%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/2fc3c5_506c796b0494491da1cdfa2bf1d91fa3%7Emv2.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -2966,9 +2976,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.wixstatic.com/media/2fc3c5_506c796b0494491da1cdfa2bf1d91fa3%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/2fc3c5_506c796b0494491da1cdfa2bf1d91fa3%7Emv2.jpg",
+      "imageSourceUrl": "https://www.olabrewco.com/hilotaproom",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -3025,7 +3035,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Captain Cook</strong></p><p><strong>83-5799 Mamalahoa Hwy, Captain Cook, HI 96704</strong><br>(808) 328-9555</p></div>",
       "date": "2026-09-19T08:30:00-10:00",
       "id": 1041,
-      "images": [],
+      "images": [
+        {
+          "id": "coffee-shack-hero",
+          "url": "https://static.wixstatic.com/media/31e814_8675089993d447c791eca9c708c288ce~mv2.jpg/v1/fill/w_1348,h_936,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/31e814_8675089993d447c791eca9c708c288ce~mv2.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -3046,9 +3061,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.wixstatic.com/media/31e814_8675089993d447c791eca9c708c288ce~mv2.jpg/v1/fill/w_1348,h_936,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/31e814_8675089993d447c791eca9c708c288ce~mv2.jpg",
+      "imageSourceUrl": "https://www.coffeeshack.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
