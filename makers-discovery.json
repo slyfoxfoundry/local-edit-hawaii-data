@@ -1202,7 +1202,7 @@
       "category": "Jewelry",
       "area": "Hawaiʻi Island",
       "island": "Big Island",
-      "sourceUrl": "https://invest.hawaii.gov/wp-content/uploads/2026/03/CBED-Advisory-Council-Meeting-Materials_03.17.2026.pdf",
+      "sourceUrl": "https://dbedt.hawaii.gov/blog/26-52/",
       "status": "discovered",
       "imageUrl": null
     },
@@ -2634,6 +2634,24 @@
       "area": "Kona",
       "island": "Big Island",
       "sourceUrl": "https://bigislandmkt.com/our-vendors",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Rare Hawaiian Honey Company",
+      "category": "Honey & Bee Products",
+      "area": "Kailua-Kona",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Bee Boys",
+      "category": "Honey, Apothecary & Skincare",
+      "area": "Kailua-Kona",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
       "status": "discovered",
       "imageUrl": null
     }
