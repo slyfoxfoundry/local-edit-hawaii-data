@@ -1157,7 +1157,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>93 Lihiwai St, Hilo, HI 96720</strong><br>(808) 935-9349</p></div>",
       "date": "2026-09-19T12:00:00-10:00",
       "id": 1014,
-      "images": [],
+      "images": [
+        {
+          "id": "suisan-fish-market-hero",
+          "url": "https://www.suisan.com/wp-content/uploads/ahi-hawaiian.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -1178,9 +1183,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.suisan.com/wp-content/uploads/ahi-hawaiian.jpg",
+      "imageSourceUrl": "https://www.suisan.com/fish-market/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -1218,7 +1223,11 @@
         ],
         "sunday": []
       },
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://www.suisan.com/wp-content/uploads/ahi-hawaiian.jpg",
+      "originalThumbnail": "https://www.suisan.com/wp-content/uploads/ahi-hawaiian.jpg",
+      "thumbnail": "https://www.suisan.com/wp-content/uploads/ahi-hawaiian.jpg",
+      "smallThumbnail": "https://www.suisan.com/wp-content/uploads/ahi-hawaiian.jpg"
     },
     {
       "address": "270 Kamehameha Ave, Hilo, HI 96720",
@@ -1846,7 +1855,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>75-5801 Aliʻi Dr, Bldg 1, Kailua-Kona, HI 96740</strong><br>(855) 923-5022</p></div>",
       "date": "2026-09-19T12:00:00-10:00",
       "id": 1025,
-      "images": [],
+      "images": [
+        {
+          "id": "island-lava-java-hero",
+          "url": "https://static.spotapps.co/website_images/ab_websites/527803_website_v1/video_poster.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -1867,9 +1881,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://static.spotapps.co/website_images/ab_websites/527803_website_v1/video_poster.jpg",
+      "imageSourceUrl": "https://www.islandlavajava.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -1917,7 +1931,11 @@
           }
         ]
       },
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://static.spotapps.co/website_images/ab_websites/527803_website_v1/video_poster.jpg",
+      "originalThumbnail": "https://static.spotapps.co/website_images/ab_websites/527803_website_v1/video_poster.jpg",
+      "thumbnail": "https://static.spotapps.co/website_images/ab_websites/527803_website_v1/video_poster.jpg",
+      "smallThumbnail": "https://static.spotapps.co/website_images/ab_websites/527803_website_v1/video_poster.jpg"
     },
     {
       "address": "75-5995 Kuakini Hwy Ste 1, Kailua-Kona, HI 96740",
@@ -17215,7 +17233,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Captain Cook</strong></p><p><strong>83-5249 Painted Church Rd, Captain Cook, HI 96704</strong></p></div>",
       "date": "2026-09-20T17:20:00-10:00",
       "id": 1423,
-      "images": [],
+      "images": [
+        {
+          "id": "bay-view-farm-hero",
+          "url": "https://www.bvfcoffee.com/cdn/shop/files/Free_Kona_Coffee_Farm_Tours.jpg?v=1752196825"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -17236,13 +17259,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.bvfcoffee.com/cdn/shop/files/Free_Kona_Coffee_Farm_Tours.jpg?v=1752196825",
+      "imageSourceUrl": "https://www.bvfcoffee.com/pages/kona-coffee-farm-tours",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-20"
+      "hoursLastVerified": "2026-09-20",
+      "largeThumbnail": "https://www.bvfcoffee.com/cdn/shop/files/Free_Kona_Coffee_Farm_Tours.jpg?v=1752196825",
+      "originalThumbnail": "https://www.bvfcoffee.com/cdn/shop/files/Free_Kona_Coffee_Farm_Tours.jpg?v=1752196825",
+      "thumbnail": "https://www.bvfcoffee.com/cdn/shop/files/Free_Kona_Coffee_Farm_Tours.jpg?v=1752196825",
+      "smallThumbnail": "https://www.bvfcoffee.com/cdn/shop/files/Free_Kona_Coffee_Farm_Tours.jpg?v=1752196825"
     },
     {
       "address": "84-5165 Mamalahoa Hwy, Captain Cook, HI 96704",
