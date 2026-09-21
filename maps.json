@@ -12426,7 +12426,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Holualoa</strong></p><p><strong>78-1136 Bishop Rd, Holualoa, HI 96725</strong><br>(808) 303-2538</p></div>",
       "date": "2026-09-19T12:15:00-10:00",
       "id": 1294,
-      "images": [],
+      "images": [
+        {
+          "id": "heavenly-hawaiian-kona-coffee-hero",
+          "url": "https://heavenlyhawaiian.com/wp-content/uploads/2025/12/HH_banner.png"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -12447,9 +12452,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://heavenlyhawaiian.com/wp-content/uploads/2025/12/HH_banner.png",
+      "imageSourceUrl": "https://heavenlyhawaiian.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
