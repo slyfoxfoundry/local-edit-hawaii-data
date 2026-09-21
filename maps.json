@@ -1668,7 +1668,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waimea</strong></p><p><strong>65-1298 Kawaihae Rd, Waimea, HI 96743</strong><br>(808) 339-7887</p></div>",
       "date": "2026-09-19T12:00:00-10:00",
       "id": 1021,
-      "images": [],
+      "images": [
+        {
+          "id": "moa-kitchen-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.instagram.com/moakitchenkamuela/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -1677,8 +1682,8 @@
       "summary": "A Waimea Japanese restaurant serving ramen, sushi, sashimi, yakitori, and izakaya-style dishes.",
       "title": "Moa Kitchen",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.instagram.com/moakitchenkamuela/",
+      "website": "https://www.instagram.com/moakitchenkamuela/",
       "category": "Eat + Drink",
       "subcategory": "Japanese & Sushi",
       "placeType": "Japanese & Sushi",
@@ -1689,13 +1694,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.instagram.com/moakitchenkamuela/",
+      "imageSourceUrl": "https://www.instagram.com/moakitchenkamuela/",
+      "imageRights": "Official business social account",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.instagram.com/moakitchenkamuela/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.instagram.com/moakitchenkamuela/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.instagram.com/moakitchenkamuela/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.instagram.com/moakitchenkamuela/"
     },
     {
       "address": "61-3642 Kawaihae Rd, Waimea, HI 96743",
@@ -2301,7 +2310,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Pāhoa</strong></p><p><strong>15-2955 Pahoa Village Rd, Pāhoa, HI 96778</strong><br>(808) 965-7611</p></div>",
       "date": "2026-09-19T12:00:00-10:00",
       "id": 1030,
-      "images": [],
+      "images": [
+        {
+          "id": "ning-s-thai-cuisine-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.ningsthaicuisinepahoa.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -2310,8 +2324,8 @@
       "summary": "A family-run Pāhoa Thai restaurant serving the community since 2002.",
       "title": "Ning's Thai Cuisine",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.ningsthaicuisinepahoa.com/",
+      "website": "https://www.ningsthaicuisinepahoa.com/",
       "category": "Eat + Drink",
       "subcategory": "Asian",
       "placeType": "Asian",
@@ -2322,9 +2336,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.ningsthaicuisinepahoa.com/",
+      "imageSourceUrl": "https://www.ningsthaicuisinepahoa.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -2367,7 +2381,11 @@
           }
         ]
       },
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.ningsthaicuisinepahoa.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.ningsthaicuisinepahoa.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.ningsthaicuisinepahoa.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.ningsthaicuisinepahoa.com/"
     },
     {
       "address": "15-2923 Pahoa Village Rd, Pāhoa, HI 96778",
@@ -2962,7 +2980,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>57 Mamo St, Hilo, HI 96720</strong><br>(808) 731-4166</p></div>",
       "date": "2026-09-19T08:30:00-10:00",
       "id": 1039,
-      "images": [],
+      "images": [
+        {
+          "id": "kula-shave-ice-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/kulashaveice/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -2971,8 +2994,8 @@
       "summary": "Downtown Hilo shave ice shop using fresh fruit syrups and serving desserts, coffee, and açaí bowls.",
       "title": "Kula Shave Ice",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.facebook.com/kulashaveice/",
+      "website": "https://www.facebook.com/kulashaveice/",
       "category": "Eat + Drink",
       "subcategory": "Shave Ice & Frozen Treats",
       "placeType": "Shave Ice & Frozen Treats",
@@ -2983,9 +3006,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/kulashaveice/",
+      "imageSourceUrl": "https://www.facebook.com/kulashaveice/",
+      "imageRights": "Official business social account",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -3033,7 +3056,11 @@
           }
         ]
       },
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/kulashaveice/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/kulashaveice/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/kulashaveice/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.facebook.com/kulashaveice/"
     },
     {
       "address": "1177 Kilauea Ave, Hilo, HI 96720",
@@ -3502,7 +3529,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>485 Hinano St, Hilo, HI 96720</strong><br>(808) 935-9099</p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1046,
-      "images": [],
+      "images": [
+        {
+          "id": "don-s-grill-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.donsgrillhilo.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -3511,8 +3543,8 @@
       "summary": "Established Big Island american / local comfort food business.",
       "title": "Don's Grill",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.donsgrillhilo.com/",
+      "website": "https://www.donsgrillhilo.com/",
       "category": "Eat + Drink",
       "subcategory": "Local & Hawaiian",
       "placeType": "Local & Hawaiian",
@@ -3523,13 +3555,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.donsgrillhilo.com/",
+      "imageSourceUrl": "https://www.donsgrillhilo.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.donsgrillhilo.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.donsgrillhilo.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.donsgrillhilo.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.donsgrillhilo.com/"
     },
     {
       "address": "1790 Kalanianaole St, Hilo, HI 96720",
@@ -3610,7 +3646,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>187 Kilauea Ave, Hilo, HI 96720</strong><br>(808) 935-5700</p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1049,
-      "images": [],
+      "images": [
+        {
+          "id": "papa-a-palaoa-bakery-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.papaapalaoabakery.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -3619,8 +3660,8 @@
       "summary": "Established Big Island bakery business.",
       "title": "Papa'a Palaoa Bakery",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.papaapalaoabakery.com/",
+      "website": "https://www.papaapalaoabakery.com/",
       "category": "Eat + Drink",
       "subcategory": "Bakery & Sweets",
       "placeType": "Bakery & Sweets",
@@ -3631,13 +3672,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.papaapalaoabakery.com/",
+      "imageSourceUrl": "https://www.papaapalaoabakery.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.papaapalaoabakery.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.papaapalaoabakery.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.papaapalaoabakery.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.papaapalaoabakery.com/"
     },
     {
       "address": "200 Kanoelehua Ave, Hilo, HI 96720",
@@ -3682,7 +3727,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>110 Kalakaua St, Hilo, HI 96720</strong><br>(808) 969-3777</p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1051,
-      "images": [],
+      "images": [
+        {
+          "id": "new-chiang-mai-thai-cuisine-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.nimsthaifoods.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -3691,8 +3741,8 @@
       "summary": "Established Big Island thai business.",
       "title": "New Chiang Mai Thai Cuisine",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.nimsthaifoods.com/",
+      "website": "https://www.nimsthaifoods.com/",
       "category": "Eat + Drink",
       "subcategory": "Asian",
       "placeType": "Asian",
@@ -3703,13 +3753,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.nimsthaifoods.com/",
+      "imageSourceUrl": "https://www.nimsthaifoods.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.nimsthaifoods.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.nimsthaifoods.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.nimsthaifoods.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.nimsthaifoods.com/"
     },
     {
       "address": "697 Manono St Ste 103, Hilo, HI 96720",
@@ -3754,7 +3808,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>2100 Kanoelehua Ave B-11, Hilo, HI 96720</strong><br>(808) 657-4992</p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1053,
-      "images": [],
+      "images": [
+        {
+          "id": "hilo-pizza-company-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.hilopizzacompany.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -3763,8 +3822,8 @@
       "summary": "Established Big Island pizza / italian business.",
       "title": "Hilo Pizza Company",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.hilopizzacompany.com/",
+      "website": "https://www.hilopizzacompany.com/",
       "category": "Eat + Drink",
       "subcategory": "Pizza & Italian",
       "placeType": "Pizza & Italian",
@@ -3775,13 +3834,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.hilopizzacompany.com/",
+      "imageSourceUrl": "https://www.hilopizzacompany.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.hilopizzacompany.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.hilopizzacompany.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.hilopizzacompany.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.hilopizzacompany.com/"
     },
     {
       "address": "",
@@ -3790,7 +3853,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1054,
-      "images": [],
+      "images": [
+        {
+          "id": "sweet-cane-cafe-hero",
+          "url": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.sweetcanecafe.com/"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -3799,8 +3867,8 @@
       "summary": "Established Big Island cafe / vegetarian business.",
       "title": "Sweet Cane Cafe",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.sweetcanecafe.com/",
+      "website": "https://www.sweetcanecafe.com/",
       "category": "Eat + Drink",
       "subcategory": "Vegetarian & Healthy",
       "placeType": "Vegetarian & Healthy",
@@ -3811,13 +3879,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.sweetcanecafe.com/",
+      "imageSourceUrl": "https://www.sweetcanecafe.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "thumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.sweetcanecafe.com/",
+      "smallThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.sweetcanecafe.com/",
+      "largeThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.sweetcanecafe.com/",
+      "originalThumbnail": "https://image.thum.io/get/width/900/crop/900/noanimate/https://www.sweetcanecafe.com/"
     },
     {
       "address": "",
