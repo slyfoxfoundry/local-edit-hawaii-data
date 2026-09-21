@@ -4949,7 +4949,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Captain Cook</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1088,
-      "images": [],
+      "images": [
+        {
+          "id": "manago-hotel-restaurant-hero",
+          "url": "https://www.managohotel.com/wp-content/uploads/2018/03/Restaurant.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -4958,8 +4963,8 @@
       "summary": "Established Big Island local hawaiian / restaurant business.",
       "title": "Manago Hotel Restaurant",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.managohotel.com/restaurant/",
+      "website": "https://www.managohotel.com/restaurant/",
       "category": "Eat + Drink",
       "subcategory": "Local & Hawaiian",
       "placeType": "Local & Hawaiian",
@@ -4970,13 +4975,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.managohotel.com/wp-content/uploads/2018/03/Restaurant.jpg",
+      "imageSourceUrl": "https://www.managohotel.com/restaurant/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://www.managohotel.com/wp-content/uploads/2018/03/Restaurant.jpg",
+      "originalThumbnail": "https://www.managohotel.com/wp-content/uploads/2018/03/Restaurant.jpg",
+      "thumbnail": "https://www.managohotel.com/wp-content/uploads/2018/03/Restaurant.jpg",
+      "smallThumbnail": "https://www.managohotel.com/wp-content/uploads/2018/03/Restaurant.jpg"
     },
     {
       "address": "82-6066 Mamalahoa Hwy, Captain Cook, HI 96704",
