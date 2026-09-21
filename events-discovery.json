@@ -3894,5 +3894,129 @@
     "parentEvent": "Summer Fun – Hawaiʻi County Parks & Recreation",
     "sourceUrl": "https://www.parks.hawaiicounty.gov/divisions/recreation/summer-fun",
     "status": "verified-historical-2026"
+  },
+  {
+    "name": "I Love Sushi",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Food & Community",
+    "startDate": "2026-08-13",
+    "time": "11:00 AM–3:00 PM",
+    "venue": "751 Kanoelehua Ave",
+    "sourceUrl": "https://bigislandnow.com/events/date/",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Interpreting Soil Analyses",
+    "town": "Waimea",
+    "region": "South Kohala",
+    "category": "Farm & Education",
+    "startDate": "2026-08-13",
+    "time": "5:30 PM–7:00 PM",
+    "venue": "Online / Kohala program",
+    "sourceUrl": "https://bigislandnow.com/events/date/",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Feast & Fire Lūʻau at OUTRIGGER Kona Resort & Spa",
+    "town": "Keauhou",
+    "region": "Kona",
+    "category": "Culture & Food",
+    "recurrence": "Thursdays",
+    "time": "5:30 PM–7:30 PM",
+    "venue": "OUTRIGGER Kona Resort & Spa",
+    "sourceUrl": "https://bigislandnow.com/events/date/",
+    "status": "verified"
+  },
+  {
+    "name": "Happy Hour at Ka Lihikai",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Food & Drink",
+    "recurrence": "Thursdays",
+    "time": "3:00 PM–5:00 PM",
+    "venue": "Ka Lihikai, 93 Banyan Drive",
+    "sourceUrl": "https://bigislandnow.com/events/date/",
+    "status": "verified"
+  },
+  {
+    "name": "Farmers Market at Kings’ Shops",
+    "town": "Waikoloa",
+    "region": "South Kohala",
+    "category": "Farmers Market",
+    "recurrence": "Tuesdays",
+    "time": "9:00 AM",
+    "venue": "250 Waikoloa Beach Drive",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified"
+  },
+  {
+    "name": "Summer Salsa Beginner Special",
+    "town": "Hilo",
+    "region": "Hilo",
+    "category": "Dance & Workshops",
+    "startDate": "2026-09-07",
+    "time": "5:15 PM",
+    "sourceUrl": "https://www.bigislandbulletin.com/blog/community-events-september-2026",
+    "status": "verified-historical-2026"
+  },
+  {
+    "name": "Kona-Kohala Chamber Member Orientation – September",
+    "town": "Online",
+    "region": "Kona & Kohala",
+    "category": "Business & Community",
+    "startDate": "2026-09-23",
+    "venue": "Virtual",
+    "sourceUrl": "https://www.kona-kohala.com/event-calendar",
+    "status": "verified"
+  },
+  {
+    "name": "Kona-Kohala Chamber Member Orientation – October",
+    "town": "Online",
+    "region": "Kona & Kohala",
+    "category": "Business & Community",
+    "startDate": "2026-10-19",
+    "venue": "Virtual",
+    "sourceUrl": "https://www.kona-kohala.com/event-calendar",
+    "status": "verified"
+  },
+  {
+    "name": "Kona-Kohala Chamber AfterHours – Kona Coffee & Tea",
+    "town": "Kailua-Kona",
+    "region": "Kona",
+    "category": "Business & Community",
+    "startDate": "2027-01-13",
+    "venue": "Kona Coffee & Tea",
+    "sourceUrl": "https://www.kona-kohala.com/event-calendar",
+    "status": "verified-future"
+  },
+  {
+    "name": "Kona-Kohala Chamber AfterHours – Hawaii Spas & Outdoor",
+    "town": "Kona",
+    "region": "Kona",
+    "category": "Business & Community",
+    "startDate": "2027-02-17",
+    "sourceUrl": "https://www.kona-kohala.com/event-calendar",
+    "status": "verified-future"
+  },
+  {
+    "name": "Kona-Kohala Chamber AfterHours – Hawaiʻi Community College Pālamanui",
+    "town": "Kailua-Kona",
+    "region": "Kona",
+    "category": "Business & Community",
+    "startDate": "2027-03-17",
+    "venue": "Hawaiʻi Community College – Pālamanui",
+    "sourceUrl": "https://www.kona-kohala.com/event-calendar",
+    "status": "verified-future"
+  },
+  {
+    "name": "Hawaiʻi Island Community Restoration Day",
+    "town": "Big Island",
+    "region": "Big Island",
+    "category": "Nature & Community",
+    "startDate": "2026-06-06",
+    "venue": "Participating island sites",
+    "sourceUrl": "https://dlnr.hawaii.gov/kuleana/",
+    "status": "verified-historical-2026"
   }
 ]
