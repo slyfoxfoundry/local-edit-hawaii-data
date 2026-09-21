@@ -1964,7 +1964,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>75-5995 Kuakini Hwy Ste 1, Kailua-Kona, HI 96740</strong><br>(808) 435-0016</p></div>",
       "date": "2026-09-19T12:00:00-10:00",
       "id": 1026,
-      "images": [],
+      "images": [
+        {
+          "id": "jackie-rey-s-kona-hero",
+          "url": "https://www.jackiereyskona.com/images/surf-and-turf-filet-shrimp.webp"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -1985,9 +1990,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.jackiereyskona.com/images/surf-and-turf-filet-shrimp.webp",
+      "imageSourceUrl": "https://www.jackiereyskona.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -2035,7 +2040,11 @@
           }
         ]
       },
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://www.jackiereyskona.com/images/surf-and-turf-filet-shrimp.webp",
+      "originalThumbnail": "https://www.jackiereyskona.com/images/surf-and-turf-filet-shrimp.webp",
+      "thumbnail": "https://www.jackiereyskona.com/images/surf-and-turf-filet-shrimp.webp",
+      "smallThumbnail": "https://www.jackiereyskona.com/images/surf-and-turf-filet-shrimp.webp"
     },
     {
       "address": "75-5683 Aliʻi Dr, Kailua-Kona, HI 96740",
@@ -2044,7 +2053,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>75-5683 Aliʻi Dr, Kailua-Kona, HI 96740</strong><br>(808) 326-2002</p></div>",
       "date": "2026-09-19T12:00:00-10:00",
       "id": 1027,
-      "images": [],
+      "images": [
+        {
+          "id": "fish-hopper-kona-hero",
+          "url": "https://www.fishhopperkona.com/wp-content/uploads/2024/06/fhk-outside-5.webp"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -2065,9 +2079,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.fishhopperkona.com/wp-content/uploads/2024/06/fhk-outside-5.webp",
+      "imageSourceUrl": "https://www.fishhopperkona.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -2115,7 +2129,11 @@
           }
         ]
       },
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://www.fishhopperkona.com/wp-content/uploads/2024/06/fhk-outside-5.webp",
+      "originalThumbnail": "https://www.fishhopperkona.com/wp-content/uploads/2024/06/fhk-outside-5.webp",
+      "thumbnail": "https://www.fishhopperkona.com/wp-content/uploads/2024/06/fhk-outside-5.webp",
+      "smallThumbnail": "https://www.fishhopperkona.com/wp-content/uploads/2024/06/fhk-outside-5.webp"
     },
     {
       "address": "75-5828 Kahakai Rd, Kailua-Kona, HI 96740",
