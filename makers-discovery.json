@@ -1113,7 +1113,7 @@
       "area": "Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
-      "status": "discovered",
+      "status": "needs-island-verification",
       "imageUrl": null
     },
     {
@@ -1122,7 +1122,7 @@
       "area": "Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
-      "status": "discovered",
+      "status": "needs-island-verification",
       "imageUrl": null
     },
     {
@@ -1131,7 +1131,7 @@
       "area": "Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
-      "status": "discovered",
+      "status": "needs-island-verification",
       "imageUrl": null
     },
     {
@@ -1140,7 +1140,7 @@
       "area": "Hawaiʻi",
       "island": "Big Island",
       "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
-      "status": "discovered",
+      "status": "needs-island-verification",
       "imageUrl": null
     },
     {
@@ -1246,6 +1246,24 @@
       "name": "Ka'u Art Gallery and Gift Shop",
       "category": "Art & Crafts",
       "area": "Nā‘ālehu",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Pokela Studios",
+      "category": "Ceramics & Pottery",
+      "area": "Kailua-Kona",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Quill & Feather",
+      "category": "Jewelry & Design",
+      "area": "Kailua-Kona",
       "island": "Big Island",
       "sourceUrl": "local-business verification",
       "status": "discovered",
