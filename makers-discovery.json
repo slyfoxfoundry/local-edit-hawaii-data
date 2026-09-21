@@ -2654,6 +2654,69 @@
       "sourceUrl": "local-business verification",
       "status": "discovered",
       "imageUrl": null
+    },
+    {
+      "name": "Tynanes Bee Farms",
+      "category": "Honey & Bee Products",
+      "area": "Keaʻau",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Pualani Bee Farm",
+      "category": "Honey & Bee Products",
+      "area": "Pāhoa",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Paradise Coffee Roasters",
+      "category": "Coffee & Roastery",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Hamakua Coffee Roasters",
+      "category": "Coffee & Roastery",
+      "area": "Honokaʻa",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Pumehana Plantation",
+      "category": "Coffee, Lei & Farm Products",
+      "area": "Captain Cook",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandmkt.com/our-vendors",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Bill's Coffee & Chocolate",
+      "category": "Coffee, Chocolate & Macadamia Products",
+      "area": "Kona",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandmkt.com/our-vendors",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Ka'u Cold Brew",
+      "category": "Coffee & Roastery",
+      "area": "Kaʻū",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandmkt.com/our-vendors",
+      "status": "discovered",
+      "imageUrl": null
     }
   ]
 }
