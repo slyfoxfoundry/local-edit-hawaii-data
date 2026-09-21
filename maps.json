@@ -107,7 +107,17 @@
       },
       "hoursLastVerified": "2026-09-18",
       "listingPlan": "enhanced",
-      "subcategory": "Restaurants & Fine Dining"
+      "subcategory": "Restaurants & Fine Dining",
+      "category": "Eat + Drink",
+      "island": "Big Island",
+      "town": "Waimea",
+      "eatDrink": true,
+      "shop": false,
+      "thingsToDo": false,
+      "makers": false,
+      "heroImage": "https://images.getbento.com/accounts/6db51802be5a34030975528e8f6cea1a/media/images/WaimeaEntrance2025.jpeg?auto=compress%2Cformat&cs=origin&fit=max&h=1000&w=1000",
+      "imageSourceUrl": "https://www.merrimanshawaii.com/location/big-island/",
+      "imageRights": "Official business website"
     },
     {
       "address": "64-1066 Mamalahoa Hwy, Waimea, HI 96743",
@@ -147,7 +157,7 @@
       "smallThumbnail": "https://bigislandbrewhaus.com/wp-content/uploads/2023/09/just-cans-2.png",
       "thumbnail": "https://bigislandbrewhaus.com/wp-content/uploads/2023/09/just-cans-2.png",
       "imageSourceUrl": "https://bigislandbrewhaus.com/",
-      "imageRights": "Needs review",
+      "imageRights": "Official business website",
       "featured": true,
       "placeType": "Bars, Breweries & Nightlife",
       "hoursStructured": {
@@ -196,7 +206,8 @@
         ]
       },
       "hoursLastVerified": "2026-09-18",
-      "listingPlan": "featured"
+      "listingPlan": "featured",
+      "island": "Big Island"
     },
     {
       "address": "332 Keawe Street, Hilo, HI 96720",
@@ -233,7 +244,7 @@
       "makers": false,
       "heroImage": "https://static.wixstatic.com/media/93d561_6d863d9ccdfd4635beffa56dd98838d6~mv2.jpg/v1/fill/w_324%2Ch_432%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/93d561_6d863d9ccdfd4635beffa56dd98838d6~mv2.jpg",
       "imageSourceUrl": "https://www.pineappleshilo.net/",
-      "imageRights": "Needs review",
+      "imageRights": "Official business website",
       "featured": false,
       "hoursStructured": {
         "timezone": "Pacific/Honolulu",
