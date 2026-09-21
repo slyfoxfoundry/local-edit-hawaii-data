@@ -2363,7 +2363,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Pāhoa</strong></p><p><strong>15-1448 Kahakai Blvd, Pāhoa, HI 96778</strong><br>(808) 333-3390</p></div>",
       "date": "2026-09-19T12:00:00-10:00",
       "id": 1032,
-      "images": [],
+      "images": [
+        {
+          "id": "luquins-pahoa-hero",
+          "url": "https://luquins.com/wp-content/uploads/2022/03/Luquins-Cantina.png"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -2384,9 +2389,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://luquins.com/wp-content/uploads/2022/03/Luquins-Cantina.png",
+      "imageSourceUrl": "https://luquins.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -2533,7 +2538,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Volcano</strong></p><p><strong>19-3948 Old Volcano Rd, Volcano, HI 96785</strong><br>(808) 967-7366</p></div>",
       "date": "2026-09-19T12:00:00-10:00",
       "id": 1034,
-      "images": [],
+      "images": [
+        {
+          "id": "kilauea-lodge-restaurant-hero",
+          "url": "https://www.kilauealodge.com/wp-content/uploads/2021/06/dine-image.png"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -2554,9 +2564,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.kilauealodge.com/wp-content/uploads/2021/06/dine-image.png",
+      "imageSourceUrl": "https://www.kilauealodge.com/restaurant/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
@@ -2569,7 +2579,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Volcano</strong></p><p><strong>19-3972 Old Volcano Rd, Volcano, HI 96785</strong><br>(808) 967-8526</p></div>",
       "date": "2026-09-19T12:00:00-10:00",
       "id": 1035,
-      "images": [],
+      "images": [
+        {
+          "id": "lava-rock-cafe-hero",
+          "url": "https://images.squarespace-cdn.com/content/v1/57bfc885579fb38b78dd6f6b/1478574788386-2K5TOJ8JM7EM2OWF9CDJ/IMG_0251.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -2590,9 +2605,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://images.squarespace-cdn.com/content/v1/57bfc885579fb38b78dd6f6b/1478574788386-2K5TOJ8JM7EM2OWF9CDJ/IMG_0251.jpg",
+      "imageSourceUrl": "https://www.lavarock.cafe/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -2644,7 +2659,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>41 Waianuenue Ave, Hilo, HI 96720</strong><br>(808) 961-5915</p></div>",
       "date": "2026-09-19T08:30:00-10:00",
       "id": 1036,
-      "images": [],
+      "images": [
+        {
+          "id": "poke-market-hilo-hero",
+          "url": "https://cdn01.s4shops.com/skytabweb/uploads/a5960457-d186-f111-b337-000d3a7b73be/86a92d1b-d286-f111-b337-000d3a7b73be.png"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -2665,9 +2685,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://cdn01.s4shops.com/skytabweb/uploads/a5960457-d186-f111-b337-000d3a7b73be/86a92d1b-d286-f111-b337-000d3a7b73be.png",
+      "imageSourceUrl": "https://www.pokemarkethilo.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -2719,7 +2739,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Hilo</strong></p><p><strong>76 Kalanianaole St, Hilo, HI 96720</strong><br>(808) 968-6228</p></div>",
       "date": "2026-09-19T08:30:00-10:00",
       "id": 1037,
-      "images": [],
+      "images": [
+        {
+          "id": "big-island-coffee-roasters-hilo-hero",
+          "url": "https://bigislandcoffeeroasters.com/cdn/shop/files/Vanilla_Latte_-_Website_Resize.jpg?v=1762440144"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -2740,9 +2765,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://bigislandcoffeeroasters.com/cdn/shop/files/Vanilla_Latte_-_Website_Resize.jpg?v=1762440144",
+      "imageSourceUrl": "https://bigislandcoffeeroasters.com/pages/hilo-cafe",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -3075,7 +3100,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>74-5588 Palani Rd, Kailua-Kona, HI 96740</strong><br>(888) 873-2035</p></div>",
       "date": "2026-09-19T08:30:00-10:00",
       "id": 1042,
-      "images": [],
+      "images": [
+        {
+          "id": "kona-coffee-and-tea-cafe-hero",
+          "url": "https://www.konacoffeeandtea.com/cdn/shop/files/kona-coffee-tea-outside-1-1536x829.jpg?v=1691181461&width=300"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -3096,9 +3126,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.konacoffeeandtea.com/cdn/shop/files/kona-coffee-tea-outside-1-1536x829.jpg?v=1691181461&width=300",
+      "imageSourceUrl": "https://www.konacoffeeandtea.com/pages/ourcafe",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -3155,7 +3185,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>75-5805 Aliʻi Dr, Kailua-Kona, HI 96740</strong><br>(808) 731-7636</p></div>",
       "date": "2026-09-19T08:30:00-10:00",
       "id": 1043,
-      "images": [],
+      "images": [
+        {
+          "id": "kona-heaven-coffee-hero",
+          "url": "https://www.konaheaven.coffee/cdn/shop/files/3R2A3496_b129851d-3ae6-45c6-ab84-ff85d7641d28.jpg?v=1752823486&width=1500"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -3176,9 +3211,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.konaheaven.coffee/cdn/shop/files/3R2A3496_b129851d-3ae6-45c6-ab84-ff85d7641d28.jpg?v=1752823486&width=1500",
+      "imageSourceUrl": "https://www.konaheaven.coffee/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": {
@@ -7774,7 +7809,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Mountain View</strong></p><p><strong>17-995 Volcano Rd, Mountain View, HI 96771</strong><br>(808) 968-1333</p></div>",
       "date": "2026-09-19T09:50:00-10:00",
       "id": 1169,
-      "images": [],
+      "images": [
+        {
+          "id": "hilo-coffee-mill-hero",
+          "url": "https://hilocoffeemill.com/cdn/shop/files/AmandaGuy-WEB-000468990010.jpg?v=1764716477&width=1920"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -7795,9 +7835,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://hilocoffeemill.com/cdn/shop/files/AmandaGuy-WEB-000468990010.jpg?v=1764716477&width=1920",
+      "imageSourceUrl": "https://hilocoffeemill.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
@@ -7918,7 +7958,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kawaihae</strong></p><p><strong>61-3665 Akoni Pule Hwy, Kawaihae, HI 96743</strong><br>(808) 880-1923</p></div>",
       "date": "2026-09-19T09:50:00-10:00",
       "id": 1173,
-      "images": [],
+      "images": [
+        {
+          "id": "kohala-burger-and-taco-hero",
+          "url": "https://images.squarespace-cdn.com/content/v1/52a1ed94e4b00e295b3b5235/b21e4573-1d3e-46c0-97d4-a87c22e6de4e/SEPT12_OCT_18.png"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -7939,9 +7984,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://images.squarespace-cdn.com/content/v1/52a1ed94e4b00e295b3b5235/b21e4573-1d3e-46c0-97d4-a87c22e6de4e/SEPT12_OCT_18.png",
+      "imageSourceUrl": "https://www.kohalaburgerandtaco.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
@@ -7954,7 +7999,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waikoloa</strong></p><p><strong>69-201 Waikoloa Beach Dr, Unit H1-H4, Waikoloa, HI 96738</strong><br>(808) 315-7146</p></div>",
       "date": "2026-09-19T09:50:00-10:00",
       "id": 1174,
-      "images": [],
+      "images": [
+        {
+          "id": "kona-biscuit-company-hero",
+          "url": "https://konabiscuitco.com/wp-content/uploads/2026/03/Kona-Biscuit-Company-8.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -7975,9 +8025,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://konabiscuitco.com/wp-content/uploads/2026/03/Kona-Biscuit-Company-8.jpg",
+      "imageSourceUrl": "https://konabiscuitco.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
@@ -8062,7 +8112,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Waikoloa</strong></p><p><strong>68-1845 Waikoloa Rd Ste 126, Waikoloa Village, HI 96738</strong><br>(808) 663-1884</p></div>",
       "date": "2026-09-19T10:05:00-10:00",
       "id": 1177,
-      "images": [],
+      "images": [
+        {
+          "id": "hico-waikoloa-hero",
+          "url": "https://hicohawaiiancoffee.com/cdn/shop/files/Hero-Image.png?v=1761162666&width=2400"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -8083,9 +8138,9 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://hicohawaiiancoffee.com/cdn/shop/files/Hero-Image.png?v=1761162666&width=2400",
+      "imageSourceUrl": "https://hicohawaiiancoffee.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
