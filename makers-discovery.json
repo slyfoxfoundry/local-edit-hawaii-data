@@ -1700,6 +1700,240 @@
       "sourceUrl": "local-business verification",
       "status": "discovered",
       "imageUrl": null
+    },
+    {
+      "name": "Travis Morrin",
+      "category": "Photography",
+      "area": "Volcano",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Dennis Schmit",
+      "category": "Ceramics & Pottery",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Hunter Wilburn",
+      "category": "Mixed Media Art",
+      "area": "Volcano",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Samson Tanoa Low",
+      "category": "Glass Art",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Ryan Ikeuchi",
+      "category": "Photography",
+      "area": "Honokaʻa",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Victoria McCormick",
+      "category": "Photography",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Mika McCann",
+      "category": "Fiber Art",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Claudia McCall",
+      "category": "Glass Art",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Kathy Long",
+      "category": "Painting & Print",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Kira Kamamalu Lee",
+      "category": "Painting & Print",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Greg Eaves",
+      "category": "Woodwork",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Lanaya Deily",
+      "category": "Photography",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Douglas Davenport",
+      "category": "Ceramics & Pottery",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Patti Datlof",
+      "category": "Woodwork",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Brenda May Ching",
+      "category": "Jewelry",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Cindy Conklin",
+      "category": "Painting & Print",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Erin Datlof",
+      "category": "Jewelry",
+      "area": "Big Island",
+      "island": "Big Island",
+      "sourceUrl": "https://volcanoartcenter.org/artists/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Karen Thrasher",
+      "category": "Painting & Fine Art",
+      "area": "Waimea",
+      "island": "Big Island",
+      "sourceUrl": "https://firehouseartgallery.org/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Doug Perrine",
+      "category": "Photography",
+      "area": "Waimea",
+      "island": "Big Island",
+      "sourceUrl": "https://firehouseartgallery.org/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Merrie Jo Snow",
+      "category": "Painting & Fine Art",
+      "area": "Waimea",
+      "island": "Big Island",
+      "sourceUrl": "https://firehouseartgallery.org/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Norma Watt",
+      "category": "Painting & Fine Art",
+      "area": "Waimea",
+      "island": "Big Island",
+      "sourceUrl": "https://firehouseartgallery.org/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Brenda Meriwether",
+      "category": "Painting & Fine Art",
+      "area": "Waimea",
+      "island": "Big Island",
+      "sourceUrl": "https://firehouseartgallery.org/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Aspen Dewey",
+      "category": "Oil Painting",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "https://onegalleryhawaiihilo.com/pages/about-one-gallery",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Wade Morales",
+      "category": "Photography",
+      "area": "Hilo",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Michael Mortara",
+      "category": "Glass Art",
+      "area": "Volcano",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Misato Mortara",
+      "category": "Glass Art",
+      "area": "Volcano",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
     }
   ]
 }
