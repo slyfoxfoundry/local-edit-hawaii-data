@@ -6256,7 +6256,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kaupulehu</strong></p><p><strong>72-100 Kaʻupulehu Dr, Kailua-Kona, HI 96740</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1119,
-      "images": [],
+      "images": [
+        {
+          "id": "beach-tree-restaurant-bar-hero",
+          "url": "https://www.fourseasons.com/alt/img-opt/~80.1530.0,0000-211,1225-3000,0000-1687,5000/publish/content/dam/fourseasons/images/web/KON/KON_2994_original.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -6277,13 +6282,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.fourseasons.com/alt/img-opt/~80.1530.0,0000-211,1225-3000,0000-1687,5000/publish/content/dam/fourseasons/images/web/KON/KON_2994_original.jpg",
+      "imageSourceUrl": "https://www.fourseasons.com/hualalai/dining/restaurants/beach_tree/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://www.fourseasons.com/alt/img-opt/~80.1530.0,0000-211,1225-3000,0000-1687,5000/publish/content/dam/fourseasons/images/web/KON/KON_2994_original.jpg",
+      "originalThumbnail": "https://www.fourseasons.com/alt/img-opt/~80.1530.0,0000-211,1225-3000,0000-1687,5000/publish/content/dam/fourseasons/images/web/KON/KON_2994_original.jpg",
+      "thumbnail": "https://www.fourseasons.com/alt/img-opt/~80.1530.0,0000-211,1225-3000,0000-1687,5000/publish/content/dam/fourseasons/images/web/KON/KON_2994_original.jpg",
+      "smallThumbnail": "https://www.fourseasons.com/alt/img-opt/~80.1530.0,0000-211,1225-3000,0000-1687,5000/publish/content/dam/fourseasons/images/web/KON/KON_2994_original.jpg"
     },
     {
       "address": "72-100 Kaʻupulehu Dr, Kailua-Kona, HI 96740",
@@ -6292,7 +6301,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kaupulehu</strong></p><p><strong>72-100 Kaʻupulehu Dr, Kailua-Kona, HI 96740</strong></p></div>",
       "date": "2026-09-19T08:45:00-10:00",
       "id": 1120,
-      "images": [],
+      "images": [
+        {
+          "id": "ulu-ocean-grill-hero",
+          "url": "https://www.fourseasons.com/alt/img-opt/~80.1530.166,6667-0,0000-2666,6667-1500,0000/publish/content/dam/fourseasons/images/web/KON/KON_2973_original.jpg"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -6313,13 +6327,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.fourseasons.com/alt/img-opt/~80.1530.166,6667-0,0000-2666,6667-1500,0000/publish/content/dam/fourseasons/images/web/KON/KON_2973_original.jpg",
+      "imageSourceUrl": "https://www.fourseasons.com/hualalai/dining/restaurants/ulu/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://www.fourseasons.com/alt/img-opt/~80.1530.166,6667-0,0000-2666,6667-1500,0000/publish/content/dam/fourseasons/images/web/KON/KON_2973_original.jpg",
+      "originalThumbnail": "https://www.fourseasons.com/alt/img-opt/~80.1530.166,6667-0,0000-2666,6667-1500,0000/publish/content/dam/fourseasons/images/web/KON/KON_2973_original.jpg",
+      "thumbnail": "https://www.fourseasons.com/alt/img-opt/~80.1530.166,6667-0,0000-2666,6667-1500,0000/publish/content/dam/fourseasons/images/web/KON/KON_2973_original.jpg",
+      "smallThumbnail": "https://www.fourseasons.com/alt/img-opt/~80.1530.166,6667-0,0000-2666,6667-1500,0000/publish/content/dam/fourseasons/images/web/KON/KON_2973_original.jpg"
     },
     {
       "address": "72-100 Kaʻupulehu Dr, Kailua-Kona, HI 96740",
