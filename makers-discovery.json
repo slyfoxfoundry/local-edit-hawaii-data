@@ -980,6 +980,177 @@
       "sourceUrl": "https://pacific19.com/kona/field-notes/big-island-local-artisans-markets-boutiques/",
       "status": "discovered",
       "imageUrl": null
+    },
+    {
+      "name": "2400 Fahrenheit",
+      "category": "Glass Art",
+      "area": "Volcano",
+      "island": "Big Island",
+      "sourceUrl": "https://2400fahrenheit.com/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Da Raku Barn",
+      "category": "Ceramics & Pottery",
+      "area": "Volcano",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "JM Fusions",
+      "category": "Glass Art",
+      "area": "Volcano",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "RYH Pottery",
+      "category": "Ceramics & Pottery",
+      "area": "Volcano",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Volcano Gallery",
+      "category": "Woodwork & Art",
+      "area": "Volcano",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Paradise Meadows Orchard and Bee Farm",
+      "category": "Farm & Food Products",
+      "area": "Nā‘ālehu",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Hawaii's Local Buzz",
+      "category": "Coffee, Honey & Food Products",
+      "area": "Nā‘ālehu",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Miranda's Farms",
+      "category": "Coffee & Farm Products",
+      "area": "Nā‘ālehu",
+      "island": "Big Island",
+      "sourceUrl": "local-business verification",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "John Flynn Jewelry",
+      "category": "Jewelry",
+      "area": "Hāwī",
+      "island": "Big Island",
+      "sourceUrl": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Emily Herb",
+      "category": "Ceramics & Pottery",
+      "area": "North Kohala",
+      "island": "Big Island",
+      "sourceUrl": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Jamie Gilmore",
+      "category": "Art",
+      "area": "North Kohala",
+      "island": "Big Island",
+      "sourceUrl": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Arthur Johnsen",
+      "category": "Art",
+      "area": "North Kohala",
+      "island": "Big Island",
+      "sourceUrl": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Melina Jewelry",
+      "category": "Jewelry",
+      "area": "North Kohala",
+      "island": "Big Island",
+      "sourceUrl": "https://www.bigislandgo.com/elements-jewelry-fine-crafts/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Susan Grant",
+      "category": "Art",
+      "area": "Hāwī",
+      "island": "Big Island",
+      "sourceUrl": "https://kohalamountainnews.com/wp-content/uploads/2024/08/2024-08.pdf",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Arlie Glass",
+      "category": "Glass Art",
+      "area": "Hawaiʻi",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Awaiaulu",
+      "category": "Hawaiian Art & Crafts",
+      "area": "Hawaiʻi",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "KoaMalu Collective",
+      "category": "Woodwork & Hawaiian Crafts",
+      "area": "Hawaiʻi",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Linomelia",
+      "category": "Apparel & Textiles",
+      "area": "Hawaiʻi",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
+      "status": "discovered",
+      "imageUrl": null
+    },
+    {
+      "name": "Princess Kaiulani Fashions",
+      "category": "Apparel & Textiles",
+      "area": "Hawaiʻi",
+      "island": "Big Island",
+      "sourceUrl": "https://bigislandnow.com/2026/04/07/living-celebration-of-hawaiian-art-culture-and-community-official-merrie-monarch-arts-crafts-fair-about-much-more-than-simple-commerce/",
+      "status": "discovered",
+      "imageUrl": null
     }
   ]
 }
