@@ -7572,7 +7572,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Captain Cook</strong></p><p><strong>84-5227 Mamalahoa Hwy, Captain Cook, HI 96704</strong></p></div>",
       "date": "2026-09-19T09:25:00-10:00",
       "id": 1160,
-      "images": [],
+      "images": [
+        {
+          "id": "menehune-coffee-company-hero",
+          "url": "https://www.menehunecoffee.com/wp-content/uploads/2024/04/DSC_0098-Naneki-Naneki-Astronomo.webp"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -7581,8 +7586,8 @@
       "summary": "Established Big Island coffee / breakfast business.",
       "title": "Menehune Coffee Company",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.menehunecoffee.com/",
+      "website": "https://www.menehunecoffee.com/",
       "category": "Eat + Drink",
       "subcategory": "Breakfast & Brunch",
       "placeType": "Breakfast & Brunch",
@@ -7593,13 +7598,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://www.menehunecoffee.com/wp-content/uploads/2024/04/DSC_0098-Naneki-Naneki-Astronomo.webp",
+      "imageSourceUrl": "https://www.menehunecoffee.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-19"
+      "hoursLastVerified": "2026-09-19",
+      "largeThumbnail": "https://www.menehunecoffee.com/wp-content/uploads/2024/04/DSC_0098-Naneki-Naneki-Astronomo.webp",
+      "originalThumbnail": "https://www.menehunecoffee.com/wp-content/uploads/2024/04/DSC_0098-Naneki-Naneki-Astronomo.webp",
+      "thumbnail": "https://www.menehunecoffee.com/wp-content/uploads/2024/04/DSC_0098-Naneki-Naneki-Astronomo.webp",
+      "smallThumbnail": "https://www.menehunecoffee.com/wp-content/uploads/2024/04/DSC_0098-Naneki-Naneki-Astronomo.webp"
     },
     {
       "address": "75-5744 Aliʻi Dr #123, Kailua-Kona, HI 96740",
@@ -17386,7 +17395,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kealakekua</strong></p><p><strong>79-7346 Mamalahoa Hwy, Kealakekua, HI 96750</strong></p></div>",
       "date": "2026-09-20T18:00:00-10:00",
       "id": 1428,
-      "images": [],
+      "images": [
+        {
+          "id": "kona-joe-coffee-hero",
+          "url": "https://cdn.shopify.com/s/files/1/0228/6537/files/joe_big_cup.jpg?v=1681842265"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -17395,8 +17409,8 @@
       "summary": "Established Big Island coffee / cafe business.",
       "title": "Kona Joe Coffee",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.konajoe.com/",
+      "website": "https://www.konajoe.com/",
       "category": "Eat + Drink",
       "subcategory": "Coffee & Cafés",
       "placeType": "Coffee & Cafés",
@@ -17407,13 +17421,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://cdn.shopify.com/s/files/1/0228/6537/files/joe_big_cup.jpg?v=1681842265",
+      "imageSourceUrl": "https://www.konajoe.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-20"
+      "hoursLastVerified": "2026-09-20",
+      "largeThumbnail": "https://cdn.shopify.com/s/files/1/0228/6537/files/joe_big_cup.jpg?v=1681842265",
+      "originalThumbnail": "https://cdn.shopify.com/s/files/1/0228/6537/files/joe_big_cup.jpg?v=1681842265",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0228/6537/files/joe_big_cup.jpg?v=1681842265",
+      "smallThumbnail": "https://cdn.shopify.com/s/files/1/0228/6537/files/joe_big_cup.jpg?v=1681842265"
     },
     {
       "address": "79-7251 Hawaii Belt Rd, Kealakekua, HI 96750",
@@ -17494,7 +17512,12 @@
       "content": "<div class=\"texte\"><p><strong>Eat + Drink · Kailua-Kona</strong></p><p><strong>73-1942 Hao St, Kailua-Kona, HI 96740</strong></p></div>",
       "date": "2026-09-20T18:00:00-10:00",
       "id": 1431,
-      "images": [],
+      "images": [
+        {
+          "id": "mountain-thunder-coffee-plantation-hero",
+          "url": "https://mountainthunder.com/cdn/shop/files/Premium-Kona-Coffee.png?v=1760712952&width=1920"
+        }
+      ],
       "latitude": "",
       "longitude": "",
       "nbcomments": 0,
@@ -17503,8 +17526,8 @@
       "summary": "Established Big Island coffee business.",
       "title": "Mountain Thunder Coffee Plantation",
       "type": "maps",
-      "url": "",
-      "website": "",
+      "url": "https://www.mountainthunder.com/",
+      "website": "https://www.mountainthunder.com/",
       "category": "Eat + Drink",
       "subcategory": "Coffee & Cafés",
       "placeType": "Coffee & Cafés",
@@ -17515,13 +17538,17 @@
       "shop": false,
       "thingsToDo": false,
       "makers": false,
-      "heroImage": "",
-      "imageSourceUrl": "",
-      "imageRights": "Needs review",
+      "heroImage": "https://mountainthunder.com/cdn/shop/files/Premium-Kona-Coffee.png?v=1760712952&width=1920",
+      "imageSourceUrl": "https://www.mountainthunder.com/",
+      "imageRights": "Official business website",
       "featured": false,
       "listingPlan": "basic",
       "hoursStructured": null,
-      "hoursLastVerified": "2026-09-20"
+      "hoursLastVerified": "2026-09-20",
+      "largeThumbnail": "https://mountainthunder.com/cdn/shop/files/Premium-Kona-Coffee.png?v=1760712952&width=1920",
+      "originalThumbnail": "https://mountainthunder.com/cdn/shop/files/Premium-Kona-Coffee.png?v=1760712952&width=1920",
+      "thumbnail": "https://mountainthunder.com/cdn/shop/files/Premium-Kona-Coffee.png?v=1760712952&width=1920",
+      "smallThumbnail": "https://mountainthunder.com/cdn/shop/files/Premium-Kona-Coffee.png?v=1760712952&width=1920"
     },
     {
       "address": "74-5511 Luhia St, Kailua-Kona, HI 96740",
