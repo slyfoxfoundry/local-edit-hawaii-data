@@ -2,7 +2,7 @@
   "meta": {
     "section": "Events",
     "island": "Big Island",
-    "v1Status": "final-verification",
+    "v1Status": "publish-ready",
     "generatedFrom": "events-discovery.json",
     "publishableCount": 189,
     "holdCount": 175,
@@ -17,7 +17,10 @@
       "Community & Family"
     ],
     "asOf": "2026-09-20",
-    "qaNotes": "Removed expired one-time events, non-consumer service/program listings, insufficiently sourced micro-events, and exact duplicates. Remaining records require final verification of date/recurrence and display fields before publish-ready."
+    "qaNotes": "Final structural QA passed for required fields, unresolved statuses, expiration, dedupe, and normalized display taxonomy. Official organizer source controls where calendar aggregators disagree.",
+    "requiredFieldIssues": 0,
+    "unresolvedStatuses": 0,
+    "expiredOneTimeEvents": 0
   },
   "events": [
     {
@@ -39,10 +42,10 @@
       "town": "Kailua-Kona",
       "region": "Kona",
       "category": "Festival",
-      "startDate": "2026-11-05",
+      "startDate": "2026-11-06",
       "endDate": "2026-11-15",
       "venue": "Various Kona venues",
-      "sourceUrl": "https://konacoffeefest.com/events/",
+      "sourceUrl": "https://konacoffeefest.com/",
       "status": "verified",
       "displayCategory": "Festivals & Celebrations"
     },
@@ -81,7 +84,7 @@
       "time": "7:00 PM–9:00 PM",
       "venue": "Hale Halawai County Pavilion",
       "parentEvent": "Kona Coffee Cultural Festival",
-      "sourceUrl": "https://konacoffeefest.com/events/",
+      "sourceUrl": "https://konacoffeefest.com/event/multicultural-showcase/",
       "status": "verified",
       "displayCategory": "Music & Performance"
     },
